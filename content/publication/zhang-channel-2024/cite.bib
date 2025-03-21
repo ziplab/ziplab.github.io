@@ -1,0 +1,13 @@
+@misc{zhang_channel_2024,
+ abstract = {Lately, the practice of utilizing task-specific fine-tuning has been implemented to improve the performance of large language models (LLM) in subsequent tasks. Through the integration of diverse LLMs, the overall competency of LLMs is significantly boosted. Nevertheless, traditional ensemble methods are notably memory-intensive, necessitating the simultaneous loading of all specialized models into GPU memory. To address the inefficiency, model merging strategies have emerged, merging all LLMs into one model to reduce the memory footprint during inference. Despite these advances, model merging often leads to parameter conflicts and performance decline as the number of experts increases. Previous methods to mitigate these conflicts include post-pruning and partial merging. However, both approaches have limitations, particularly in terms of performance and storage efficiency when merged experts increase. To address these challenges, we introduce Channel Merging, a novel strategy designed to minimize parameter conflicts while enhancing storage efficiency. This method clusters and merges channel parameters based on their similarity to form several groups offline. By ensuring that only highly similar parameters are merged within each group, it significantly reduces parameter conflicts. During inference, we can instantly look up the expert parameters from the merged groups, preserving specialized knowledge. Our experiments demonstrate that Channel Merging consistently delivers high performance, matching unmerged models in tasks like English and Chinese reasoning, mathematical reasoning, and code generation. Moreover, it obtains results comparable to model ensemble with just 53% parameters when used with a task-specific router.},
+ author = {Zhang, Mingyang and Liu, Jing and Ding, Ganggui and Yu, Xinyi and Ou, Linlin and Zhuang, Bohan},
+ doi = {10.48550/arXiv.2412.15283},
+ month = {December},
+ note = {arXiv:2412.15283 [cs]},
+ publisher = {arXiv},
+ shorttitle = {Channel Merging},
+ title = {Channel Merging: Preserving Specialization for Merged Experts},
+ url = {http://arxiv.org/abs/2412.15283},
+ urldate = {2025-03-14},
+ year = {2024}
+}

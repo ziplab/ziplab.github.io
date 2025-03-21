@@ -1,0 +1,13 @@
+@misc{liu_focusformer_2022,
+ abstract = {Vision Transformers (ViTs) have underpinned the recent breakthroughs in computer vision. However, designing the architectures of ViTs is laborious and heavily relies on expert knowledge. To automate the design process and incorporate deployment flexibility, one-shot neural architecture search decouples the supernet training and architecture specialization for diverse deployment scenarios. To cope with an enormous number of sub-networks in the supernet, existing methods treat all architectures equally important and randomly sample some of them in each update step during training. During architecture search, these methods focus on finding architectures on the Pareto frontier of performance and resource consumption, which forms a gap between training and deployment. In this paper, we devise a simple yet effective method, called FocusFormer, to bridge such a gap. To this end, we propose to learn an architecture sampler to assign higher sampling probabilities to those architectures on the Pareto frontier under different resource constraints during supernet training, making them sufficiently optimized and hence improving their performance. During specialization, we can directly use the well-trained architecture sampler to obtain accurate architectures satisfying the given resource constraint, which significantly improves the search efficiency. Extensive experiments on CIFAR-100 and ImageNet show that our FocusFormer is able to improve the performance of the searched architectures while significantly reducing the search cost. For example, on ImageNet, our FocusFormer-Ti with 1.4G FLOPs outperforms AutoFormer-Ti by 0.5% in terms of the Top-1 accuracy.},
+ author = {Liu, Jing and Cai, Jianfei and Zhuang, Bohan},
+ doi = {10.48550/arXiv.2208.10861},
+ month = {August},
+ note = {arXiv:2208.10861 [cs]},
+ publisher = {arXiv},
+ shorttitle = {FocusFormer},
+ title = {FocusFormer: Focusing on What We Need via Architecture Sampler},
+ url = {http://arxiv.org/abs/2208.10861},
+ urldate = {2025-03-14},
+ year = {2022}
+}
