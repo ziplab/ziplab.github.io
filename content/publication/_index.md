@@ -9,11 +9,31 @@ banner:
   caption: ''
   image: ''
 ---
+<style>
+  p {
+    line-height: 1.2;
+    margin-bottom: 0.8em;
+  }
 
-- **Neighboring Autoregressive Modeling for Efficient Visual Generation**
+  .title{
+    font-size: 20px;
+    font-weight: bold;
+    display: block;
+  }
 
-Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang
+  .author{
+    font-size: 18px;
+    display: block;
+    white-space: pre;
+  }
 
-- **A survey on efficient training of transformers**
+  .conference{
+    font-size: 18px;
+    display: block;
+    white-space: pre;
+  }
+</style>
 
-Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang
+<span class="title">• Neighboring Autoregressive Modeling for Efficient Visual Generation</span>
+<span class="author">    Yefei He, Yuanyu He, Shaoxuan He, Feng Chen, Hong Zhou, Kaipeng Zhang, Bohan Zhuang</span> 
+<span class="conference">    arXiv</span>
