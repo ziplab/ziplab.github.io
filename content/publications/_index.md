@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Outdate
 
 # Listing view
 view: citation
