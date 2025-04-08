@@ -29,7 +29,7 @@ author_profile: true
 ## Research Assistants
 [Xi Lin](https://github.com/erix025) (Zhejiang University)  
 Shaoxuan He (Zhejiang University)  
-Xiaolong Li (Harbin Institute of Technology)
+Xiaolong Li (Harbin Institute of Technology)  
 Youping Gu (Xidian University)
 
 
