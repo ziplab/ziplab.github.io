@@ -6,11 +6,11 @@ author_profile: true
 
 ## Preprint
 - **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
-Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang# 
+Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#   
 \[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project](https://yuanyu0.github.io/nar/)\]
 
-- **ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**
-Yefei He, Feng Chen, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#
+- **ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**  
+Yefei He, Feng Chen, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/pdf/2412.04062)\]\[[Code](https://github.com/ThisisBillhe/ZipAR)\]
 
 - **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**  
@@ -51,33 +51,33 @@ Mingyang Zhang, Jing Liu, Ganggui Ding, Xinyi Yu, Linlin Ou, Bohan Zhuang#
 
 ## 2024
 
-- **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**
-Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang#
+- **MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**  
+Akide Liu, Jing Liu, Zizheng Pan, Yefei He, Gholamreza Haffari, Bohan Zhuang#  
 \[[Paper](https://openreview.net/forum?id=sgVOjDqUMT)\]   **NeurIPS 2024**
 
 
-- **ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification**
-Yefei He, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang#
+- **ZipCache: Accurate and Efficient KV Cache Quantization with Salient Token Identification**  
+Yefei He, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang#  
 \[[Paper](https://openreview.net/forum?id=5t4ZAkPiJs)\]   **NeurIPS 2024**
 
 
-- **MVSplat360: Feed Forward 360° Scene Synthesis from Sparse Views**
-Yuedong Chen, Chuanxia Zheng, Haofei Xu, Bohan Zhuang, Andrea Vedaldi, Tat-Jen Cham, Jianfei Cai 
+- **MVSplat360: Feed Forward 360° Scene Synthesis from Sparse Views**  
+Yuedong Chen, Chuanxia Zheng, Haofei Xu, Bohan Zhuang, Andrea Vedaldi, Tat-Jen Cham, Jianfei Cai   
 \[[Paper](https://openreview.net/forum?id=B0OWOkMwhz)\]   **NeurIPS 2024**
 
 
-- **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**
-Jing Liu, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang#
+- **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**  
+Jing Liu, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang#  
 \[[Paper](https://openreview.net/forum?id=FIplmUWdm3)\]   **ICLR 2024**
 
 
-- **Object-Aware Inversion and Reassembly for Image Editing**  
-Zhen Yang, Ganggui Ding, Wen Wang, Hao Chen#, Bohan Zhuang#, Chunhua Shen  
+- **Object-Aware Inversion and Reassembly for Image Editing**    
+Zhen Yang, Ganggui Ding, Wen Wang, Hao Chen#, Bohan Zhuang#, Chunhua Shen    
 \[[Paper](https://openreview.net/forum?id=dpcVXiMlcv)\] **ICLR 2024**
 
 
-- **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**
-Hefei He, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang# 
+- **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**  
+Hefei He, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang#   
 \[[Paper](https://openreview.net/forum?id=UmMa3UNDAz)\]  **ICLR 2024** **(**<font color="red"><b>Spotlight</b></font>**)**  
 
 
@@ -135,7 +135,7 @@ Yuetian Weng, Mingfei Han, Haoyu He, Mingjie Li, Xiaojun Chang, Bohan Zhuang#
 Zeshuai Deng, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang#, Mingkui Tan#  
 \[[Paper](https://openreview.net/forum?id=IZRlMABK4l)\] **NeurIPS 2023**
 
- **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning**  
+- **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning**  
 Haoyu He, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang#  
 \[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Sensitivity-Aware_Visual_Parameter-Efficient_Fine-Tuning_ICCV_2023_paper.pdf)\] **ICCV 2023** **(**<font color="red"><b>Oral</b></font>**)**  
 
@@ -192,19 +192,19 @@ Bohan Zhuang, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid
 
 ## 2021
 
-- **Mesa: A Memory-saving Training Framework for Transformers**
-Zizheng Pan, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang#
+- **Mesa: A Memory-saving Training Framework for Transformers**  
+Zizheng Pan, Peng Chen, Haoyu He, Jing Liu, Jianfei Cai, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/pdf/2111.11124)\]\[[Code](https://github.com/ziplab/Mesa)\]
 
 
-- **Sharpness-aware Quantization for Deep Neural Networks**
-Jing Liu, Jianfei Cai, Bohan Zhuang#
+- **Sharpness-aware Quantization for Deep Neural Networks**  
+Jing Liu, Jianfei Cai, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/pdf/2111.12273)\]
 
 
 - **Scalable Visual Transformers with Hierarchical Pooling**  
 Zizheng Pan, Bohan Zhuang#, Jing Liu, Haoyu He, Jianfei Cai  
-\[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Scalable_Vision_Transformers_With_Hierarchical_Pooling_ICCV_2021_paper.pdf\] **ICCV 2021**
+\[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Scalable_Vision_Transformers_With_Hierarchical_Pooling_ICCV_2021_paper.pdf)\] **ICCV 2021**
 
 
 - **FATNN: Fast and Accurate Ternary Neural Networks**  
