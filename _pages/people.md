@@ -22,12 +22,14 @@ author_profile: true
 [Jiahao He](https://github.com/Hygge02) (MS @ Zhejiang University, 2024-)  
 [Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University, 2025-)
 
-## Research Fellows & Collaborators
-[Zhiwei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en)
+## Research Fellows
+[Zhiwei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) (DAMO Academy & Zhejiang University)
 
 
-## Visiting Students
+## Research Assistants
 [Xi Lin](https://github.com/erix025) (Zhejiang University)  
 Shaoxuan He (Zhejiang University)  
 Xiaolong Li (Harbin Institute of Technology)
 Youping Gu (Xidian University)
+
+
