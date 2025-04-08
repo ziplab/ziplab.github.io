@@ -1,0 +1,645 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ZIP Lab 研究实习生招募</title>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+        
+        :root {
+            --primary-color: #0353a4;
+            --primary-dark: #023e7d;
+            --primary-light: #0077b6;
+            --primary-lighter: #48cae4;
+            --bg-color: #f8fafd;
+            --text-color: #334e68;
+            --text-light: #486581;
+            --border-radius: 16px;
+            --transition-speed: 0.3s;
+        }
+        
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: "Poppins", "Microsoft YaHei", "Segoe UI", sans-serif;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #f0f4f8 0%, #d9e2ec 100%);
+            padding: 40px 20px;
+            color: var(--text-color);
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: white;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.12);
+            border-radius: var(--border-radius);
+            overflow: hidden;
+            position: relative;
+            transition: transform 0.3s ease-in-out;
+        }
+        
+        .container:hover {
+            transform: translateY(-5px);
+        }
+        
+        .container::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 6px;
+            background: linear-gradient(90deg, #0466c8, #0353a4, #023e7d, #0077b6);
+            z-index: 10;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #0353a4 0%, #0077b6 100%);
+            color: white;
+            padding: 50px 30px;
+            text-align: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .header::after, .header::before {
+            content: "";
+            position: absolute;
+            border-radius: 50%;
+            opacity: 0.1;
+            background-color: white;
+        }
+        
+        .header::after {
+            height: 300px;
+            width: 300px;
+            right: -100px;
+            bottom: -150px;
+        }
+        
+        .header::before {
+            height: 200px;
+            width: 200px;
+            left: -50px;
+            top: -50px;
+        }
+        
+        .header h1 {
+            font-size: 32px;
+            margin-bottom: 15px;
+            line-height: 1.4;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+            letter-spacing: 1px;
+            position: relative;
+            z-index: 2;
+        }
+        
+        .header h2 {
+            font-size: 22px;
+            font-weight: 500;
+            opacity: 0.95;
+            background: rgba(255, 255, 255, 0.15);
+            display: inline-block;
+            padding: 8px 20px;
+            border-radius: 30px;
+            margin-top: 10px;
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+            backdrop-filter: blur(5px);
+            position: relative;
+            z-index: 2;
+        }
+        
+        .section {
+            padding: 40px 35px;
+            border-bottom: 1px solid #e4ebf5;
+            position: relative;
+            z-index: 1;
+            transition: all var(--transition-speed);
+            background-color: white;
+        }
+        
+        .section:hover {
+            background-color: #fafbfd;
+        }
+        
+        .section:last-child {
+            border-bottom: none;
+        }
+        
+        .section-title {
+            color: var(--primary-color);
+            font-size: 24px;
+            margin-bottom: 25px;
+            display: flex;
+            align-items: center;
+            position: relative;
+            padding-bottom: 12px;
+        }
+        
+        .section-title::after {
+            content: "";
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            width: 60px;
+            height: 3px;
+            background: linear-gradient(90deg, var(--primary-color), var(--primary-light));
+            border-radius: 3px;
+        }
+        
+        .section-title i {
+            margin-right: 12px;
+            font-size: 26px;
+            background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .category-title {
+            margin-top: 30px;
+            color: var(--primary-color);
+            font-size: 22px;
+            padding-left: 15px;
+            border-left: 4px solid;
+            margin-bottom: 20px;
+            display: flex;
+            align-items: center;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .category-title::after {
+            content: "";
+            position: absolute;
+            height: 1px;
+            background-color: rgba(3, 83, 164, 0.2);
+            width: 100%;
+            margin-left: 15px;
+        }
+        
+        .category-title i {
+            margin-right: 10px;
+            font-size: 20px;
+        }
+        
+        .system-category {
+            border-color: var(--primary-dark);
+        }
+        
+        .algorithm-category {
+            border-color: var(--primary-light);
+        }
+        
+        .project {
+            background-color: #f8fafc;
+            border-left: 5px solid;
+            padding: 22px 25px;
+            margin: 22px 0;
+            border-radius: 0 8px 8px 0;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.04);
+            transition: all var(--transition-speed);
+            position: relative;
+            overflow: hidden;
+            backdrop-filter: blur(5px);
+        }
+        
+        .project:hover {
+            transform: translateX(5px) translateY(-3px);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.06);
+        }
+        
+        .project::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            right: 0;
+            width: 100px;
+            height: 100%;
+            background: linear-gradient(90deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.7) 100%);
+            opacity: 0;
+            transition: opacity var(--transition-speed);
+        }
+        
+        .project:hover::before {
+            opacity: 1;
+        }
+        
+        .system-project-1 {
+            border-color: var(--primary-dark);
+            background: linear-gradient(to right, rgba(2, 62, 125, 0.05), rgba(255, 255, 255, 0.5));
+        }
+        
+        .system-project-2 {
+            border-color: var(--primary-color);
+            background: linear-gradient(to right, rgba(3, 83, 164, 0.05), rgba(255, 255, 255, 0.5));
+        }
+        
+        .project-vlm {
+            border-color: var(--primary-light);
+            background: linear-gradient(to right, rgba(0, 119, 182, 0.05), rgba(255, 255, 255, 0.5));
+        }
+        
+        .project-rl {
+            border-color: #0096c7;
+            background: linear-gradient(to right, rgba(0, 150, 199, 0.05), rgba(255, 255, 255, 0.5));
+        }
+        
+        .project-3d {
+            border-color: var(--primary-lighter);
+            background: linear-gradient(to right, rgba(72, 202, 228, 0.05), rgba(255, 255, 255, 0.5));
+        }
+        
+        .project h3 {
+            color: var(--primary-color);
+            margin-bottom: 12px;
+            font-size: 20px;
+            display: flex;
+            align-items: center;
+            position: relative;
+        }
+        
+        .project h3 i {
+            margin-right: 10px;
+            font-size: 22px;
+            opacity: 0.9;
+            width: 28px;
+            height: 28px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: rgba(3, 83, 164, 0.1);
+            border-radius: 50%;
+            padding: 5px;
+        }
+        
+        .system-project-1 h3 i {
+            color: var(--primary-dark);
+        }
+        
+        .system-project-2 h3 i {
+            color: var(--primary-color);
+        }
+        
+        .project-vlm h3 i {
+            color: var(--primary-light);
+        }
+        
+        .project-rl h3 i {
+            color: #0096c7;
+        }
+        
+        .project-3d h3 i {
+            color: var(--primary-lighter);
+        }
+        
+        .project p {
+            color: var(--text-light);
+            line-height: 1.8;
+            position: relative;
+            z-index: 1;
+        }
+        
+        ul {
+            padding-left: 20px;
+            margin: 20px 0;
+            list-style-type: none;
+        }
+        
+        ul li {
+            margin-bottom: 15px;
+            position: relative;
+            padding-left: 28px;
+            color: var(--text-color);
+        }
+        
+        ul li::before {
+            content: "•";
+            color: var(--primary-color);
+            font-weight: bold;
+            font-size: 22px;
+            position: absolute;
+            left: 0;
+            top: -2px;
+        }
+        
+        .requirements li::before {
+            content: "\f00c";
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            color: var(--primary-color);
+            font-size: 16px;
+            background: rgba(3, 83, 164, 0.1);
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            top: 3px;
+        }
+        
+        .benefits li::before {
+            content: "\f005";
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            color: var(--primary-color);
+            font-size: 14px;
+            background: rgba(3, 83, 164, 0.1);
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            top: 3px;
+        }
+        
+        .contact {
+            background: linear-gradient(135deg, #f0f7ff 0%, #e6f0fd 100%);
+            padding: 40px 30px;
+            text-align: center;
+            font-size: 18px;
+            border-radius: 0 0 var(--border-radius) var(--border-radius);
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .contact::before, .contact::after {
+            content: "";
+            position: absolute;
+            border-radius: 50%;
+            background-color: rgba(3, 83, 164, 0.05);
+            z-index: 0;
+        }
+        
+        .contact::before {
+            width: 200px;
+            height: 200px;
+            top: -100px;
+            left: -50px;
+        }
+        
+        .contact::after {
+            width: 150px;
+            height: 150px;
+            bottom: -50px;
+            right: -50px;
+        }
+        
+        .contact-title {
+            font-size: 26px;
+            color: var(--primary-color);
+            margin-bottom: 25px;
+            display: inline-block;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .contact-title::after {
+            content: "";
+            position: absolute;
+            bottom: -8px;
+            left: 10%;
+            width: 80%;
+            height: 2px;
+            background: linear-gradient(90deg, transparent, var(--primary-color), transparent);
+        }
+        
+        .contact p {
+            margin-bottom: 15px;
+            position: relative;
+            z-index: 1;
+        }
+        
+        .contact-email {
+            display: inline-flex;
+            align-items: center;
+            background-color: white;
+            padding: 12px 25px;
+            border-radius: 50px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+            margin: 20px 0;
+            color: var(--primary-color);
+            font-weight: bold;
+            transition: all var(--transition-speed);
+            position: relative;
+            z-index: 1;
+        }
+        
+        .contact-email:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 12px 20px rgba(0, 0, 0, 0.1);
+        }
+        
+        .contact-email i {
+            margin-right: 10px;
+            font-size: 20px;
+            background: linear-gradient(135deg, var(--primary-color), var(--primary-light));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        
+        .highlight {
+            background: linear-gradient(120deg, rgba(4, 102, 200, 0.12) 0%, rgba(2, 62, 125, 0.12) 100%);
+            color: var(--primary-color);
+            padding: 3px 8px;
+            border-radius: 4px;
+            font-weight: 600;
+            display: inline-block;
+            margin: 0 2px;
+            transition: all var(--transition-speed);
+        }
+        
+        .highlight:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        
+        .lab-link {
+            color: var(--primary-light);
+            text-decoration: none;
+            font-weight: bold;
+            border-bottom: 2px solid rgba(0, 119, 182, 0.3);
+            padding-bottom: 2px;
+            transition: all var(--transition-speed);
+            position: relative;
+            z-index: 1;
+        }
+        
+        .lab-link:hover {
+            color: var(--primary-color);
+            border-bottom-color: var(--primary-color);
+        }
+        
+        .instructions {
+            background-color: white;
+            border: 1px dashed var(--primary-color);
+            border-radius: 12px;
+            padding: 20px 25px;
+            margin-top: 25px;
+            position: relative;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.05);
+            z-index: 1;
+        }
+        
+        .instructions::before {
+            content: "\f0e0";
+            font-family: "Font Awesome 6 Free";
+            font-weight: 900;
+            position: absolute;
+            top: -15px;
+            left: 25px;
+            background-color: white;
+            color: var(--primary-color);
+            padding: 0 15px;
+            font-size: 18px;
+        }
+        
+        .instructions p {
+            margin-bottom: 10px;
+        }
+        
+        .instructions p:last-child {
+            margin-bottom: 0;
+        }
+        
+        .instructions strong {
+            color: var(--primary-color);
+        }
+        
+        /* Animations */
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        
+        .container {
+            animation: fadeIn 0.5s ease-out forwards;
+        }
+        
+        .project {
+            animation: fadeIn 0.5s ease-out forwards;
+            animation-delay: calc(var(--i, 0) * 0.1s);
+        }
+        
+        /* Responsive Design */
+        @media (max-width: 768px) {
+            .header h1 {
+                font-size: 24px;
+            }
+            
+            .header h2 {
+                font-size: 18px;
+                padding: 6px 15px;
+            }
+            
+            .section {
+                padding: 30px 20px;
+            }
+            
+            .project {
+                padding: 18px 20px;
+            }
+            
+            .category-title {
+                font-size: 20px;
+            }
+            
+            .project h3 {
+                font-size: 18px;
+            }
+            
+            .contact-title {
+                font-size: 22px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>科研实习生 - 浙江大学 CAD & CG 国家重点实验室</h1>
+            <h2>ZIP Lab 招生：系统侧和算法侧</h2>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-users"></i>我们是谁</h2>
+            <p>ZIP Lab 隶属于浙江大学 CAD & CG 国家重点实验室。我们的主要研究方向是为高效的机器学习/大模型系统，尤其专注于大语言模型和多模态大模型的研究。</p>
+            <p>如需了解我们的团队和发表的论文，欢迎访问我们的网站：<a href="https://ziplab.co/" class="lab-link" target="_blank">https://ziplab.co/</a></p>
+            <p>Target CV/ML 顶会科研发表：<span class="highlight">ICLR</span> <span class="highlight">ICML</span> <span class="highlight">NIPS</span> <span class="highlight">CVPR</span> <span class="highlight">ICCV</span> <span class="highlight">ECCV</span> 等等。</p>
+            <p>我们正在招收对实验室相关研究方向感兴趣的高年级本科生和研究生/gap 期间在本校导师允许的情况也可以参加。</p>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-search"></i>我们需要你</h2>
+            <ul class="requirements">
+                <li>认真踏实，积极诚实</li>
+                <li>熟悉 Python/PyTorch/Linux 使用</li>
+                <li>掌握深度学习/VIT/LLM 等基础知识</li>
+                <li>线上线下(杭州)均可</li>
+            </ul>
+            <p>我们提供以下项目可选，也欢迎同学提出自己的idea和我们共同讨论。</p>
+            
+            <h3 class="category-title system-category">
+                <i class="fas fa-server"></i>系统侧课题
+            </h3>
+            
+            <div class="project system-project-1" style="--i:0">
+                <h3><i class="fas fa-microchip"></i>课题一：System Efficiency 相关课题</h3>
+                <p>需要同学对大模型算法和系统有深入理解，熟悉大模型训练和推理优化技术，了解分布式计算和模型压缩方法，对提升模型效率和性能有研究兴趣，有相关发表经验的优先。</p>
+            </div>
+
+            <div class="project system-project-2" style="--i:1">
+                <h3><i class="fas fa-cogs"></i>课题二：Kernel Optimization 相关课题</h3>
+                <p>需要同学对计算机系统和算子编写有基本了解，熟悉深度学习框架中的算子机制，能够测试和优化现有算子，并有兴趣开发新的高效算子实现，有相关经验的优先。</p>
+            </div>
+            
+            <h3 class="category-title algorithm-category">
+                <i class="fas fa-brain"></i>算法侧课题
+            </h3>
+            
+            <div class="project project-vlm" style="--i:2">
+                <h3><i class="fas fa-eye"></i>课题三：VLM相关的课题</h3>
+                <p>需要同学对多模态生成和理解有对应了解和基础，了解基本发展史和熟练使用对于的开源大模型，比如Qwen VL，Janus，LLaVA-OneVision 等等，有相关发表经验的优先。</p>
+            </div>
+            
+            <div class="project project-rl" style="--i:3">
+                <h3><i class="fas fa-robot"></i>课题四：RL相关课题</h3>
+                <p>需要同学对强化学习相关算法有一定的了解和基础，了解强化学习基本算法和对应实现，比如Policy Gradients, Reinforce, PPO, GRPO 等等，有相关发表经验的优先。</p>
+            </div>
+            
+            <div class="project project-3d" style="--i:4">
+                <h3><i class="fas fa-cube"></i>课题五：3D 大模型相关</h3>
+                <p>需要同学有一定的3D 基础，了解3D相关知识比如3D场景生成和理解，Gaussian Splitting 场景重建，对3D 大模型有对应的了解，有相关发表经验的优先。</p>
+            </div>
+        </div>
+
+        <div class="section">
+            <h2 class="section-title"><i class="fas fa-gift"></i>我们能提供</h2>
+            <ul class="benefits">
+                <li>实验室有成体系的科研培养方案，有导师与已有丰富科研经验的博士生共同指导。参与具体项目的同学会有每周 Meeting 用于交流。</li>
+                <li>实验室与大厂联系极为密切，有优越的科研环境和相关项目，提供充足的算力。</li>
+                <li>实验室硕士/博士名额会优先考虑实习期间表现优秀的同学。此外，我们也可以为表现优异的学生提供升学的推荐信。</li>
+                <li>实验室对参与具体项目的同学有极具竞争力的补贴，优秀同学会有额外奖励。</li>
+            </ul>
+        </div>
+
+        <div class="contact">
+            <h3 class="contact-title">联系方式</h3>
+            <p class="contact-email"><i class="fas fa-envelope"></i>zip.lab@outlook.com</p>
+            <div class="instructions">
+                <p>邮件标题注明 "<strong>实习生-院校-年级-姓名-对应的项目(3D / VLM / RL)</strong>"</p>
+                <p>请附上含成绩/排名等信息的简历</p>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
