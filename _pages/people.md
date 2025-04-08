@@ -23,7 +23,7 @@ author_profile: true
 [Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University, 2025-)
 
 ## Research Fellows & Collaborators
-[ZhiWei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en)
+[Zhiwei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en)
 
 
 ## Visiting Students
