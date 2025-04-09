@@ -28,8 +28,9 @@ author_profile: true
 
 ## Research Assistants
 [Xi Lin](https://github.com/erix025) (Zhejiang University)  
-Shaoxuan He (Zhejiang University)  
-Xiaolong Li (Harbin Institute of Technology)  
+[Shaoxuan He](https://openreview.net/profile?id=~Shaoxuan_He1) (Zhejiang University)    
+[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (ANU)   
+Xiaolong Li (Harbin Institute of Technology)    
 Youping Gu (Xidian University)
 
 
