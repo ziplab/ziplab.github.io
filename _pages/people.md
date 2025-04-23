@@ -10,7 +10,7 @@ author_profile: true
 [Zizheng Pan](https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ DeepSeek**   
 [Jing Liu](https://scholar.google.com/citations?user=-lHaZH4AAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist (Top Seed) @ ByteDance USA**  
 [Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Tiktok Sydney**   
-[Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Seeing Machines**  
+[Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Seeing Machines Australia**  
 [Yuedong Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance Singapore**
 
 ## PhD & Master Students
