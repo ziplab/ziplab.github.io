@@ -29,6 +29,10 @@ Zhuokun Chen, Jinwu Hu, Zeshuai Deng, Yufeng Wang, Bohan Zhuang#, Mingkui Tan#
 Feng Chen, Chenhui Gou, Jing Liu, Yang Yang, Zhaoyang Li, Jiyuan Zhang, Zhenbang Sun, Bohan Zhuang, Qi Wu  
 \[[Paper](https://arxiv.org/pdf/2403.18613)\]
 
+- **Motion Anything: Any to Motion Generation**  
+Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
+\[[Paper](https://arxiv.org/abs/2503.06955)\]
+
 
 
 
