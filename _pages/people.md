@@ -18,6 +18,7 @@ author_profile: true
 [Feng Chen](https://github.com/Chenfeng1271) (PhD @ The University of Adelaide, 2023-)  
 [Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University, 2023-)  
 [Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University, 2024-)  
+[Zhuokun Chen]() (PhD @ Monash University, 2025-)  
 [Weijie Wang](https://lhmd.top/) (PhD @ Zhejiang University, 2025-)  
 [Jiahao He](https://github.com/Hygge02) (MS @ Zhejiang University, 2024-)  
 [Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University, 2025-)
