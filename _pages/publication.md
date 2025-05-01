@@ -9,9 +9,6 @@ author_profile: true
 Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#   
 \[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project](https://yuanyu0.github.io/nar/)\]
 
-- **ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**  
-Yefei He, Feng Chen, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#  
-\[[Paper](https://arxiv.org/pdf/2412.04062)\]\[[Code](https://github.com/ThisisBillhe/ZipAR)\]
 
 - **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**  
 Yefei He, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
@@ -37,6 +34,10 @@ Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Boha
 
 
 ## 2025
+
+- **ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**  
+Yefei He, Feng Chen, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang
+\[[Paper](https://arxiv.org/pdf/2412.04062)\]\[[Code](https://github.com/ThisisBillhe/ZipAR)\]  **ICML 2025**
 
 - **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**  
 Zizheng Pan, Bohan Zhuang#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar  
