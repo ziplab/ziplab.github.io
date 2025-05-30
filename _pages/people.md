@@ -13,23 +13,22 @@ author_profile: true
 [Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Seeing Machines Australia**  
 [Yuedong Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance Singapore**
 
-## PhD & Master Students
+## Graduate Students
 [Yefei He](https://hexy.tech/publication/) (PhD @ Zhejiang University, 2021-)  
-[Feng Chen](https://github.com/Chenfeng1271) (PhD @ The University of Adelaide, 2023-)  
-[Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University, 2023-)  
-[Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University, 2024-)  
-[Zhuokun Chen]() (PhD @ Monash University, 2025-)  
 [Weijie Wang](https://lhmd.top/) (PhD @ Zhejiang University, 2025-)  
 [Jiahao He](https://github.com/Hygge02) (MS @ Zhejiang University, 2024-)  
 [Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University, 2025-)
+[Feng Chen](https://github.com/Chenfeng1271) (PhD @ The University of Adelaide, 2023-)  
+[Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University, 2023-)  
+[Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University, 2024-)  
+[Zhuokun Chen](https://openreview.net/profile?id=%7EZhuokun_Chen4) (PhD @ Monash University, 2025-)  
 
 ## Research Fellows
 [Zhiwei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) (DAMO Academy & Zhejiang University)
 
 
 ## Research Assistants
-[Xi Lin](https://github.com/erix025) (Zhejiang University)  
-[Shaoxuan He](https://openreview.net/profile?id=~Shaoxuan_He1) (Zhejiang University)    
+[Xi Lin](https://github.com/erix025) (Zhejiang University)    
 [Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (ANU)   
 Xiaolong Li (Harbin Institute of Technology)    
 Youping Gu (Xidian University)
