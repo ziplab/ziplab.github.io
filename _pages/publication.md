@@ -39,7 +39,7 @@ Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Boha
 
 ## 2025
 
-- **ZipAR: Accelerating Autoregressive Image Generation through Spatial Locality**  
+- **ZipAR: Parallel Autoregressive Image Generation through Spatial Locality**  
 Yefei He, Feng Chen, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/pdf/2412.04062)\]\[[Code](https://github.com/ThisisBillhe/ZipAR)\]  **ICML 2025**
 
