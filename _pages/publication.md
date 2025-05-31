@@ -5,10 +5,14 @@ author_profile: true
 (Selected Publications. * equal contribution, # corresponding author)
 
 ## Preprint
+
+- **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**  
+Weijie Wang#, Donny Y. Chen#, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project](https://lhmd.top/zpressor/)\]  
+
 - **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
 Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#   
-\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project](https://yuanyu0.github.io/nar/)\]
-
+\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project](https://yuanyu0.github.io/nar/)\]  
 
 - **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**  
 Yefei He, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
