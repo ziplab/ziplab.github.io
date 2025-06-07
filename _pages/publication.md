@@ -7,7 +7,7 @@ author_profile: true
 ## Preprint
 
 - **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**  
-Akide Liu*, Zeyu Zhang*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yuanjie Xing, Jichao Wu, Mingyang Yang, Weihua Chen, Jiahao He, Yuanyu He, Fan Wang#, Gholamreza Haffari, Bohan Zhuang#
+Akide Liu*, Zeyu Zhang*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yuanjie Xing, Jichao Wu, Mingyang Yang, Weihua Chen, Jiahao He, Yuanyu He, Fan Wang#, Gholamreza Haffari, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2506.04648)\]\[[Project](https://fps.ziplab.co)\]  
 
 - **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**  
