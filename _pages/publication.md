@@ -45,7 +45,7 @@ Yefei He, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuan
 \[[Paper](https://arxiv.org/abs/2410.08584)\]  **ICCV 2025**
 
 
-- **Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis**
+- **Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis**  
 Zhuokun Chen, Jugang Fan, Zhuowei Yu, Bohan Zhuang#, Mingkui Tan#  
 \[[Paper]()\]\[[Code]()\]  **ICCV 2025**
 
