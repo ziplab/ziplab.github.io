@@ -14,14 +14,6 @@ Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yua
 Weijie Wang#, Donny Y. Chen#, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project](https://lhmd.top/zpressor/)\]  
 
-- **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
-Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#   
-\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project](https://yuanyu0.github.io/nar/)\]  
-
-- **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**  
-Yefei He, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2410.08584)\]
-
 - **ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**  
 Jing Liu, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/pdf/2402.14758)\]
@@ -43,9 +35,25 @@ Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Boha
 
 ## 2025
 
+- **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
+Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#   
+\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project](https://yuanyu0.github.io/nar/)\]  **ICCV 2025**
+
+
+- **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**  
+Yefei He, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2410.08584)\]  **ICCV 2025**
+
+
+- **Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis**
+Zhuokun Chen, Jugang Fan, Zhuowei Yu, Bohan Zhuang#, Mingkui Tan#  
+\[[Paper]()\]\[[Code]()\]  **ICCV 2025**
+
+
 - **ZipAR: Parallel Autoregressive Image Generation through Spatial Locality**  
 Yefei He, Feng Chen, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/pdf/2412.04062)\]\[[Code](https://github.com/ThisisBillhe/ZipAR)\]  **ICML 2025**
+
 
 - **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**  
 Zizheng Pan, Bohan Zhuang#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar  
