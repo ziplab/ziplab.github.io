@@ -21,7 +21,7 @@ author_profile: true
 [Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University, 2023-)    
 [Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University, 2024-)  
 [Zhuokun Chen](https://openreview.net/profile?id=%7EZhuokun_Chen4) (PhD @ Monash University, 2025-)  
-[Feng Chen](https://github.com/Chenfeng1271) (PhD @ The University of Adelaide, 2023-)  
+
 
 ## Research Fellows
 [Zhiwei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) (DAMO Academy & Zhejiang University)
