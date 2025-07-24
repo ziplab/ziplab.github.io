@@ -6,6 +6,10 @@ author_profile: true
 
 ## Preprint
 
+- **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
+Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
+\[[Paper](https://arxiv.org/abs/2507.17307)\]
+
 - **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**  
 Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yuanjie Xing, Jichao Wu, Mingyang Yang, Weihua Chen, Jiahao He, Yuanyu He, Fan Wang#, Gholamreza Haffari, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2506.04648)\]\[[Project](https://fps.ziplab.co)\]  
@@ -14,22 +18,9 @@ Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yua
 Weijie Wang#, Donny Y. Chen#, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project](https://lhmd.top/zpressor/)\]  
 
-- **ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**  
-Jing Liu, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang#  
-\[[Paper](https://arxiv.org/pdf/2402.14758)\]
-
-- **Enhancing Perception Capabilities of Multimodal LLMs with Training-Free Fusion**  
-Zhuokun Chen, Jinwu Hu, Zeshuai Deng, Yufeng Wang, Bohan Zhuang#, Mingkui Tan#  
-\[[Paper](https://arxiv.org/pdf/2403.18716)\]
-
-- **Evaluating and Advancing Multimodal Large Language Models in Ability Lens**  
-Feng Chen, Chenhui Gou, Jing Liu, Yang Yang, Zhaoyang Li, Jiyuan Zhang, Zhenbang Sun, Bohan Zhuang, Qi Wu  
-\[[Paper](https://arxiv.org/pdf/2403.18613)\]
-
 - **Motion Anything: Any to Motion Generation**  
 Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
 \[[Paper](https://arxiv.org/abs/2503.06955)\]
-
 
 
 
@@ -137,6 +128,19 @@ Mingyang Zhang, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zh
 - **SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation**  
 Guoan Wang*, Jin Ye*, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Junjun He, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2407.04938)\] **MICCAI 2024**
+
+- **ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**  
+Jing Liu, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang#  
+\[[Paper](https://arxiv.org/pdf/2402.14758)\]
+
+- **Enhancing Perception Capabilities of Multimodal LLMs with Training-Free Fusion**  
+Zhuokun Chen, Jinwu Hu, Zeshuai Deng, Yufeng Wang, Bohan Zhuang#, Mingkui Tan#  
+\[[Paper](https://arxiv.org/pdf/2403.18716)\]
+
+- **Evaluating and Advancing Multimodal Large Language Models in Ability Lens**  
+Feng Chen, Chenhui Gou, Jing Liu, Yang Yang, Zhaoyang Li, Jiyuan Zhang, Zhenbang Sun, Bohan Zhuang, Qi Wu  
+\[[Paper](https://arxiv.org/pdf/2403.18613)\]
+
 
 
 ## 2023
