@@ -19,7 +19,7 @@ Weijie Wang#, Donny Y. Chen#, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang
 \[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project](https://lhmd.top/zpressor/)\]
 
 - **Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
-Youping Gu*, Xiaolong Li*, Yuhao Hu, Bohan Zhuang  
+Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2508.10774)\]\[[Project](https://ziplab.co/BLADE-Homepage/)\]
 
 - **Motion Anything: Any to Motion Generation**  
