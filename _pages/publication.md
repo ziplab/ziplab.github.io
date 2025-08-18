@@ -16,7 +16,11 @@ Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yua
 
 - **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**  
 Weijie Wang#, Donny Y. Chen#, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project](https://lhmd.top/zpressor/)\]  
+\[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project](https://lhmd.top/zpressor/)\]
+
+- **Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
+Youping Gu*, Xiaolong Li*, Yuhao Hu, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2508.10774)\]\[[Project](https://ziplab.co/BLADE-Homepage/)\]
 
 - **Motion Anything: Any to Motion Generation**  
 Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
