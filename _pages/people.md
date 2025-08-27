@@ -19,10 +19,13 @@ author_profile: true
 [Weijie Wang](https://lhmd.top/) (PhD @ Zhejiang University, 2025-)  
 [Jiahao He](https://github.com/Hygge02) (MS @ Zhejiang University, 2024-)  
 [Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University, 2025-)  
+[Xi Lin](https://github.com/erix025) (PhD @ Zhejiang University, 2026-)  
+[Xiaolong Li]() (MS @ Zhejiang University, 2026-)  
+[Youping Gu]() (MS @ Zhejiang University, 2026-)  
 [Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University, 2023-)    
+[Feng Chen](https://github.com/Chenfeng1271) (PhD @ Adelaide University, 2023-)  
 [Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University, 2024-)  
 [Zhuokun Chen](https://openreview.net/profile?id=%7EZhuokun_Chen4) (PhD @ Monash University, 2025-)  
-[Feng Chen](https://github.com/Chenfeng1271) (PhD @ Adelaide University, 2023-)  
 
 
 ## Research Fellows
@@ -30,12 +33,12 @@ author_profile: true
 [Wen Qian](https://scholar.google.com/citations?user=rD_U0fMAAAAJ&hl=zh-CN) (DAMO Academy & Zhejiang University)
 
 
-
 ## Research Assistants
-[Xi Lin](https://github.com/erix025) (Zhejiang University)    
-[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (ANU)   
-Xiaolong Li (Harbin Institute of Technology)    
-Youping Gu (Xidian University)
+  
+[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (ANU)    
+[Jiamin Song]()  (Zhejiang University)  
+
+
 
 
 
