@@ -11,4 +11,4 @@ redirect_from:
 
 Welcome to ZIP Lab!
 
-Our lab’s primary research focus is on developing efficient machine learning systems for edge applications, particularly in the areas of large language models and multimodal large models.
+Our lab pioneers next-generation efficient AI computing, specializing in large language models and multimodal foundation models.
