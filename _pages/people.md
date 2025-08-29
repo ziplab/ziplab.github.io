@@ -4,9 +4,9 @@ title : "Lab Members"
 author_profile: true
 ---
 ## PI
-[Dr. Bohan Zhuang](https://bohanzhuang.github.io/)
+[Bohan Zhuang](https://bohanzhuang.github.io/)
 
-## Co-PI (Former PhDs)
+## Former PhDs
 [Zizheng Pan](https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ DeepSeek**   
 [Jing Liu](https://scholar.google.com/citations?user=-lHaZH4AAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist (Top Seed) @ ByteDance USA**  
 [Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Tiktok Sydney**   
