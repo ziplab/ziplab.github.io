@@ -16,8 +16,8 @@ author_profile: true
 
 ## Graduate Students
 [Yefei He](https://hexy.tech/publication/) (PhD @ Zhejiang University, 2021-)  
+[Jiahao He](https://github.com/Hygge02) (PhD @ Zhejiang University, 2024-)  
 [Weijie Wang](https://lhmd.top/) (PhD @ Zhejiang University, 2025-)  
-[Jiahao He](https://github.com/Hygge02) (MS @ Zhejiang University, 2024-)  
 [Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University, 2025-)  
 [Xi Lin](https://github.com/erix025) (PhD @ Zhejiang University, 2026-)  
 [Xiaolong Li]() (MS @ Zhejiang University, 2026-)  
