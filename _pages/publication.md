@@ -98,7 +98,7 @@ Hefei He, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang#
 
 
 - **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**  
-Pengcheng Chen*, Jin Ye*#, Guoan Wang*, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao  
+Pengcheng Chen\*, Jin Ye\*#, Guoan Wang\*, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao  
 \[[Paper](https://www.arxiv.org/abs/2408.03361)\]\[[Homepage](https://uni-medical.github.io/GMAI-MMBench.github.io/)\] **NeurIPS 2024 Datasets and Benchmarks Track**
 
 - **LongVLM: Efficient Long Video Understanding via Large Language Models**  
@@ -130,7 +130,7 @@ Mingyang Zhang, Hao Chen, Chunhua Shen, Zhen Yang, Linlin Ou, Xinyi Yu, Bohan Zh
 \[[Paper](https://aclanthology.org/2024.findings-acl.178/)\]\[[Code](https://github.com/aim-uofa/LoRAPrune)\] **ACL Findings 2024**
 
 - **SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation**  
-Guoan Wang*, Jin Ye*, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Junjun He, Bohan Zhuang#  
+Guoan Wang\*, Jin Ye\*, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Junjun He, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2407.04938)\] **MICCAI 2024**
 
 - **ME-Switch: A Memory-Efficient Expert Switching Framework for Large Language Models**  
