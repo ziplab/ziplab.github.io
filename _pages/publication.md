@@ -8,7 +8,7 @@ author_profile: true
 
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
-\[[Paper](https://arxiv.org/abs/2507.17307)\]
+\[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project](https://caesarhhh.github.io/R-Stitch/)\]
 
 - **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**  
 Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yuanjie Xing, Jichao Wu, Mingyang Yang, Weihua Chen, Jiahao He, Yuanyu He, Fan Wang#, Gholamreza Haffari, Bohan Zhuang#  
