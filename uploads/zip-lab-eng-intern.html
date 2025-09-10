@@ -1,0 +1,336 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI平台支撑项目实习生 - 浙江大学 CAD & CG 国家重点实验室</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+            line-height: 1.8;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.98);
+            border-radius: 20px;
+            padding: 60px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            animation: fadeIn 0.8s ease-out;
+        }
+        
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        h1 {
+            color: #2d3748;
+            font-size: 2.8rem;
+            margin-bottom: 20px;
+            text-align: center;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            font-weight: 800;
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: #718096;
+            font-size: 1.3rem;
+            margin-bottom: 40px;
+            font-weight: 500;
+        }
+        
+        .lab-info {
+            background: linear-gradient(135deg, #f6f9fc 0%, #f0f4ff 100%);
+            border-left: 4px solid #667eea;
+            padding: 25px;
+            margin-bottom: 40px;
+            border-radius: 10px;
+        }
+        
+        .lab-info p {
+            color: #4a5568;
+            margin-bottom: 10px;
+        }
+        
+        .lab-info a {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 600;
+            transition: color 0.3s ease;
+        }
+        
+        .lab-info a:hover {
+            color: #764ba2;
+            text-decoration: underline;
+        }
+        
+        h2 {
+            color: #2d3748;
+            font-size: 1.8rem;
+            margin-top: 35px;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 2px solid #e2e8f0;
+        }
+        
+        h3 {
+            color: #4a5568;
+            font-size: 1.4rem;
+            margin-top: 25px;
+            margin-bottom: 15px;
+        }
+        
+        ul {
+            color: #4a5568;
+            margin-left: 20px;
+            margin-bottom: 20px;
+        }
+        
+        li {
+            margin-bottom: 12px;
+            position: relative;
+            padding-left: 25px;
+        }
+        
+        li::before {
+            content: "▸";
+            position: absolute;
+            left: 0;
+            color: #667eea;
+            font-weight: bold;
+        }
+        
+        .tech-stack {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 12px;
+            margin-top: 15px;
+            margin-bottom: 25px;
+        }
+        
+        .tech-tag {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 8px 16px;
+            border-radius: 20px;
+            font-size: 0.95rem;
+            font-weight: 500;
+            box-shadow: 0 4px 10px rgba(102, 126, 234, 0.3);
+            transition: transform 0.3s ease;
+        }
+        
+        .tech-tag:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 15px rgba(102, 126, 234, 0.4);
+        }
+        
+        .requirements {
+            background: #f7fafc;
+            border-radius: 12px;
+            padding: 25px;
+            margin-bottom: 30px;
+        }
+        
+        .priority-box {
+            background: linear-gradient(135deg, #fff5f5, #fed7d7);
+            border-left: 4px solid #fc8181;
+            padding: 20px;
+            margin-top: 25px;
+            margin-bottom: 30px;
+            border-radius: 10px;
+        }
+        
+        .priority-box h3 {
+            color: #c53030;
+            margin-top: 0;
+        }
+        
+        .contact-section {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            padding: 30px;
+            border-radius: 15px;
+            margin-top: 40px;
+            text-align: center;
+        }
+        
+        .contact-section h2 {
+            color: white;
+            border-bottom: 2px solid rgba(255, 255, 255, 0.3);
+            padding-bottom: 15px;
+            margin-bottom: 25px;
+        }
+        
+        .email {
+            font-size: 1.4rem;
+            font-weight: 600;
+            margin: 20px 0;
+            display: inline-block;
+            padding: 10px 20px;
+            background: rgba(255, 255, 255, 0.2);
+            border-radius: 10px;
+        }
+        
+        .email-instruction {
+            background: rgba(255, 255, 255, 0.1);
+            padding: 15px;
+            border-radius: 10px;
+            margin-top: 20px;
+        }
+        
+        .benefit-tag {
+            display: inline-block;
+            background: rgba(255, 255, 255, 0.2);
+            padding: 5px 12px;
+            border-radius: 15px;
+            margin: 5px;
+            font-size: 0.9rem;
+        }
+        
+        @media (max-width: 768px) {
+            .container {
+                padding: 30px 20px;
+            }
+            
+            h1 {
+                font-size: 2rem;
+            }
+            
+            .subtitle {
+                font-size: 1.1rem;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 AI平台支撑项目实习生招聘</h1>
+        <p class="subtitle">浙江大学 CAD & CG 国家重点实验室 · ZIP Lab</p>
+        
+        <div class="lab-info">
+            <p><strong>ZIP Lab</strong> 隶属于浙江大学 CAD & CG 国家重点实验室。我们专注于Efficient AI computing, LLM System研究，特别是大语言模型，多模态大模型, 图像视频生成模型，3D大模型的研究与应用。</p>
+            <p>了解更多信息，请访问：<a href="https://ziplab.co/" target="_blank">https://ziplab.co/</a></p>
+        </div>
+        
+        <h2>📋 职位描述</h2>
+        <p style="color: #4a5568; margin-bottom: 20px;">
+            我们正在寻找对AI平台开发和维护充满热情的实习生，参与我们实验室AI研究平台的建设与优化工作。你将有机会接触最前沿的AI技术，与顶尖研究团队合作，为实验室的科研工作提供强有力的技术支撑。
+        </p>
+        
+        <h2>💻 技术要求</h2>
+        <div class="requirements">
+            <h3>必备技能</h3>
+            <ul>
+                <li>熟悉前后端开发流程，具备全栈开发基础</li>
+                <li>掌握 <strong>Node.js</strong> 后端开发，了解 Express/Koa 等框架</li>
+                <li>熟练使用 <strong>Vue.js</strong> 及其生态系统（Vue 3、Vuex/Pinia、Vue Router）</li>
+                <li>熟练使用 <strong>Linux</strong> 操作系统，掌握基本的 Shell 脚本编写</li>
+                <li>了解并能使用 AI 辅助编程工具（如 <strong>Claude Code</strong>、<strong>GitHub Copilot/Codex</strong>）</li>
+                <li>具备良好的代码规范和文档编写能力</li>
+            </ul>
+            
+            <h3>技术栈</h3>
+            <div class="tech-stack">
+                <span class="tech-tag">Node.js</span>
+                <span class="tech-tag">Vue.js 3</span>
+                <span class="tech-tag">TypeScript</span>
+                <span class="tech-tag">Linux</span>
+                <span class="tech-tag">Docker</span>
+                <span class="tech-tag">Git</span>
+                <span class="tech-tag">Claude Code</span>
+                <span class="tech-tag">GitHub Copilot</span>
+                <span class="tech-tag">RESTful API</span>
+                <span class="tech-tag">MongoDB/MySQL</span>
+            </div>
+            
+            <h3>加分项</h3>
+            <ul>
+                <li>有 AI/ML 平台开发经验</li>
+                <li>熟悉容器化技术（Docker、Kubernetes）</li>
+                <li>了解深度学习框架（PyTorch、TensorFlow）的部署</li>
+                <li>有大规模数据处理和可视化经验</li>
+                <li>参与过开源项目</li>
+            </ul>
+        </div>
+        
+        <div class="priority-box">
+            <h3>🌟 优先考虑</h3>
+            <ul>
+                <li><strong>研究生优先</strong>（硕士、本科在读）</li>
+                <li><strong>有相关项目经验者优先</strong></li>
+                <li>有AI平台开发或维护经验者优先</li>
+                <li>发表过技术博客或有开源贡献者优先</li>
+            </ul>
+        </div>
+        
+        <h2>🎯 工作内容</h2>
+        <ul>
+            <li>参与实验室AI研究平台的设计、开发和维护</li>
+            <li>开发和优化模型训练、推理和部署的Web界面</li>
+            <li>构建数据管理和可视化系统</li>
+            <li>协助研究人员部署和管理AI模型</li>
+            <li>编写技术文档和使用指南</li>
+            <li>探索和集成最新的AI工具和技术</li>
+        </ul>
+        
+        <h2>✨ 你将收获</h2>
+        <ul>
+            <li>📜 <strong>浙江大学实习证明</strong></li>
+            <li>与顶尖AI研究团队紧密合作的机会</li>
+            <li>接触最前沿的AI技术和研究项目</li>
+            <li>系统性提升全栈开发和AI工程能力</li>
+            <li>优秀者有机会参与论文发表和项目署名</li>
+            <li>灵活的工作时间安排</li>
+            <li>表现优异者可获得留用或推荐机会</li>
+            <li>提供市场有竞争力的劳务薪酬</li>
+        </ul>
+        
+        <div class="contact-section">
+            <h2>📮 申请方式</h2>
+            <p>请发送简历至：</p>
+            <p class="email">zip.lab@outlook.com</p>
+            
+            <div class="email-instruction">
+                <p><strong>邮件标题格式：</strong></p>
+                <p style="font-size: 1.1rem; margin: 10px 0;">
+                    AI平台实习生-学校-年级-姓名
+                </p>
+                <p style="font-size: 0.9rem; opacity: 0.9;">
+                    例：AI平台实习生-浙江大学-研二-张三
+                </p>
+            </div>
+            
+            <p style="margin-top: 25px;"><strong>请在简历中包含：</strong></p>
+            <p>• 个人基本信息和联系方式</p>
+            <p>• 教育背景（含成绩/排名）</p>
+            <p>• 相关项目经验和技术栈</p>
+            <p>• GitHub 或个人作品链接（如有）</p>
+            <p>• 可实习时间和每周可投入时长</p>
+            
+            <p style="margin-top: 30px; font-size: 1.1rem;">
+                🔥 期待优秀的你加入我们，共同打造顶尖的AI研究平台！
+            </p>
+        </div>
+    </div>
+</body>
+</html>
