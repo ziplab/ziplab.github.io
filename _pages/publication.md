@@ -10,13 +10,6 @@ author_profile: true
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project](https://caesarhhh.github.io/R-Stitch/)\]
 
-- **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**  
-Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yuanjie Xing, Jichao Wu, Mingyang Yang, Weihua Chen, Jiahao He, Yuanyu He, Fan Wang#, Gholamreza Haffari, Bohan Zhuang#  
-\[[Paper](https://arxiv.org/abs/2506.04648)\]\[[Project](https://fps.ziplab.co)\]  
-
-- **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**  
-Weijie Wang#, Donny Y. Chen#, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project](https://lhmd.top/zpressor/)\]
 
 - **Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
 Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Bohan Zhuang  
@@ -30,19 +23,14 @@ Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Boha
 
 ## 2025
 
-- **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
-Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#   
-\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project](https://yuanyu0.github.io/nar/)\]  **ICCV 2025**
+- **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**  
+Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yuanjie Xing, Jichao Wu, Mingyang Yang, Weihua Chen, Jiahao He, Yuanyu He, Fan Wang#, Gholamreza Haffari, Bohan Zhuang#  
+\[[Paper](https://arxiv.org/abs/2506.04648)\]\[[Project](https://fps.ziplab.co)\]  **NeurIPS 2025** **(**<font color="red"><b>Spotlight</b></font>**)**
 
 
-- **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**  
-Yefei He, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2410.08584)\]  **ICCV 2025**
-
-
-- **Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis**  
-Zhuokun Chen, Jugang Fan, Zhuowei Yu, Bohan Zhuang#, Mingkui Tan#  
-\[[Paper]()\]\[[Code]()\]  **ICCV 2025**
+- **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**  
+Weijie Wang#, Donny Y. Chen#, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project](https://lhmd.top/zpressor/)\]  **NeurIPS 2025**
 
 
 - **ZipAR: Parallel Autoregressive Image Generation through Spatial Locality**  
@@ -58,6 +46,21 @@ Zizheng Pan, Bohan Zhuang#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Ji
 - **Are Large Vision Language Models Good Game Players?**  
 Xinyu Wang, Bohan Zhuang, Qi Wu  
 \[[Paper](https://arxiv.org/pdf/2503.02358)\]\[[Code](https://github.com/xinke-wang/LVLM-Playground)\] **ICLR 2025**
+
+
+- **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
+Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#   
+\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project](https://yuanyu0.github.io/nar/)\]  **ICCV 2025**
+
+
+- **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**  
+Yefei He, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2410.08584)\]  **ICCV 2025**
+
+
+- **Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis**  
+Zhuokun Chen, Jugang Fan, Zhuowei Yu, Bohan Zhuang#, Mingkui Tan#  
+\[[Paper]()\]\[[Code]()\]  **ICCV 2025**
 
 
 - **Channel Merging: Preserving Specialization for Merged Experts**  
