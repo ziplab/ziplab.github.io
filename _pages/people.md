@@ -21,7 +21,7 @@ author_profile: true
 [Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University, 2025-)  
 [Xi Lin](https://github.com/erix025) (PhD @ Zhejiang University, 2026-)  
 [Xiaolong Li](https://xiaolong-li1.github.io/) (MS @ Zhejiang University, 2026-)   
-[Youping Gu]() (MS @ Zhejiang University, 2026-)   
+[Youping Gu](https://github.com/Tacossp) (MS @ Zhejiang University, 2026-)   
 [Haoyu Zhao](zhao-haoyu.github.io) (MS @ Zhejiang University, 2026-)  
 
 [Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University, 2023-)    
