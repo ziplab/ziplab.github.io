@@ -251,12 +251,12 @@ Bohan Zhuang, Mingkui Tan, Jing Liu, Lingqiao Liu, Ian Reid, Chunhua Shen
 
 
 - **Discrimination-aware Network Pruning for Deep Model Compression**  
-Jing Liu*, Bohan Zhuang*, Zhuangwei Zhuang*, Yong Guo, Junzhou Huang, Jinhui Zhu, Mingkui Tan  
+Jing Liu\*, Bohan Zhuang\*, Zhuangwei Zhuang\*, Yong Guo, Junzhou Huang, Jinhui Zhu, Mingkui Tan  
 \[[Paper](https://ieeexplore.ieee.org/document/9384353)\]\[[Code](https://github.com/SCUT-AILab/DCP)\] **TPAMI 2021**
 
 
 - **AQD: Towards Accurate Quantized Object Detection**  
-Peng Chen*, Jing Liu*, Bohan Zhuang#, Mingkui Tan, Chunhua Shen  
+Peng Chen\*, Jing Liu\*, Bohan Zhuang#, Mingkui Tan, Chunhua Shen  
 \[[Paper](https://arxiv.org/abs/2104.07913)\]\[[Code](https://github.com/ziplab/QTool)\] **CVPR 2021** **(**<font color="red"><b>Oral</b></font>**)**  
 
 
