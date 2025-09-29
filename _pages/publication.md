@@ -11,7 +11,7 @@ author_profile: true
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project Page](https://caesarhhh.github.io/R-Stitch/)\]
 
-- **Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
+- **BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
 Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2508.10774)\]\[[Project Page](https://ziplab.co/BLADE-Homepage/)\]
 
