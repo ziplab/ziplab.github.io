@@ -6,18 +6,26 @@ author_profile: true
 
 ## Preprint
 
+
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
-\[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project](https://caesarhhh.github.io/R-Stitch/)\]
-
+\[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project Page](https://caesarhhh.github.io/R-Stitch/)\]
 
 - **Video-BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
 Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2508.10774)\]\[[Project](https://ziplab.co/BLADE-Homepage/)\]
+\[[Paper](https://arxiv.org/abs/2508.10774)\]\[[Project Page](https://ziplab.co/BLADE-Homepage/)\]
 
 - **Motion Anything: Any to Motion Generation**  
 Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
-\[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]  
+\[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]
+
+- **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
+Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu#, Donny Y. Chen, Bohan Zhuang#  
+\[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[HuggingFace](https://huggingface.co/lhmd/VolSplat)\]
+
+- **Sparsity Forcing: Reinforcing Token Sparsity of MLLMs**  
+Feng Chen, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang\#, Qi Wu  
+\[[Paper](https://arxiv.org/pdf/2504.18579)\]
 
 
 
@@ -25,12 +33,12 @@ Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Boha
 
 - **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**  
 Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yizeng Han, Jiasheng Tang, Yuanjie Xing, Jichao Wu, Mingyang Yang, Weihua Chen, Jiahao He, Yuanyu He, Fan Wang#, Gholamreza Haffari, Bohan Zhuang#  
-\[[Paper](https://arxiv.org/abs/2506.04648)\]\[[Project](https://fps.ziplab.co)\]  **NeurIPS 2025** **(**<font color="red"><b>Spotlight</b></font>**)**
+\[[Paper](https://arxiv.org/abs/2506.04648)\]\[[Project Page](https://fps.ziplab.co)\]  **NeurIPS 2025** **(**<font color="red"><b>Spotlight</b></font>**)**
 
 
 - **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**  
 Weijie Wang#, Donny Y. Chen#, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project](https://lhmd.top/zpressor/)\]  **NeurIPS 2025**
+\[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project Page](https://lhmd.top/zpressor/)\]  **NeurIPS 2025**
 
 
 - **ZipAR: Parallel Autoregressive Image Generation through Spatial Locality**  
@@ -40,7 +48,7 @@ Yefei He, Feng Chen, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhu
 
 - **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**  
 Zizheng Pan, Bohan Zhuang#, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar  
-\[[Paper](https://arxiv.org/abs/2402.14167)\]\[[Code](https://github.com/NVlabs/T-Stitch)\]\[[Project](https://t-stitch.github.io/)\] **ICLR 2025**
+\[[Paper](https://arxiv.org/abs/2402.14167)\]\[[Code](https://github.com/NVlabs/T-Stitch)\]\[[Project Page](https://t-stitch.github.io/)\] **ICLR 2025**
 
 
 - **Are Large Vision Language Models Good Game Players?**  
@@ -50,7 +58,7 @@ Xinyu Wang, Bohan Zhuang, Qi Wu
 
 - **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
 Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang#   
-\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project](https://yuanyu0.github.io/nar/)\]  **ICCV 2025**
+\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project Page](https://yuanyu0.github.io/nar/)\]  **ICCV 2025**
 
 
 - **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**  
@@ -60,7 +68,7 @@ Yefei He, Feng Chen, Jing Liu, Wenqi Shao, Hong Zhou, Kaipeng Zhang, Bohan Zhuan
 
 - **Frequency-Aware Autoregressive Modeling for Efficient High-Resolution Image Synthesis**  
 Zhuokun Chen, Jugang Fan, Zhuowei Yu, Bohan Zhuang#, Mingkui Tan#  
-\[[Paper]()\]\[[Code]()\]  **ICCV 2025**
+\[[Paper](https://arxiv.org/abs/2507.20454)\]\[[Code](https://github.com/Caesarhhh/SparseVAR)\]  **ICCV 2025**
 
 
 - **Channel Merging: Preserving Specialization for Merged Experts**  
@@ -82,7 +90,7 @@ Yefei He, Luoming Zhang, Weijia Wu, Jing Liu, Hong Zhou, Bohan Zhuang#
 
 - **MVSplat360: Feed Forward 360° Scene Synthesis from Sparse Views**  
 Yuedong Chen, Chuanxia Zheng, Haofei Xu, Bohan Zhuang, Andrea Vedaldi, Tat-Jen Cham, Jianfei Cai   
-\[[Paper](https://openreview.net/forum?id=B0OWOkMwhz)\]\[[Homepage](donydchen.github.io/mvsplat360)\]  **NeurIPS 2024**
+\[[Paper](https://openreview.net/forum?id=B0OWOkMwhz)\]\[[Project Page](donydchen.github.io/mvsplat360)\]  **NeurIPS 2024**
 
 
 - **QLLM: Accurate and Efficient Low-Bitwidth Quantization for Large Language Models**  
@@ -92,7 +100,7 @@ Jing Liu, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang#
 
 - **Object-Aware Inversion and Reassembly for Image Editing**    
 Zhen Yang, Ganggui Ding, Wen Wang, Hao Chen#, Bohan Zhuang#, Chunhua Shen    
-\[[Paper](https://openreview.net/forum?id=dpcVXiMlcv)\]\[[Homepage](https://aim-uofa.github.io/OIR-Diffusion/)\] **ICLR 2024**
+\[[Paper](https://openreview.net/forum?id=dpcVXiMlcv)\]\[[Project Page](https://aim-uofa.github.io/OIR-Diffusion/)\] **ICLR 2024**
 
 
 - **EfficientDM: Efficient Quantization-Aware Fine-Tuning of Low-Bit Diffusion Models**  
@@ -102,7 +110,7 @@ Hefei He, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang#
 
 - **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**  
 Pengcheng Chen\*, Jin Ye\*#, Guoan Wang\*, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao  
-\[[Paper](https://www.arxiv.org/abs/2408.03361)\]\[[Homepage](https://uni-medical.github.io/GMAI-MMBench.github.io/)\] **NeurIPS 2024 Datasets and Benchmarks Track**
+\[[Paper](https://www.arxiv.org/abs/2408.03361)\]\[[Project Page](https://uni-medical.github.io/GMAI-MMBench.github.io/)\] **NeurIPS 2024 Datasets and Benchmarks Track**
 
 - **LongVLM: Efficient Long Video Understanding via Large Language Models**  
 Yuetian Weng, Mingfei Han, Haoyu He, Xiaojun Chang, Bohan Zhuang#  
@@ -110,7 +118,7 @@ Yuetian Weng, Mingfei Han, Haoyu He, Xiaojun Chang, Bohan Zhuang#
 
 - **MVSplat: Efficient 3D Gaussian Splatting from Sparse Multi-View Images**  
 Yuedong Chen, Haofei Xu, Chuanxia Zheng, Bohan Zhuang, Marc Pollefeys, Andreas Geiger, Tat-Jen Cham, Jianfei Cai  
-\[[Paper](https://arxiv.org/abs/2403.14627)\]\[[Homepage](https://donydchen.github.io/mvsplat/)\] **ECCV 2024** **(**<font color="red"><b>Oral</b></font>**)**  
+\[[Paper](https://arxiv.org/abs/2403.14627)\]\[[Project Page](https://donydchen.github.io/mvsplat/)\] **ECCV 2024** **(**<font color="red"><b>Oral</b></font>**)**  
 
 - **Stitched ViTs are Flexible Vision Backbones**  
 Zizheng Pan, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang#  
@@ -118,11 +126,11 @@ Zizheng Pan, Jing Liu, Haoyu He, Jianfei Cai, Bohan Zhuang#
 
 - **Motion Mamba: Efficient and Long Sequence Motion Generation**  
 Zeyu Zhang, Akide Liu, Ian Reid, Richard Hartley, Bohan Zhuang, Hao Tang  
-\[[Paper](https://arxiv.org/abs/2403.07487)\]\[[HomePage](https://steve-zeyu-zhang.github.io/MotionMamba/)\] **ECCV 2024**
+\[[Paper](https://arxiv.org/abs/2403.07487)\]\[[Project Page](https://steve-zeyu-zhang.github.io/MotionMamba/)\] **ECCV 2024**
 
 - **Efficient Stitchable Task Adaptation**  
 Haoyu He, Zizheng Pan, Jing Liu, Jianfei Cai, Bohan Zhuang#  
-\[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Efficient_Stitchable_Task_Adaptation_CVPR_2024_paper.pdf)\] **CVPR 2024**
+\[[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/He_Efficient_Stitchable_Task_Adaptation_CVPR_2024_paper.pdf)\]\[[Code](https://github.com/ziplab/Stitched_LLaMA)\] **CVPR 2024**
 
 - **ModaVerse: Efficiently Transforming Modalities with LLMs**  
 Xinyu Wang, Bohan Zhuang, Qi Wu  
@@ -153,7 +161,7 @@ Feng Chen, Chenhui Gou, Jing Liu, Yang Yang, Zhaoyang Li, Jiyuan Zhang, Zhenbang
 ## 2023
 - **Stitchable Neural Networks**  
 Zizheng Pan; Jianfei Cai; Bohan Zhuang#  
-\[[Paper](https://arxiv.org/abs/2302.06586)\]\[[Homepage](https://snnet.github.io/)\] **CVPR 2023** **(**<font color="red"><b>Highlight</b></font>**)**  
+\[[Paper](https://arxiv.org/abs/2302.06586)\]\[[Project Page](https://snnet.github.io/)\] **CVPR 2023** **(**<font color="red"><b>Highlight</b></font>**)**  
 
 - **PTQD: Accurate Post-Training Quantization for Diffusion Models**  
 Yefei He, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou#, Bohan Zhuang#  
