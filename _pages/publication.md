@@ -23,6 +23,10 @@ Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng
 Feng Chen, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang\#, Qi Wu  
 \[[Paper](https://arxiv.org/pdf/2504.18579)\]
 
+- **RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer**  
+Wangbo Zhao, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Bohan Zhuang, Zhangyang Wang, Fan Wang, Yang You  
+\[[Paper](https://arxiv.org/abs/2509.22323)\]
+
 - **Motion Anything: Any to Motion Generation**  
 Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
 \[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]
