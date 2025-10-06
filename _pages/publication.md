@@ -12,12 +12,12 @@ Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#
 \[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project Page](https://caesarhhh.github.io/R-Stitch/)\]
 
 - **BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
-Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Bohan Zhuang  
+Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Minqi Chen, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2508.10774)\]\[[Project Page](https://ziplab.co/BLADE-Homepage/)\]
 
 - **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
 Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu#, Donny Y. Chen, Bohan Zhuang#  
-\[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[HuggingFace](https://huggingface.co/lhmd/VolSplat)\]
+\[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[Hugging Face](https://huggingface.co/lhmd/VolSplat)\]
 
 - **Sparsity Forcing: Reinforcing Token Sparsity of MLLMs**  
 Feng Chen, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang\#, Qi Wu  
