@@ -154,7 +154,7 @@ Jing Liu, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang#
 
 - **Enhancing Perception Capabilities of Multimodal LLMs with Training-Free Fusion**  
 Zhuokun Chen, Jinwu Hu, Zeshuai Deng, Yufeng Wang, Bohan Zhuang#, Mingkui Tan#  
-\[[Paper](https://arxiv.org/pdf/2403.18716)\]
+\[[Paper](https://arxiv.org/abs/2412.01289)\]
 
 - **Evaluating and Advancing Multimodal Large Language Models in Ability Lens**  
 Feng Chen, Chenhui Gou, Jing Liu, Yang Yang, Zhaoyang Li, Jiyuan Zhang, Zhenbang Sun, Bohan Zhuang, Qi Wu  
