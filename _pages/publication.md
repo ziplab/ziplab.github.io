@@ -47,7 +47,7 @@ Weijie Wang#, Donny Y. Chen#, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang
 
 - **ZipAR: Parallel Autoregressive Image Generation through Spatial Locality**  
 Yefei He, Feng Chen, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/pdf/2412.04062)\]\[[Code](https://github.com/ThisisBillhe/ZipAR)\]  **ICML 2025**
+\[[Paper](https://openreview.net/forum?id=S09B5wNa6J)\]\[[Code](https://github.com/ThisisBillhe/ZipAR)\]  **ICML 2025**
 
 
 - **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**  
