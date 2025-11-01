@@ -9,25 +9,26 @@ author_profile: true
 ## Former PhDs
 [Zizheng Pan](https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ DeepSeek**   
 [Jing Liu](https://scholar.google.com/citations?user=-lHaZH4AAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist (Top Seed) @ ByteDance Seed USA**  
-[Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Tiktok Sydney**   
+[Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ TikTok Sydney**   
 [Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Seeing Machines Australia**  
 [Yuedong Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance Seed Singapore**
 
 
 ## Graduate Students
-[Yefei He](https://hexy.tech/publication/) (PhD @ Zhejiang University, 2021-)  
-[Jiahao He](https://github.com/Hygge02) (MS @ Zhejiang University, 2024-2026; PhD @ Zhejiang University, 2026-)  
-[Weijie Wang](https://lhmd.top/) (PhD @ Zhejiang University, 2025-)  
-[Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University, 2025-)  
-[Xi Lin](https://github.com/erix025) (PhD @ Zhejiang University, 2026-)  
-[Xiaolong Li](https://xiaolong-li1.github.io/) (MS @ Zhejiang University, 2026-)   
-[Youping Gu](https://github.com/Tacossp) (MS @ Zhejiang University, 2026-)   
-[Haoyu Zhao](zhao-haoyu.github.io) (MS @ Zhejiang University, 2026-)  
+[Yefei He](https://hexy.tech/publication/) (PhD @ Zhejiang University)  
+[Weijie Wang](https://lhmd.top/) (PhD @ Zhejiang University)  
+[Jiahao He](https://github.com/Hygge02) (PhD @ Zhejiang University)  
+[Xi Lin](https://github.com/erix025) (PhD @ Zhejiang University)  
+[Xiaoxuan He](https://scholar.google.com/citations?user=Q8EDNIgAAAAJ&hl=zh-CN) (PhD @ Zhejiang University)  
+[Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University)  
+[Xiaolong Li](https://xiaolong-li1.github.io/) (MS @ Zhejiang University)   
+[Youping Gu](https://github.com/Tacossp) (MS @ Zhejiang University)   
+[Haoyu Zhao](zhao-haoyu.github.io) (MS @ Zhejiang University)  
 
-[Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University, 2023-)    
-[Feng Chen](https://github.com/Chenfeng1271) (PhD @ Adelaide University, 2023-)  
-[Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University, 2024-)  
-[Zhuokun Chen](https://openreview.net/profile?id=%7EZhuokun_Chen4) (PhD @ Monash University, 2025-)  
+[Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University)    
+[Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University)  
+[Zhuokun Chen](https://openreview.net/profile?id=%7EZhuokun_Chen4) (PhD @ Monash University)  
+[Feng Chen](https://github.com/Chenfeng1271) (PhD @ Adelaide University)  
 
 
 ## Research Fellows
