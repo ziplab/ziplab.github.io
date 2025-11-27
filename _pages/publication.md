@@ -6,6 +6,9 @@ author_profile: true
 
 ## Preprint
 
+- **Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**  
+Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, Hanfeng Lu, Jiasheng Tang, Wei Wang, Zhiyuan Wang, Jichao Wu, Mingyang Yang, Yinghao Yu, Zeyu Zhang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Project Page](https://github.com/alibaba-damo-academy/Inferix)\]
 
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
