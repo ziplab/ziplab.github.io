@@ -8,7 +8,12 @@ author_profile: true
 
 - **Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**  
 Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, Hanfeng Lu, Jiasheng Tang, Wei Wang, Zhiyuan Wang, Jichao Wu, Mingyang Yang, Yinghao Yu, Zeyu Zhang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Project Page](https://github.com/alibaba-damo-academy/Inferix)\]
+\[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]
+
+
+- **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
+Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
+\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
 
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
