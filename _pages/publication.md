@@ -16,7 +16,7 @@ Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan
 
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
 Xiaolong Li, Youping Gu, Xi Lin, Weijie Wang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page]([https://ziplab.co/BlockVid/](https://ziplab.co/PSA/))\]
+\[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
 
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
