@@ -24,6 +24,7 @@ author_profile: true
 [Xiaolong Li](https://xiaolong-li1.github.io/) (MS @ Zhejiang University)   
 [Youping Gu](https://github.com/Tacossp) (MS @ Zhejiang University)   
 [Haoyu Zhao](zhao-haoyu.github.io) (MS @ Zhejiang University)  
+[Yuke Zhao]() (MS @ Zhejiang University)
 
 [Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University)    
 [Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University)  
