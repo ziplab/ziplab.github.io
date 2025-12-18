@@ -15,7 +15,7 @@ Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan
 \[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
 
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
-Xiaolong Li, Youping Gu, Xi Lin, Weijie Wang, Bohan Zhuang  
+Xiaolong Li*, Youping Gu*, Xi Lin*, Weijie Wang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
 
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
@@ -25,6 +25,14 @@ Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#
 - **BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
 Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Minqi Chen, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2508.10774)\]\[[Project Page](https://ziplab.co/BLADE-Homepage/)\]
+
+- **Few-Step Distillation for Text-to-Image Generation: A Practical Guide**  
+Yifan Pu*, Yizeng Han*, Zhiwei Tang*, Jiasheng Tang\#, Fan Wang, Bohan Zhuang, Gao Huang  
+\[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
+
+- **Geometrically-Constrained Agent for Spatial Reasoning**  
+Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao, Bohan Zhuang\#, Lu Sheng\#  
+\[[Paper](https://arxiv.org/abs/2511.22659)\]\[[Project Page](https://gca-spatial-reasoning.github.io/)\] 
 
 - **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
 Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu#, Donny Y. Chen, Bohan Zhuang#  
