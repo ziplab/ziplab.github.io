@@ -27,7 +27,7 @@ Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Minqi Chen, Bohan Zhuang
 \[[Paper](https://arxiv.org/abs/2508.10774)\]\[[Project Page](https://ziplab.co/BLADE-Homepage/)\]
 
 - **Few-Step Distillation for Text-to-Image Generation: A Practical Guide**  
-Yifan Pu*\, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang\#, Fan Wang, Bohan Zhuang, Gao Huang  
+Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang\#, Fan Wang, Bohan Zhuang, Gao Huang  
 \[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
 
 - **Geometrically-Constrained Agent for Spatial Reasoning**  
