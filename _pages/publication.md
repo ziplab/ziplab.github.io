@@ -30,25 +30,26 @@ Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Minqi Chen, Bohan Zhuang
 Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang\#, Fan Wang, Bohan Zhuang, Gao Huang  
 \[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
 
-- **Geometrically-Constrained Agent for Spatial Reasoning**  
-Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao, Bohan Zhuang\#, Lu Sheng\#  
-\[[Paper](https://arxiv.org/abs/2511.22659)\]\[[Project Page](https://gca-spatial-reasoning.github.io/)\] 
+- **Sparsity Forcing: Reinforcing Token Sparsity of MLLMs**  
+Feng Chen, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang\#, Qi Wu  
+\[[Paper](https://arxiv.org/pdf/2504.18579)\]
 
 - **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
 Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu#, Donny Y. Chen, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[Hugging Face](https://huggingface.co/lhmd/VolSplat)\]
 
-- **Sparsity Forcing: Reinforcing Token Sparsity of MLLMs**  
-Feng Chen, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang\#, Qi Wu  
-\[[Paper](https://arxiv.org/pdf/2504.18579)\]
+- **Geometrically-Constrained Agent for Spatial Reasoning**  
+Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao, Bohan Zhuang\#, Lu Sheng\#  
+\[[Paper](https://arxiv.org/abs/2511.22659)\]\[[Project Page](https://gca-spatial-reasoning.github.io/)\] 
+
+- **Motion Anything: Any to Motion Generation**  
+Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
+\[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]
 
 - **RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer**  
 Wangbo Zhao, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Bohan Zhuang, Zhangyang Wang, Fan Wang, Yang You  
 \[[Paper](https://arxiv.org/abs/2509.22323)\]
 
-- **Motion Anything: Any to Motion Generation**  
-Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
-\[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]
 
 
 
