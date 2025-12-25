@@ -6,30 +6,30 @@ author_profile: true
 ## PI
 [Bohan Zhuang](https://bohanzhuang.github.io/)
 
-## Former PhDs
-[Zizheng Pan](https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ DeepSeek**   
-[Jing Liu](https://scholar.google.com/citations?user=-lHaZH4AAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist (Top Seed) @ ByteDance Seed USA**  
-[Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ TikTok Sydney**   
-[Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ Seeing Machines Australia**  
-[Donny Y. Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (PhD @ Monash University, 2021-2024), **Now Research Scientist @ ByteDance Seed Singapore**
+## Ph.D. Graduates
+[Zizheng Pan](https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ DeepSeek**   
+[Jing Liu](https://scholar.google.com/citations?user=-lHaZH4AAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist (Top Seed) @ ByteDance Seed USA**  
+[Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ TikTok Sydney**   
+[Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ Seeing Machines Australia**  
+[Donny Y. Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Seed Singapore**
 
 
-## Graduate Students
-[Yefei He](https://hexy.tech/publication/) (PhD @ Zhejiang University)  
-[Weijie Wang](https://lhmd.top/) (PhD @ Zhejiang University)  
-[Jiahao He](https://github.com/Hygge02) (PhD @ Zhejiang University)  
-[Xi Lin](https://profile.erix025.me/) (PhD @ Zhejiang University)  
-[Xiaoxuan He](https://scholar.google.com/citations?user=Q8EDNIgAAAAJ&hl=zh-CN) (PhD @ Zhejiang University)  
-[Yuanyu He](https://github.com/Yuanyu0) (MS @ Zhejiang University)  
-[Xiaolong Li](https://xiaolong-li1.github.io/) (MS @ Zhejiang University)   
-[Youping Gu](https://github.com/Tacossp) (MS @ Zhejiang University)   
-[Haoyu Zhao](zhao-haoyu.github.io) (MS @ Zhejiang University)  
-[Yuke Zhao]() (MS @ Zhejiang University)
+## Current Graduate Students
+[Yefei He](https://hexy.tech/publication/) (Ph.D. @ Zhejiang University)  
+[Weijie Wang](https://lhmd.top/) (Ph.D. @ Zhejiang University)  
+[Jiahao He](https://github.com/Hygge02) (Ph.D. @ Zhejiang University)  
+[Xi Lin](https://profile.erix025.me/) (Ph.D. @ Zhejiang University)  
+[Xiaoxuan He](https://scholar.google.com/citations?user=Q8EDNIgAAAAJ&hl=zh-CN) (Ph.D. @ Zhejiang University)  
+[Yuanyu He](https://github.com/Yuanyu0) (M.S. @ Zhejiang University)  
+[Xiaolong Li](https://xiaolong-li1.github.io/) (M.S. @ Zhejiang University)   
+[Youping Gu](https://github.com/Tacossp) (M.S. @ Zhejiang University)   
+[Haoyu Zhao](zhao-haoyu.github.io) (M.S. @ Zhejiang University)  
+[Yuke Zhao](https://hzeroyuke.github.io/my_blog/) (M.S. @ Zhejiang University)
 
-[Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (PhD @ Monash University)    
-[Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (PhD @ Monash University)  
-[Zhuokun Chen](https://openreview.net/profile?id=%7EZhuokun_Chen4) (PhD @ Monash University)  
-[Feng Chen](https://github.com/Chenfeng1271) (PhD @ Adelaide University)  
+[Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (Ph.D. @ Monash University)    
+[Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (Ph.D. @ Monash University)  
+[Zhuokun Chen](https://openreview.net/profile?id=%7EZhuokun_Chen4) (Ph.D. @ Monash University)  
+[Feng Chen](https://github.com/Chenfeng1271) (Ph.D. @ Adelaide University)  
 
 
 ## Research Fellows
@@ -38,7 +38,8 @@ author_profile: true
 
 
 ## Research Assistants
-[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (ANU)      
+[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (ANU)   
+[Zeren Chen](https://scholar.google.com/citations?user=fdDOA-0AAAAJ&hl=zh-CN) (Beihang University)
 
 
 
