@@ -9,13 +9,13 @@ author_profile: true
 ## Ph.D. Graduates
 [Zizheng Pan](https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ DeepSeek**   
 [Jing Liu](https://scholar.google.com/citations?user=-lHaZH4AAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist (Top Seed) @ ByteDance Seed USA**  
-[Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ TikTok Sydney**   
+[Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Sydney**   
 [Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ Seeing Machines Australia**  
 [Donny Y. Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Seed Singapore**
 
 
 ## Current Graduate Students
-[Yefei He](https://hexy.tech/publication/) (Ph.D. @ Zhejiang University)  
+[Yefei He](https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN) (Ph.D. @ Zhejiang University)  
 [Weijie Wang](https://lhmd.top/) (Ph.D. @ Zhejiang University)  
 [Jiahao He](https://github.com/Hygge02) (Ph.D. @ Zhejiang University)  
 [Xi Lin](https://profile.erix025.me/) (Ph.D. @ Zhejiang University)  
