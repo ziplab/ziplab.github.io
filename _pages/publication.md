@@ -14,6 +14,11 @@ Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, H
 Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
 \[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
 
+- **COV: Chain-of-View Prompting for Spatial Reasoning**  
+Haoyu Zhao, Akide Liu, Zeyu Zhang, Weijie Wang, Feng Chen, Ruihan Zhu, Gholamreza Haffari, Bohan Zhuang    
+\[[Paper](https://arxiv.org/abs/2601.05172)\]\[[Code](https://github.com/ziplab/CoV)\]\[[Project Page](https://ziplab.co/CoV/)\]\[[HuggingFace](https://huggingface.co/papers/2601.05172)\]
+
+
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
 Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
