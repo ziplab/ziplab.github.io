@@ -18,7 +18,6 @@ Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan
 Haoyu Zhao, Akide Liu, Zeyu Zhang, Weijie Wang, Feng Chen, Ruihan Zhu, Gholamreza Haffari, Bohan Zhuang    
 \[[Paper](https://arxiv.org/abs/2601.05172)\]\[[Code](https://github.com/ziplab/CoV)\]\[[Project Page](https://ziplab.co/CoV/)\]\[[HuggingFace](https://huggingface.co/papers/2601.05172)\]
 
-
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
 Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
@@ -27,17 +26,9 @@ Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project Page](https://caesarhhh.github.io/R-Stitch/)\]
 
-- **BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
-Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Minqi Chen, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2508.10774)\]\[[Project Page](https://ziplab.co/BLADE-Homepage/)\]
-
 - **Few-Step Distillation for Text-to-Image Generation: A Practical Guide**  
 Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang\#, Fan Wang, Bohan Zhuang, Gao Huang  
 \[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
-
-- **Sparsity Forcing: Reinforcing Token Sparsity of MLLMs**  
-Feng Chen, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang\#, Qi Wu  
-\[[Paper](https://arxiv.org/pdf/2504.18579)\]
 
 - **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
 Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu#, Donny Y. Chen, Bohan Zhuang#  
@@ -51,9 +42,24 @@ Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao
 Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
 \[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]
 
+
+
+## 2026 
+
+- **BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
+Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Minqi Chen, Bohan Zhuang  
+\[[Paper](https://openreview.net/forum?id=O9J20MsmRl)\]\[[Project Page](https://ziplab.co/BLADE-Homepage/)\]  **ICLR 2026**
+
+
+- **Sparsity Forcing: Reinforcing Token Sparsity of MLLMs**  
+Feng Chen, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang\#, Qi Wu  
+\[[Paper](https://openreview.net/forum?id=gxNTP2eER3)\]  **ICLR 2026**
+
+
 - **RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer**  
 Wangbo Zhao, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Bohan Zhuang, Zhangyang Wang, Fan Wang, Yang You  
-\[[Paper](https://arxiv.org/abs/2509.22323)\]
+\[[Paper](https://openreview.net/forum?id=sQ0g6EkpF7)\]   **ICLR 2026**
+
 
 
 
