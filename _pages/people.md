@@ -12,7 +12,7 @@ author_profile: true
 [Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Sydney**   
 [Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ Seeing Machines Australia**  
 [Donny Y. Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Seed Singapore**  
-[Yefei He](https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN) (Ph.D. 2026 @ Zhejiang University, **Upcoming Research Scientist @ Alibaba DAMO Academy (Ali-Star Top Talent Program)**)  
+[Yefei He](https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN) (Ph.D. 2026 @ Zhejiang University), **Upcoming Research Scientist @ Alibaba DAMO Academy (AliStar Top Talent Program)** 
 [Sidong Feng](https://sidongfeng.github.io/) (Ph.D. 2026 @ Monash University, **Upcoming Assistant Professor @ CUHK-Shenzhen**)  
 
 
