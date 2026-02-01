@@ -8,14 +8,15 @@ author_profile: true
 
 ## Ph.D. Graduates
 [Zizheng Pan](https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ DeepSeek**   
-[Jing Liu](https://scholar.google.com/citations?user=-lHaZH4AAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist (Top Seed) @ ByteDance Seed USA**  
+[Jing Liu](https://scholar.google.com/citations?user=-lHaZH4AAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Seed USA (Top Seed Talent Program)**  
 [Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Sydney**   
 [Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ Seeing Machines Australia**  
-[Donny Y. Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Seed Singapore**
+[Donny Y. Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Seed Singapore**  
+[Yefei He](https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN) (Ph.D. 2026 @ Zhejiang University, **Upcoming Research Scientist @ Alibaba DAMO Academy (Ali-Star Top Talent Program)**)  
+[Sidong Feng](https://sidongfeng.github.io/) (Ph.D. 2026 @ Monash University, **Upcoming Assistant Professor @ CUHK-Shenzhen**)  
 
 
 ## Current Graduate Students
-[Yefei He](https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN) (Ph.D. @ Zhejiang University)  
 [Weijie Wang](https://lhmd.top/) (Ph.D. @ Zhejiang University)  
 [Jiahao He](https://github.com/Hygge02) (Ph.D. @ Zhejiang University)  
 [Xi Lin](https://profile.erix025.me/) (Ph.D. @ Zhejiang University)  
@@ -26,10 +27,11 @@ author_profile: true
 [Haoyu Zhao](zhao-haoyu.github.io) (M.S. @ Zhejiang University)  
 [Yuke Zhao](https://hzeroyuke.github.io/my_blog/) (M.S. @ Zhejiang University)
 
-[Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (Ph.D. @ Monash University)    
-[Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (Ph.D. @ Monash University)  
 [Zhuokun Chen](https://openreview.net/profile?id=%7EZhuokun_Chen4) (Ph.D. @ Monash University)  
+[Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (Ph.D. @ Monash University)  
+[Jin Ye](https://scholar.google.com/citations?user=UFBrJOAAAAAJ) (Ph.D. @ Monash University)  
 [Feng Chen](https://github.com/Chenfeng1271) (Ph.D. @ Adelaide University)  
+
 
 
 ## Research Fellows
@@ -37,8 +39,11 @@ author_profile: true
 [Wen Qian](https://scholar.google.com/citations?user=rD_U0fMAAAAJ&hl=zh-CN) (DAMO Academy & Zhejiang University)
 
 
-## Research Assistants
+## Bachelor Students
 [Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (ANU)   
+
+
+## Visiting Researchers
 [Zeren Chen](https://scholar.google.com/citations?user=fdDOA-0AAAAJ&hl=zh-CN) (Beihang University)
 
 
