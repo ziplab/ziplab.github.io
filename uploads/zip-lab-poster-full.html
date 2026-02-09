@@ -252,6 +252,11 @@
             background: linear-gradient(to right, rgba(0, 150, 199, 0.05), rgba(255, 255, 255, 0.5));
         }
         
+        .project-video {
+            border-color: #00b4d8;
+            background: linear-gradient(to right, rgba(0, 180, 216, 0.05), rgba(255, 255, 255, 0.5));
+        }
+        
         .project-3d {
             border-color: var(--primary-lighter);
             background: linear-gradient(to right, rgba(72, 202, 228, 0.05), rgba(255, 255, 255, 0.5));
@@ -294,6 +299,10 @@
         
         .project-rl h3 i {
             color: #0096c7;
+        }
+        
+        .project-video h3 i {
+            color: #00b4d8;
         }
         
         .project-3d h3 i {
@@ -575,7 +584,7 @@
             <p>ZIP Lab 隶属于浙江大学 CAD & CG 国家重点实验室。我们的主要研究方向是为高效的机器学习/大模型系统，尤其专注于大语言模型和多模态大模型的研究。</p>
             <p>如需了解我们的团队和发表的论文，欢迎访问我们的网站：<a href="https://ziplab.co/" class="lab-link" target="_blank">https://ziplab.co/</a></p>
             <p>Target CV/ML 顶会科研发表：<span class="highlight">ICLR</span> <span class="highlight">ICML</span> <span class="highlight">NIPS</span> <span class="highlight">CVPR</span> <span class="highlight">ICCV</span> <span class="highlight">ECCV</span> 等等。</p>
-            <p>我们正在招收对实验室相关研究方向感兴趣的高年级本科生和研究生/gap 期间在本校导师允许的情况也可以参加。</p>
+            <p>我们正在招收对实验室相关研究方向感兴趣的本科生和研究生/gap 期间在本校导师允许的情况也可以参加。</p>
         </div>
 
         <div class="section">
@@ -588,37 +597,42 @@
             </ul>
             <p>我们提供以下项目可选，也欢迎同学提出自己的idea和我们共同讨论。</p>
             
-            <h3 class="category-title system-category">
-                <i class="fas fa-server"></i>系统侧课题
-            </h3>
-            
-            <div class="project system-project-1" style="--i:0">
-                <h3><i class="fas fa-microchip"></i>课题一：System Efficiency 相关课题</h3>
-                <p>需要同学对大模型算法和系统有深入理解，熟悉大模型训练和推理优化技术，了解分布式计算和模型压缩方法，对提升模型效率和性能有研究兴趣，有相关发表经验的优先。</p>
-            </div>
-
-            <div class="project system-project-2" style="--i:1">
-                <h3><i class="fas fa-cogs"></i>课题二：Kernel Optimization 相关课题</h3>
-                <p>需要同学对计算机系统和算子编写有基本了解，熟悉深度学习框架中的算子机制，能够测试和优化现有算子，并有兴趣开发新的高效算子实现，有相关经验的优先。</p>
-            </div>
-            
             <h3 class="category-title algorithm-category">
                 <i class="fas fa-brain"></i>算法侧课题
             </h3>
             
+            <div class="project project-video" style="--i:0">
+                <h3><i class="fas fa-film"></i>方向一：Video Generation</h3>
+                <p>关注视频生成模型的时间一致性、可控生成与高效训练，涉及扩散/Transformer 架构、运动建模、采样加速与评测指标。熟悉 Open-Sora、CogVideoX、AnimateDiff 等开源模型并有训练或推理优化经验者优先。</p>
+            </div>
+            
+            <div class="project project-3d" style="--i:1">
+                <h3><i class="fas fa-cube"></i>方向二：3D World Model</h3>
+                <p>关注 3D 场景生成与理解、世界模型构建与多视角一致性，涉及 3D Gaussian Splatting/NeRF、场景重建与可控编辑、视觉-几何联合表征。具备 3D 视觉或具身智能相关经验者优先。</p>
+            </div>
+            
             <div class="project project-vlm" style="--i:2">
-                <h3><i class="fas fa-eye"></i>课题三：VLM相关的课题</h3>
-                <p>需要同学对多模态生成和理解有对应了解和基础，了解基本发展史和熟练使用对于的开源大模型，比如Qwen VL，Janus，LLaVA-OneVision 等等，有相关发表经验的优先。</p>
+                <h3><i class="fas fa-eye"></i>方向三：Vision-Language Model</h3>
+                <p>关注视觉-语言对齐、指令微调与多模态评测，涉及视觉编码器与 LLM 融合、跨模态对齐、数据清洗与构造、基础评测与自动化分析。熟悉 Qwen-VL、Janus、LLaVA-OneVision 等开源模型并有实践经验者优先。</p>
             </div>
             
             <div class="project project-rl" style="--i:3">
-                <h3><i class="fas fa-robot"></i>课题四：RL相关课题</h3>
-                <p>需要同学对强化学习相关算法有一定的了解和基础，了解强化学习基本算法和对应实现，比如Policy Gradients, Reinforce, PPO, GRPO 等等，有相关发表经验的优先。</p>
+                <h3><i class="fas fa-robot"></i>方向四：Reinforcement Learning</h3>
+                <p>关注强化学习算法及其在大模型对齐中的应用，涉及策略优化、奖励建模、长序列训练稳定性与高效采样。熟悉 Policy Gradient、REINFORCE、PPO、GRPO 等算法并具备复现与改进能力者优先。</p>
             </div>
             
-            <div class="project project-3d" style="--i:4">
-                <h3><i class="fas fa-cube"></i>课题五：3D 大模型相关</h3>
-                <p>需要同学有一定的3D 基础，了解3D相关知识比如3D场景生成和理解，Gaussian Splitting 场景重建，对3D 大模型有对应的了解，有相关发表经验的优先。</p>
+            <h3 class="category-title system-category">
+                <i class="fas fa-server"></i>系统侧课题
+            </h3>
+            
+            <div class="project system-project-1" style="--i:4">
+                <h3><i class="fas fa-microchip"></i>课题一：System Efficiency</h3>
+                <p>需要同学对大模型算法和系统有深入理解，熟悉大模型训练和推理优化技术，了解分布式计算和模型压缩方法，对提升模型效率和性能有研究兴趣，有相关发表经验的优先。</p>
+            </div>
+
+            <div class="project system-project-2" style="--i:5">
+                <h3><i class="fas fa-cogs"></i>课题二：Kernel Optimization</h3>
+                <p>需要同学对计算机系统和算子编写有基本了解，熟悉深度学习框架中的算子机制，能够测试和优化现有算子，并有兴趣开发新的高效算子实现，有相关经验的优先。</p>
             </div>
         </div>
 
@@ -628,15 +642,17 @@
                 <li>实验室有成体系的科研培养方案，有导师与已有丰富科研经验的博士生共同指导。参与具体项目的同学会有每周 Meeting 用于交流。</li>
                 <li>实验室与大厂联系极为密切，有优越的科研环境和相关项目，提供充足的算力。</li>
                 <li>实验室硕士/博士名额会优先考虑实习期间表现优秀的同学。此外，我们也可以为表现优异的学生提供升学的推荐信。</li>
-                <li>实验室对参与具体项目的同学有极具竞争力的补贴，优秀同学会有额外奖励。</li>
             </ul>
         </div>
 
         <div class="contact">
             <h3 class="contact-title">联系方式</h3>
             <p class="contact-email"><i class="fas fa-envelope"></i>zip.lab@outlook.com</p>
+            <p>算法侧请抄送：bohan.zhuang@zju.edu.cn，wangweijie@zju.edu.cn</p>
+            <p>系统侧请抄送：bohan.zhuang@zju.edu.cn，erix025@outlook.com</p>
+            <p>Master/PhD/PostDoc 直接申请请填写：<a href="https://forms.gle/UoR8B19y2NsjtGRJ6" class="lab-link" target="_blank">https://forms.gle/UoR8B19y2NsjtGRJ6</a></p>
             <div class="instructions">
-                <p>邮件标题注明 "<strong>实习生-院校-年级-姓名-对应的项目(3D / VLM / RL)</strong>"</p>
+                <p>邮件标题注明 "<strong>实习生-院校-年级-姓名-对应的项目(Video Gen / 3D / VLM / RL / Sys)</strong>"</p>
                 <p>请附上含成绩/排名等信息的简历</p>
             </div>
         </div>
