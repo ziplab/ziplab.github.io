@@ -40,7 +40,7 @@ author_profile: true
 
 
 ## Bachelor Students
-[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (ANU)   
+[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; Now Ph.D. 2026- @ UC Berkeley)   
 
 
 ## Visiting Researchers
