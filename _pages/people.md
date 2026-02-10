@@ -33,14 +33,13 @@ author_profile: true
 [Feng Chen](https://github.com/Chenfeng1271) (Ph.D. @ Adelaide University)  
 
 
+## Bachelor Students
+[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; Now Ph.D. 2026- @ UC Berkeley)   
+
 
 ## Research Fellows
 [Zhiwei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) (DAMO Academy & Zhejiang University)    
 [Wen Qian](https://scholar.google.com/citations?user=rD_U0fMAAAAJ&hl=zh-CN) (DAMO Academy & Zhejiang University)
-
-
-## Bachelor Students
-[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; Now Ph.D. 2026- @ UC Berkeley)   
 
 
 ## Visiting Researchers
