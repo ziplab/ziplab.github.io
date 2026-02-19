@@ -13,7 +13,7 @@ author_profile: true
 [Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ Seeing Machines Australia**    
 [Donny Y. Chen](https://scholar.google.com.sg/citations?user=GqgGZlQAAAAJ) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Seed Singapore**    
 [Yefei He](https://scholar.google.com/citations?user=CTEQwwwAAAAJ&hl=zh-CN) (Ph.D. 2026 @ Zhejiang University), **Upcoming Research Scientist @ Alibaba DAMO Academy (AliStar Top Talent Program)**   
-[Sidong Feng](https://sidongfeng.github.io/) (Ph.D. 2026 @ Monash University, **Upcoming Assistant Professor @ CUHK-Shenzhen**)    
+[Sidong Feng](https://sidongfeng.github.io/) (Ph.D. 2026 @ Monash University), **Upcoming Assistant Professor @ CUHK-Shenzhen**)    
 
 
 ## Current Graduate Students
@@ -34,7 +34,7 @@ author_profile: true
 
 
 ## Bachelor Students
-[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; Now Ph.D. 2026- @ UC Berkeley)   
+[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; Upcoming Ph.D. Fall 2026 @ UC Berkeley)   
 
 
 ## Research Fellows
