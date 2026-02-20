@@ -7,7 +7,7 @@ author_profile: true
 [Bohan Zhuang](https://bohanzhuang.github.io/)
 
 ## Ph.D. Graduates
-[Zizheng Pan](https://scholar.google.com.au/citations?user=w_VMopoAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ DeepSeek**     
+[Zizheng Pan](https://zizhengpan.github.io/) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ DeepSeek**     
 [Jing Liu](https://jing-liu.com/) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Seed USA (Top Seed Talent Program)**    
 [Haoyu He](https://scholar.google.com/citations?user=aU1zMhUAAAAJ&hl=en) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ ByteDance Sydney**     
 [Yuetian Weng](https://openreview.net/profile?id=~Yuetian_Weng1) (Ph.D. 2024 @ Monash University), **Now Research Scientist @ Seeing Machines Australia**    
