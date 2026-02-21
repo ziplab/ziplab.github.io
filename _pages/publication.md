@@ -39,9 +39,6 @@ Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang\#, Fan Wang, Bohan Zhuang
 Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu#, Donny Y. Chen, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[Hugging Face](https://huggingface.co/lhmd/VolSplat)\]
 
-- **Geometrically-Constrained Agent for Spatial Reasoning**  
-Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao, Bohan Zhuang\#, Lu Sheng\#  
-\[[Paper](https://arxiv.org/abs/2511.22659)\]\[[Project Page](https://gca-spatial-reasoning.github.io/)\] 
 
 - **Motion Anything: Any to Motion Generation**  
 Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
@@ -66,7 +63,14 @@ Wangbo Zhao, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Boh
 \[[Paper](https://openreview.net/forum?id=sQ0g6EkpF7)\]   **ICLR 2026**
 
 
+- **Geometrically-Constrained Agent for Spatial Reasoning**  
+Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao, Bohan Zhuang\#, Lu Sheng\#    
+\[[Paper](https://arxiv.org/abs/2511.22659)\]\[[Project Page](https://gca-spatial-reasoning.github.io/)\]  **CVPR 2026**
 
+
+- **An Empirical Study on How Video-LLMs Answer Videos Questions**  
+Chenhui Gou, Ziyu Ma, Zicheng Duan, Haoyu He, Feng Chen, Akide Liu, Bohan Zhuang, Jianfei Cai, Hamid Rezatofighi    
+\[[Paper](https://arxiv.org/abs/2508.15360)\] **CVPR 2026**
 
 
 ## 2025
