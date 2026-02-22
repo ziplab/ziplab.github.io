@@ -10,9 +10,11 @@ author_profile: true
 Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, Hanfeng Lu, Jiasheng Tang, Wei Wang, Zhiyuan Wang, Jichao Wu, Mingyang Yang, Yinghao Yu, Zeyu Zhang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[HuggingFace](https://huggingface.co/papers/2511.20714)\]
 
+
 - **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
 Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang\#  
 \[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
+
 
 - **FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion**  
 Zhuokun Chen, Jianfei Cai, Bohan Zhuang  
@@ -23,26 +25,26 @@ Zhuokun Chen, Jianfei Cai, Bohan Zhuang
 Haoyu Zhao, Akide Liu, Zeyu Zhang, Weijie Wang, Feng Chen, Ruihan Zhu, Gholamreza Haffari, Bohan Zhuang\#    
 \[[Paper](https://arxiv.org/abs/2601.05172)\]\[[Code](https://github.com/ziplab/CoV)\]\[[Project Page](https://ziplab.co/CoV/)\]\[[HuggingFace](https://huggingface.co/papers/2601.05172)\]
 
+
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
 Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang\#  
 \[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
+
 
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project Page](https://caesarhhh.github.io/R-Stitch/)\]
 
+
 - **Few-Step Distillation for Text-to-Image Generation: A Practical Guide**  
 Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang\#, Fan Wang, Bohan Zhuang, Gao Huang  
 \[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
+
 
 - **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
 Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu#, Donny Y. Chen, Bohan Zhuang#  
 \[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[Hugging Face](https://huggingface.co/lhmd/VolSplat)\]
 
-
-- **Motion Anything: Any to Motion Generation**  
-Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
-\[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]
 
 
 
@@ -117,7 +119,12 @@ Zhuokun Chen, Jugang Fan, Zhuowei Yu, Bohan Zhuang#, Mingkui Tan#
 
 - **Channel Merging: Preserving Specialization for Merged Experts**  
 Mingyang Zhang, Jing Liu, Ganggui Ding, Xinyi Yu, Linlin Ou, Bohan Zhuang#  
-\[[Paper](https://arxiv.org/abs/2412.15283)\] **AAAI 2025** **(**<font color="red"><b>Oral</b></font>**)**  
+\[[Paper](https://arxiv.org/abs/2412.15283)\] **AAAI 2025** **(**<font color="red"><b>Oral</b></font>**)**
+
+
+- **Motion Anything: Any to Motion Generation**  
+Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
+\[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]
 
 
 ## 2024
