@@ -18,7 +18,7 @@ Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan
 
 - **FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion**  
 Zhuokun Chen, Jianfei Cai, Bohan Zhuang  
-\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Project Page](https://caesarhhh.github.io/FlashBlock/)\]  
+\[[Paper](https://www.arxiv.org/abs/2602.05305)\]\[[Project Page](https://caesarhhh.github.io/FlashBlock/)\]  
 
 
 - **COV: Chain-of-View Prompting for Spatial Reasoning**  
