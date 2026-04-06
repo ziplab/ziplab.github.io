@@ -21,11 +21,6 @@ Zhuokun Chen, Jianfei Cai, Bohan Zhuang
 \[[Paper](https://www.arxiv.org/abs/2602.05305)\]\[[Project Page](https://caesarhhh.github.io/FlashBlock/)\]  
 
 
-- **COV: Chain-of-View Prompting for Spatial Reasoning**  
-Haoyu Zhao, Akide Liu, Zeyu Zhang, Weijie Wang, Feng Chen, Ruihan Zhu, Gholamreza Haffari, Bohan Zhuang\#    
-\[[Paper](https://arxiv.org/abs/2601.05172)\]\[[Code](https://github.com/ziplab/CoV)\]\[[Project Page](https://ziplab.co/CoV/)\]\[[HuggingFace](https://huggingface.co/papers/2601.05172)\]
-
-
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
 Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang\#  
 \[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
@@ -63,6 +58,11 @@ Feng Chen, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang\#, Qi Wu
 - **RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer**  
 Wangbo Zhao, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Bohan Zhuang, Zhangyang Wang, Fan Wang, Yang You  
 \[[Paper](https://openreview.net/forum?id=sQ0g6EkpF7)\]   **ICLR 2026**
+
+
+- **COV: Chain-of-View Prompting for Spatial Reasoning**  
+Haoyu Zhao, Akide Liu, Zeyu Zhang, Weijie Wang, Feng Chen, Ruihan Zhu, Gholamreza Haffari, Bohan Zhuang\#    
+\[[Paper](https://arxiv.org/abs/2601.05172)\]\[[Code](https://github.com/ziplab/CoV)\]\[[Project Page](https://ziplab.co/CoV/)\]\[[HuggingFace](https://huggingface.co/papers/2601.05172)\]   **ACL 2026 (Findings)**
 
 
 - **Geometrically-Constrained Agent for Spatial Reasoning**  
