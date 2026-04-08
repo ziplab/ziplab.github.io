@@ -11,14 +11,19 @@ Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, H
 \[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[HuggingFace](https://huggingface.co/papers/2511.20714)\]
 
 
-- **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
-Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang\#  
-\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
+- **TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**  
+Weian Mao, Xi Lin, Wei Huang, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen  
+\[[Paper](https://arxiv.org/abs/2604.04921)\]\[[Code](https://github.com/WeianMao/triattention)\]\[[Project Page](https://weianmao.github.io/tri-attention-project-page)\]\[[HuggingFace](https://huggingface.co/papers/2604.04921)\]
 
 
 - **FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion**  
 Zhuokun Chen, Jianfei Cai, Bohan Zhuang  
-\[[Paper](https://www.arxiv.org/abs/2602.05305)\]\[[Project Page](https://caesarhhh.github.io/FlashBlock/)\]  
+\[[Paper](https://www.arxiv.org/abs/2602.05305)\]\[[Project Page](https://caesarhhh.github.io/FlashBlock/)\]
+
+
+- **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
+Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang\#  
+\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
 
 
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
