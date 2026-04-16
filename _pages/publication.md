@@ -16,6 +16,12 @@ Weian Mao, Xi Lin, Wei Huang, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yuka
 \[[Paper](https://arxiv.org/abs/2604.04921)\]\[[Code](https://github.com/WeianMao/triattention)\]\[[Project Page](https://weianmao.github.io/tri-attention-project-page)\]\[[HuggingFace](https://huggingface.co/papers/2604.04921)\]
 
 
+- **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
+Weijie Wang, Qihang Cao, Sensen Gao, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
+\[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
+
+
+
 - **FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion**  
 Zhuokun Chen, Jianfei Cai, Bohan Zhuang  
 \[[Paper](https://www.arxiv.org/abs/2602.05305)\]\[[Project Page](https://caesarhhh.github.io/FlashBlock/)\]
