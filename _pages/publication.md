@@ -12,7 +12,7 @@ Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, H
 
 
 - **TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**  
-Weian Mao, Xi Lin, Wei Huang, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen  
+Weian Mao\*, Xi Lin\*, Wei Huang\*, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen  
 \[[Paper](https://arxiv.org/abs/2604.04921)\]\[[Code](https://github.com/WeianMao/triattention)\]\[[Project Page](https://weianmao.github.io/tri-attention-project-page)\]\[[HuggingFace](https://huggingface.co/papers/2604.04921)\]
 
 
