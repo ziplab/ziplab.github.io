@@ -12,6 +12,11 @@ Weijie Wang, Xiaoxuan He, Youping Gu, Yifan Yang, Zeyu Zhang, Yefei He, Yanbo Di
 \[[Paper](https://arxiv.org/abs/2604.24764)\]\[[Code](https://github.com/microsoft/World-R1)\]\[[Project Page](https://aka.ms/world-r1)\]\[[HuggingFace](https://huggingface.co/papers/2604.24764)\]
 
 
+- **FlashQLA: CP- and Bwd-Friendly Fused Linear Attention Kernels for GDN**  
+Chengruidong Zhang, Xi Lin, Huiqiang Jiang, Zekun Wang, Xiao Li, Yizhong Cao, Bohan Zhuang, Rui Men, Jianwei Zhang, Bo Zheng, Junyang Lin, Dayiheng Liu, Jingren Zhou  
+\[[Blog](https://qwen.ai/blog?id=flashqla)\]\[[Code](https://github.com/QwenLM/FlashQLA)\]\[[Zhihu](https://zhuanlan.zhihu.com/p/2032257808285028740)\]
+
+
 - **TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**  
 Weian Mao\*, Xi Lin\*, Wei Huang\*, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen  
 \[[Paper](https://arxiv.org/abs/2604.04921)\]\[[Code](https://github.com/WeianMao/triattention)\]\[[Project Page](https://weianmao.github.io/tri-attention-project-page)\]\[[HuggingFace](https://huggingface.co/papers/2604.04921)\]
