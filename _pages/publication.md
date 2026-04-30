@@ -7,34 +7,19 @@ author_profile: true
 ## Preprint
 
 
-- **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**    
-Weijie Wang, Xiaoxuan He, Youping Gu, Yifan Yang, Zeyu Zhang, Yefei He, Yanbo Ding, Xirui Hu, Donny Y. Chen, Zhiyuan He, Yuqing Yang, Bohan Zhuang   
-\[[Paper](https://arxiv.org/abs/2604.24764)\]\[[Code](https://github.com/microsoft/World-R1)\]\[[Project Page](https://aka.ms/world-r1)\]\[[HuggingFace](https://huggingface.co/papers/2604.24764)\]
-
-
 - **FlashQLA: CP- and Bwd-Friendly Fused Linear Attention Kernels for GDN**  
 Chengruidong Zhang, Xi Lin, Huiqiang Jiang, Zekun Wang, Xiao Li, Yizhong Cao, Bohan Zhuang, Rui Men, Jianwei Zhang, Bo Zheng, Junyang Lin, Dayiheng Liu, Jingren Zhou  
 \[[Blog](https://qwen.ai/blog?id=flashqla)\]\[[Code](https://github.com/QwenLM/FlashQLA)\]\[[Zhihu](https://zhuanlan.zhihu.com/p/2032257808285028740)\]
 
 
-- **TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**  
-Weian Mao\*, Xi Lin\*, Wei Huang\*, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen  
-\[[Paper](https://arxiv.org/abs/2604.04921)\]\[[Code](https://github.com/WeianMao/triattention)\]\[[Project Page](https://weianmao.github.io/tri-attention-project-page)\]\[[HuggingFace](https://huggingface.co/papers/2604.04921)\]
+- **Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**  
+Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, Hanfeng Lu, Jiasheng Tang, Wei Wang, Zhiyuan Wang, Jichao Wu, Mingyang Yang, Yinghao Yu, Zeyu Zhang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[HuggingFace](https://huggingface.co/papers/2511.20714)\]
 
 
 - **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
 Weijie Wang, Qihang Cao, Sensen Gao, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
 \[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
-
-
-- **FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion**  
-Zhuokun Chen, Jianfei Cai, Bohan Zhuang  
-\[[Paper](https://www.arxiv.org/abs/2602.05305)\]\[[Project Page](https://caesarhhh.github.io/FlashBlock/)\]
-
-
-- **Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**  
-Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, Hanfeng Lu, Jiasheng Tang, Wei Wang, Zhiyuan Wang, Jichao Wu, Mingyang Yang, Yinghao Yu, Zeyu Zhang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[HuggingFace](https://huggingface.co/papers/2511.20714)\]
 
 
 - **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
@@ -65,6 +50,31 @@ Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng
 
 
 ## 2026 
+
+
+- **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**    
+Weijie Wang, Xiaoxuan He, Youping Gu, Yifan Yang, Zeyu Zhang, Yefei He, Yanbo Ding, Xirui Hu, Donny Y. Chen, Zhiyuan He, Yuqing Yang, Bohan Zhuang   
+\[[Paper](https://arxiv.org/abs/2604.24764)\]\[[Code](https://github.com/microsoft/World-R1)\]\[[Project Page](https://aka.ms/world-r1)\]\[[HuggingFace](https://huggingface.co/papers/2604.24764)\]  **ICML 2026**
+
+
+- **TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**  
+Weian Mao\*, Xi Lin\*, Wei Huang\*, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen  
+\[[Paper](https://arxiv.org/abs/2604.04921)\]\[[Code](https://github.com/WeianMao/triattention)\]\[[Project Page](https://weianmao.github.io/tri-attention-project-page)\]\[[HuggingFace](https://huggingface.co/papers/2604.04921)\]  **ICML 2026**
+
+
+
+- **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**    
+Xiaoxuan He, Xiaoxuan_He, Siming Fu, Zeyue Xue, Weijie Wang, Ruizhe He, Yuming Li, Dacheng Yin, Shuai Dong, Haoyang Huang, Hongfa Wang, Nan Duan, Bohan Zhuang  
+\[[Paper]()\]\[[Code]()\]\[[Project Page]()\]\[[HuggingFace]()\]  **ICML 2026**
+
+
+
+- **FlashBlock: Attention Caching for Efficient Long-Context Block Diffusion**  
+Zhuokun Chen, Jianfei Cai, Bohan Zhuang  
+\[[Paper](https://www.arxiv.org/abs/2602.05305)\]\[[Project Page](https://caesarhhh.github.io/FlashBlock/)\]  **ICML 2026**
+
+
+
 
 - **BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
 Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Minqi Chen, Bohan Zhuang  
