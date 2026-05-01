@@ -38,7 +38,7 @@ Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang
 
 
 - **Few-Step Distillation for Text-to-Image Generation: A Practical Guide**  
-Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang\ , Fan Wang, Bohan Zhuang, Gao Huang    
+Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang, Fan Wang, Bohan Zhuang, Gao Huang    
 \[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
 
 
@@ -75,7 +75,6 @@ Zhuokun Chen, Jianfei Cai, Bohan Zhuang
 
 
 
-
 - **BLADE: Block-Sparse Attention Meets Step Distillation for Efficient Video Generation**  
 Youping Gu\*, Xiaolong Li\*, Yuhao Hu, Minqi Chen, Bohan Zhuang  
 \[[Paper](https://openreview.net/forum?id=O9J20MsmRl)\]\[[Project Page](https://ziplab.co/BLADE-Homepage/)\]  **ICLR 2026**
@@ -97,7 +96,7 @@ Haoyu Zhao, Akide Liu, Zeyu Zhang, Weijie Wang, Feng Chen, Ruihan Zhu, Gholamrez
 
 
 - **Geometrically-Constrained Agent for Spatial Reasoning**  
-Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao, Bohan Zhuang\ , Lu Sheng\     
+Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao, Bohan Zhuang, Lu Sheng    
 \[[Paper](https://arxiv.org/abs/2511.22659)\]\[[Project Page](https://gca-spatial-reasoning.github.io/)\]  **CVPR 2026**
 
 
