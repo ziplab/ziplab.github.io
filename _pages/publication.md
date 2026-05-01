@@ -18,7 +18,7 @@ Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, H
 
 
 - **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
-Weijie Wang, Qihang Cao, Sensen Gao, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
+Weijie Wang\*, Qihang Cao\*, Sensen Gao\*, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
 \[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
 
 
@@ -53,7 +53,7 @@ Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng
 
 
 - **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**    
-Weijie Wang, Xiaoxuan He, Youping Gu, Yifan Yang, Zeyu Zhang, Yefei He, Yanbo Ding, Xirui Hu, Donny Y. Chen, Zhiyuan He, Yuqing Yang, Bohan Zhuang   
+Weijie Wang\*, Xiaoxuan He\*, Youping Gu\*, Yifan Yang, Zeyu Zhang, Yefei He, Yanbo Ding, Xirui Hu, Donny Y. Chen, Zhiyuan He, Yuqing Yang, Bohan Zhuang   
 \[[Paper](https://arxiv.org/abs/2604.24764)\]\[[Code](https://github.com/microsoft/World-R1)\]\[[Project Page](https://aka.ms/world-r1)\]\[[HuggingFace](https://huggingface.co/papers/2604.24764)\]  **ICML 2026**
 
 
@@ -63,8 +63,8 @@ Weian Mao\*, Xi Lin\*, Wei Huang\*, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han
 
 
 
-- **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**    
-Xiaoxuan He, Xiaoxuan_He, Siming Fu, Zeyue Xue, Weijie Wang, Ruizhe He, Yuming Li, Dacheng Yin, Shuai Dong, Haoyang Huang, Hongfa Wang, Nan Duan, Bohan Zhuang  
+- **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**       
+Xiaoxuan He, Siming Fu, Zeyue Xue, Weijie Wang, Ruizhe He, Yuming Li, Dacheng Yin, Shuai Dong, Haoyang Huang, Hongfa Wang, Nan Duan, Bohan Zhuang    
 \[[Paper]()\]\[[Code]()\]\[[Project Page]()\]\[[HuggingFace]()\]  **ICML 2026**
 
 
@@ -113,7 +113,7 @@ Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yuanjie Xing, Yizeng Han, Jias
 
 
 - **ZPressor: Bottleneck-Aware Compression for Scalable Feed-Forward 3DGS**  
-Weijie Wang , Donny Y. Chen , Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang  
+Weijie Wang, Donny Y. Chen, Zeyu Zhang, Duochao Shi, Akide Liu, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2505.23734)\]\[[Project Page](https://lhmd.top/zpressor/)\]  **NeurIPS 2025**
 
 
@@ -180,7 +180,7 @@ Jing Liu, Ruihao Gong, Xiuying Wei, Zhiwei Dong, Jianfei Cai, Bohan Zhuang
 
 
 - **Object-Aware Inversion and Reassembly for Image Editing**    
-Zhen Yang, Ganggui Ding, Wen Wang, Hao Chen , Bohan Zhuang , Chunhua Shen    
+Zhen Yang, Ganggui Ding, Wen Wang, Hao Chen, Bohan Zhuang, Chunhua Shen    
 \[[Paper](https://openreview.net/forum?id=dpcVXiMlcv)\]\[[Project Page](https://aim-uofa.github.io/OIR-Diffusion/)\] **ICLR 2024**
 
 
@@ -190,7 +190,7 @@ Hefei He, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang
 
 
 - **GMAI-MMBench: A Comprehensive Multimodal Evaluation Benchmark Towards General Medical AI**  
-Pengcheng Chen\*, Jin Ye\* , Guoan Wang\*, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao  
+Pengcheng Chen\*, Jin Ye\*, Guoan Wang\*, Yanjun Li, Zhongying Deng, Wei Li, Tianbin Li, Haodong Duan, Ziyan Huang, Yanzhou Su, Benyou Wang, Shaoting Zhang, Bin Fu, Jianfei Cai, Bohan Zhuang, Eric J Seibel, Junjun He, Yu Qiao  
 \[[Paper](https://www.arxiv.org/abs/2408.03361)\]\[[Project Page](https://uni-medical.github.io/GMAI-MMBench.github.io/)\] **NeurIPS 2024 Datasets and Benchmarks Track**
 
 - **LongVLM: Efficient Long Video Understanding via Large Language Models**  
@@ -230,7 +230,7 @@ Jing Liu, Ruihao Gong, Mingyang Zhang, Yefei He, Jianfei Cai, Bohan Zhuang
 \[[Paper](https://arxiv.org/pdf/2402.14758)\]
 
 - **Enhancing Perception Capabilities of Multimodal LLMs with Training-Free Fusion**  
-Zhuokun Chen, Jinwu Hu, Zeshuai Deng, Yufeng Wang, Bohan Zhuang , Mingkui Tan   
+Zhuokun Chen, Jinwu Hu, Zeshuai Deng, Yufeng Wang, Bohan Zhuang, Mingkui Tan   
 \[[Paper](https://arxiv.org/abs/2412.01289)\]
 
 - **Evaluating and Advancing Multimodal Large Language Models in Ability Lens**  
@@ -245,7 +245,7 @@ Zizheng Pan; Jianfei Cai; Bohan Zhuang
 \[[Paper](https://arxiv.org/abs/2302.06586)\]\[[Project Page](https://snnet.github.io/)\] **CVPR 2023** **(**<font color="red"><b>Highlight</b></font>**)**  
 
 - **PTQD: Accurate Post-Training Quantization for Diffusion Models**  
-Yefei He, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou , Bohan Zhuang   
+Yefei He, Luping Liu, Jing Liu, Weijia Wu, Hong Zhou, Bohan Zhuang   
 \[[Paper](https://openreview.net/forum?id=Y3g1PV5R9l)\]\[[Code](https://github.com/ziplab/PTQD)\] **NeurIPS 2023**
 
 - **Mask Propagation for Efficient Video Semantic Segmentation**  
@@ -253,7 +253,7 @@ Yuetian Weng, Mingfei Han, Haoyu He, Mingjie Li, Xiaojun Chang, Bohan Zhuang
 \[[Paper](https://openreview.net/forum?id=6ljXBlojde)\]\[[Code](https://github.com/ziplab/MPVSS)\] **NeurIPS 2023**
 
 - **Second-Order Degradation and Reconstruction for Test-Time Image Super-Resolution**  
-Zeshuai Deng, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang , Mingkui Tan   
+Zeshuai Deng, Zhuokun Chen, Shuaicheng Niu, Thomas H. Li, Bohan Zhuang, Mingkui Tan   
 \[[Paper](https://openreview.net/forum?id=IZRlMABK4l)\]\[[Code](https://github.com/DengZeshuai/SRTTA)\] **NeurIPS 2023**
 
 - **Sensitivity-Aware Visual Parameter-Efficient Fine-Tuning**  
@@ -261,7 +261,7 @@ Haoyu He, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhuang
 \[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Sensitivity-Aware_Visual_Parameter-Efficient_Fine-Tuning_ICCV_2023_paper.pdf)\]\[[Code](https://github.com/ziplab/SPT)\]  **ICCV 2023** **(**<font color="red"><b>Oral</b></font>**)**  
 
 - **BiViT: Extremely Compressed Binary Vision Transformer**  
-Yefei He, Zhenyu Lou, Luoming Zhang, Hong Zhou , Bohan Zhuang   
+Yefei He, Zhenyu Lou, Luoming Zhang, Hong Zhou, Bohan Zhuang   
 \[[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/He_BiViT_Extremely_Compressed_Binary_Vision_Transformers_ICCV_2023_paper.pdf)\] **ICCV 2023**
 
 - **Dynamic Focus-aware Positional Queries for Semantic Segmentation**  
@@ -269,7 +269,7 @@ Haoyu He, Jianfei Cai, Zizheng Pan, Jing Liu, Jing Zhang, Dacheng Tao, Bohan Zhu
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/He_Dynamic_Focus-Aware_Positional_Queries_for_Semantic_Segmentation_CVPR_2023_paper.pdf)\]\[[Code](https://github.com/ziplab/FASeg)\]  **CVPR 2023**
 
 - **End-to-end One-shot Human Parsing**  
-Haoyu He, Jing Zhang, Bohan Zhuang , Jianfei Cai, Dacheng Tao  
+Haoyu He, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao  
 \[[Paper](https://arxiv.org/abs/2105.01241)\]\[[Code](https://github.com/Charleshhy/One-shot-Human-Parsing)\]  **TPAMI 2023**
 
 - **Single-path Bit Sharing for Automatic Loss-aware Model Compression**  
@@ -281,7 +281,7 @@ Haoyu He, Jing Liu, Zizheng Pan, Jianfei Cai, Jing Zhang, Dacheng Tao, Bohan Zhu
 \[[Paper](https://arxiv.org/abs/2111.11802)\]\[[Code](https://github.com/ziplab/SPViT)\]   **TPAMI 2023**
 
 - **A Survey on Efficient Training of Transformers**  
-Bohan Zhuang , Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen  
+Bohan Zhuang, Jing Liu, Zizheng Pan, Haoyu He, Yuetian Weng, Chunhua Shen  
 \[[Paper](https://arxiv.org/abs/2302.01107)\] **IJCAI 2023**
 
 
@@ -296,11 +296,11 @@ Zizheng Pan, Jianfei Cai, Bohan Zhuang
 \[[Paper](https://openreview.net/forum?id=Pyd6Rh9r1OT)\]\[[Code](https://github.com/ziplab/LITv2)\] **NeurIPS 2022** **(**<font color="red"><b>Spotlight</b></font>**)**  
 
 - **Automated Progressive Learning for Efficient Training of Vision Transformers**  
-Changlin Li, Bohan Zhuang , Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang  
+Changlin Li, Bohan Zhuang, Guangrun Wang, Xiaodan Liang, Xiaojun Chang, Yi Yang  
 \[[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_Automated_Progressive_Learning_for_Efficient_Training_of_Vision_Transformers_CVPR_2022_paper.pdf)\] **CVPR 2022**
 
 - **Less is More: Pay Less Attention in Vision Transformers**  
-Zizheng Pan, Bohan Zhuang , Haoyu He, Jing Liu, Jianfei Cai  
+Zizheng Pan, Bohan Zhuang, Haoyu He, Jing Liu, Jianfei Cai  
 \[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/20099)\]\[[Code](https://github.com/ziplab/LIT)\] **AAAI 2022**
 
 - **An Efficient Spatio-Temporal Pyramid Transformer for Action Detection**  
@@ -325,7 +325,7 @@ Jing Liu, Jianfei Cai, Bohan Zhuang
 
 
 - **Scalable Visual Transformers with Hierarchical Pooling**  
-Zizheng Pan, Bohan Zhuang , Jing Liu, Haoyu He, Jianfei Cai  
+Zizheng Pan, Bohan Zhuang, Jing Liu, Haoyu He, Jianfei Cai  
 \[[Paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Pan_Scalable_Vision_Transformers_With_Hierarchical_Pooling_ICCV_2021_paper.pdf)\]\[[Code](https://github.com/ziplab/HVT)\] **ICCV 2021**
 
 
@@ -345,7 +345,7 @@ Jing Liu\*, Bohan Zhuang\*, Zhuangwei Zhuang\*, Yong Guo, Junzhou Huang, Jinhui 
 
 
 - **AQD: Towards Accurate Quantized Object Detection**  
-Peng Chen\*, Jing Liu\*, Bohan Zhuang , Mingkui Tan, Chunhua Shen  
+Peng Chen\*, Jing Liu\*, Bohan Zhuang, Mingkui Tan, Chunhua Shen  
 \[[Paper](https://arxiv.org/abs/2104.07913)\]\[[Code](https://github.com/ziplab/QTool)\] **CVPR 2021** **(**<font color="red"><b>Oral</b></font>**)**  
 
 
