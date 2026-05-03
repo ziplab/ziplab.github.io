@@ -63,7 +63,7 @@ Weian Mao\*, Xi Lin\*, Wei Huang\*, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han
 
 
 
-- **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**       
+- **FlashGRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**       
 Xiaoxuan He, Siming Fu, Zeyue Xue, Weijie Wang, Ruizhe He, Yuming Li, Dacheng Yin, Shuai Dong, Haoyang Huang, Hongfa Wang, Nan Duan, Bohan Zhuang    
 \[[Paper]()\]\[[Code]()\]\[[Project Page]()\]\[[HuggingFace]()\]  **ICML 2026**
 
