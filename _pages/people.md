@@ -42,9 +42,6 @@ author_profile: true
 [Wen Qian](https://scholar.google.com/citations?user=rD_U0fMAAAAJ&hl=zh-CN) (DAMO Academy & Zhejiang University)
 
 
-## Visiting Researchers
-[Zeren Chen](https://scholar.google.com/citations?user=fdDOA-0AAAAJ&hl=zh-CN) (Beihang University)
-
 
 
 
