@@ -22,6 +22,11 @@ Weijie Wang\*, Qihang Cao\*, Sensen Gao\*, Donny Y. Chen, Haofei Xu, Wenjing Bia
 \[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
 
 
+- **FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation**  
+Junkang Zhou\*, Yefei He\*, Feng Chen\*, Weijie Wang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2605.09430)\]\[[Project Page](https://lxazjk.github.io/FlashAR/)\]\[[GitHub](https://github.com/lxazjk/Emu3.5-FlashAR)\]
+
+
 - **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
 Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
 \[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
