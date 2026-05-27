@@ -27,6 +27,16 @@ Junkang Zhou\*, Yefei He\*, Feng Chen\*, Weijie Wang, Bohan Zhuang
 \[[Paper](https://arxiv.org/abs/2605.09430)\]\[[Project Page](https://lxazjk.github.io/FlashAR/)\]\[[GitHub](https://github.com/lxazjk/Emu3.5-FlashAR)\]
 
 
+- **TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**     
+Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
+\[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[GitHub](https://github.com/ziplab/TriSplat)\]
+
+
+- **ReCA: Multi-Shot Long Video Extrapolation via Recursive Context Allocation**  
+Akide Liu, Jinbo Xing, Chaojie Mao, Ye Li, Zeyu Zhang, Yefei He, Weijie Wang, Zihan Wang, Yu Liu, Gholamreza Haffari, Bohan Zhuang
+\[[Paper](https://arxiv.org/abs/2605.26525)\]\[[Project Page](https://reca.vmv.re/)\]
+
+
 - **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
 Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
 \[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
