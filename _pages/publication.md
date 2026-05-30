@@ -33,7 +33,7 @@ Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny 
 
 
 - **ReCA: Multi-Shot Long Video Extrapolation via Recursive Context Allocation**  
-Akide Liu, Jinbo Xing, Chaojie Mao, Ye Li, Zeyu Zhang, Yefei He, Weijie Wang, Zihan Wang, Yu Liu, Gholamreza Haffari, Bohan Zhuang
+Akide Liu, Jinbo Xing, Chaojie Mao, Ye Li, Zeyu Zhang, Yefei He, Weijie Wang, Zihan Wang, Yu Liu, Gholamreza Haffari, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2605.26525)\]\[[Project Page](https://reca.vmv.re/)\]
 
 
