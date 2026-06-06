@@ -35,9 +35,6 @@ author_profile: true
 
 ## Bachelor Students
 [Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; incoming Ph.D. Fall 2026 @ UC Berkeley)  
-[Jinyuan Mao]() (Research Assistant; B.S. @ Zhejiang University)    
-[Yiduo Pang]() (Research Assistant; B.S. @ Zhejiang University)  
-[Yanbo Zhang]() (Research Assistant; B.S. @ Zhejiang University)  
 
 
 ## Research Fellows
@@ -47,6 +44,7 @@ author_profile: true
 
 ## Allumini 
 [Yipeng Shen]() (Research Assistant; B.S. @ Zhejiang University; incoming Ph.D. Fall 2026 @ Purdue University)  
+[Jinyuan Mao]() (Research Assistant; B.S. @ Zhejiang University)    
 
 
 
