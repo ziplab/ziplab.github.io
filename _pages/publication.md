@@ -17,19 +17,24 @@ Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, H
 \[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[HuggingFace](https://huggingface.co/papers/2511.20714)\]
 
 
+- **Latent Spatial Memory for Video World Models**  
+Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2606.09828)\]\[[Project Page](https://microsoft.github.io/LatentSpatialMemory/)\]\[[Code](https://github.com/microsoft/LatentSpatialMemory)\]\[[HuggingFace](https://huggingface.co/papers/2606.09828)\]
+
+
 - **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
 Weijie Wang\*, Qihang Cao\*, Sensen Gao\*, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
 \[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
 
 
-- **FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation**  
-Junkang Zhou\*, Yefei He\*, Feng Chen\*, Weijie Wang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2605.09430)\]\[[Project Page](https://lxazjk.github.io/FlashAR/)\]\[[GitHub](https://github.com/lxazjk/Emu3.5-FlashAR)\]
-
-
 - **TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**     
 Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
 \[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[GitHub](https://github.com/ziplab/TriSplat)\]
+
+
+- **FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation**  
+Junkang Zhou\*, Yefei He\*, Feng Chen\*, Weijie Wang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2605.09430)\]\[[Project Page](https://lxazjk.github.io/FlashAR/)\]\[[GitHub](https://github.com/lxazjk/Emu3.5-FlashAR)\]
 
 
 - **ReCA: Multi-Shot Long Video Extrapolation via Recursive Context Allocation**  
