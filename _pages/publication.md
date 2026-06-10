@@ -33,14 +33,15 @@ Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny 
 \[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[GitHub](https://github.com/ziplab/TriSplat)\]
 
 
-- **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
-Weijie Wang\*, Qihang Cao\*, Sensen Gao\*, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
-\[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
-
 
 - **Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**  
 Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, Hanfeng Lu, Jiasheng Tang, Wei Wang, Zhiyuan Wang, Jichao Wu, Mingyang Yang, Yinghao Yu, Zeyu Zhang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[HuggingFace](https://huggingface.co/papers/2511.20714)\]
+
+
+- **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
+Weijie Wang\*, Qihang Cao\*, Sensen Gao\*, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
+\[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
 
 
 - **FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation**  
@@ -51,11 +52,6 @@ Junkang Zhou\*, Yefei He\*, Feng Chen\*, Weijie Wang, Bohan Zhuang
 - **ReCA: Multi-Shot Long Video Extrapolation via Recursive Context Allocation**  
 Akide Liu, Jinbo Xing, Chaojie Mao, Ye Li, Zeyu Zhang, Yefei He, Weijie Wang, Zihan Wang, Yu Liu, Gholamreza Haffari, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2605.26525)\]\[[Project Page](https://reca.vmv.re/)\]
-
-
-- **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
-Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
-\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
 
 
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
@@ -76,6 +72,11 @@ Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang, Fan Wang, Bohan Zhuang, 
 - **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
 Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu , Donny Y. Chen, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[Hugging Face](https://huggingface.co/lhmd/VolSplat)\]
+
+
+- **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
+Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
+\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
 
 
 
