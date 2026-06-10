@@ -12,9 +12,14 @@ Chengruidong Zhang, Xi Lin, Huiqiang Jiang, Zekun Wang, Xiao Li, Yizhong Cao, Bo
 \[[Blog](https://qwen.ai/blog?id=flashqla)\]\[[Code](https://github.com/QwenLM/FlashQLA)\]\[[Zhihu](https://zhuanlan.zhihu.com/p/2032257808285028740)\]
 
 
-- **Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**  
-Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, Hanfeng Lu, Jiasheng Tang, Wei Wang, Zhiyuan Wang, Jichao Wu, Mingyang Yang, Yinghao Yu, Zeyu Zhang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[HuggingFace](https://huggingface.co/papers/2511.20714)\]
+- **K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling**   
+Zhiwei Tang, Yuanyu He, Yizheng Han, Wangbo Zhao, Jiasheng Tang, Fan Wang, Bohan Zhuang    
+\[[Paper](https://arxiv.org/abs/2606.10820)\]\[[Code](https://github.com/alibaba-damo-academy/K-Forcing)\]
+
+
+- **WorldOlympiad: Can Your World Model Survive a Triathlon?**  
+Yuke Zhao, Wangbo Zhao, Weijie Wang, Zeyu Zhang, Dakai An, Akide Liu, Yinghao Yu, Jiasheng Tang, Fan Wang, Wei Wang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2606.11129)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)\]\[[Code](https://github.com/alibaba-damo-academy/WorldOlympiad)\]\[[HuggingFace](https://huggingface.co/papers/2606.11129)\]  
 
 
 - **Latent Spatial Memory for Video World Models**  
@@ -22,14 +27,20 @@ Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Du
 \[[Paper](https://arxiv.org/abs/2606.09828)\]\[[Project Page](https://microsoft.github.io/LatentSpatialMemory/)\]\[[Code](https://github.com/microsoft/LatentSpatialMemory)\]\[[HuggingFace](https://huggingface.co/papers/2606.09828)\]
 
 
+
+- **TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**     
+Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
+\[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[GitHub](https://github.com/ziplab/TriSplat)\]
+
+
 - **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
 Weijie Wang\*, Qihang Cao\*, Sensen Gao\*, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
 \[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
 
 
-- **TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**     
-Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
-\[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[GitHub](https://github.com/ziplab/TriSplat)\]
+- **Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**  
+Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, Hanfeng Lu, Jiasheng Tang, Wei Wang, Zhiyuan Wang, Jichao Wu, Mingyang Yang, Yinghao Yu, Zeyu Zhang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[HuggingFace](https://huggingface.co/papers/2511.20714)\]
 
 
 - **FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation**  
