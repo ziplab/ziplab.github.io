@@ -14,7 +14,7 @@ Chengruidong Zhang, Xi Lin, Huiqiang Jiang, Zekun Wang, Xiao Li, Yizhong Cao, Bo
 
 - **K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling**   
 Zhiwei Tang, Yuanyu He, Yizheng Han, Wangbo Zhao, Jiasheng Tang, Fan Wang, Bohan Zhuang    
-\[[Paper](https://arxiv.org/abs/2606.10820)\]\[[Code](https://github.com/alibaba-damo-academy/K-Forcing)\]
+\[[Paper](https://arxiv.org/abs/2606.10820)\]\[[Code](https://github.com/alibaba-damo-academy/K-Forcing)\]\[[HuggingFace](https://huggingface.co/zwave/K-Forcing)\]  
 
 
 - **WorldOlympiad: Can Your World Model Survive a Triathlon?**  
