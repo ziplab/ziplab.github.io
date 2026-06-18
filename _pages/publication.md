@@ -69,10 +69,6 @@ Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang, Fan Wang, Bohan Zhuang, 
 \[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
 
 
-- **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
-Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu , Donny Y. Chen, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[Hugging Face](https://huggingface.co/lhmd/VolSplat)\]
-
 
 - **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
 Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
@@ -120,6 +116,11 @@ Feng Chen, Yefei He, Lequan Lin, Chenhui Gou, Jing Liu, Bohan Zhuang, Qi Wu
 - **RAPID^3: Tri-Level Reinforced Acceleration Policies for Diffusion Transformer**  
 Wangbo Zhao, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Bohan Zhuang, Zhangyang Wang, Fan Wang, Yang You  
 \[[Paper](https://openreview.net/forum?id=sQ0g6EkpF7)\]   **ICLR 2026**
+
+
+- **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
+Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Zheng Zhu , Donny Y. Chen, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[Hugging Face](https://huggingface.co/lhmd/VolSplat)\]  **ECCV 2026**
 
 
 - **COV: Chain-of-View Prompting for Spatial Reasoning**  
