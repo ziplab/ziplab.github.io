@@ -104,7 +104,7 @@ Zhuokun Chen, Jianfei Cai, Bohan Zhuang
 
 - **VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with Voxel-Aligned Prediction**  
 Weijie Wang\*, Yeqing Chen\*, Zeyu Zhang, Hengyu Liu, Haoxiao Wang, Zhiyuan Feng, Wenkang Qin, Jia-Wang Bian, Zheng Zhu, Donny Y. Chen, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[Code](\https://github.com/ziplab/VolSplat)\]\[[Hugging Face](https://huggingface.co/lhmd/VolSplat)\]  **ECCV 2026**
+\[[Paper](https://arxiv.org/abs/2509.19297)\]\[[Project Page](https://lhmd.top/volsplat/)\]\[[Code](https://github.com/ziplab/VolSplat)\]\[[Hugging Face](https://huggingface.co/lhmd/VolSplat)\]  **ECCV 2026**
 
 
 
