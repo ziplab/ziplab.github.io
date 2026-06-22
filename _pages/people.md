@@ -35,6 +35,8 @@ author_profile: true
 
 ## Bachelor Students
 [Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; incoming Ph.D. Fall 2026 @ UC Berkeley)  
+[Haoqian Meng](https://scholar.google.com/citations?user=pBW5B2kAAAAJ&hl=zh-CN)(Tianjin University; incoming Ph.D. Fall 2027 @ Zhejiang University)
+
 
 
 ## Research Fellows
