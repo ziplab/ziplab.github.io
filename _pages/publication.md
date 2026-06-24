@@ -54,6 +54,11 @@ Akide Liu, Jinbo Xing, Chaojie Mao, Ye Li, Zeyu Zhang, Yefei He, Weijie Wang, Zi
 \[[Paper](https://arxiv.org/abs/2605.26525)\]\[[Project Page](https://reca.vmv.re/)\]
 
 
+- **Agent-as-a-Router: Agentic Model Routing for Coding Tasks**  
+Pengfei Zhou, Zhiwei Tang, Yixing Ma, Jiasheng Tang, Yizeng Han, Zhenglin Wan, Fanqing Meng, Wei Wang, Bohan Zhuang, Wangbo Zhao, Yang You  
+\[[Paper](https://arxiv.org/abs/2606.22902)\]\[[Project Page](https://www.omnisource.cn/agent-as-a-router)\]\[[Code](https://github.com/LanceZPF/agent-as-a-router)\]  
+
+
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
 Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
@@ -62,6 +67,7 @@ Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
 Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project Page](https://caesarhhh.github.io/R-Stitch/)\]
+
 
 
 - **Few-Step Distillation for Text-to-Image Generation: A Practical Guide**  
