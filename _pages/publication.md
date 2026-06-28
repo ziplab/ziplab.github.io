@@ -30,7 +30,7 @@ Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Du
 
 - **TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**     
 Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
-\[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[GitHub](https://github.com/ziplab/TriSplat)\]
+\[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[Code](https://github.com/ziplab/TriSplat)\]
 
 
 
