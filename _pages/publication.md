@@ -19,7 +19,12 @@ Zhiwei Tang, Yuanyu He, Yizheng Han, Wangbo Zhao, Jiasheng Tang, Fan Wang, Bohan
 
 - **WorldOlympiad: Can Your World Model Survive a Triathlon?**  
 Yuke Zhao, Wangbo Zhao, Weijie Wang, Zeyu Zhang, Dakai An, Akide Liu, Yinghao Yu, Jiasheng Tang, Fan Wang, Wei Wang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2606.11129)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)\]\[[Code](https://github.com/alibaba-damo-academy/WorldOlympiad)\]\[[HuggingFace](https://huggingface.co/papers/2606.11129)\]  
+\[[Paper](https://arxiv.org/abs/2606.11129)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)\]\[[Code](https://github.com/alibaba-damo-academy/WorldOlympiad)\]\[[HuggingFace](https://huggingface.co/papers/2606.11129)\]
+
+
+- **MiniMax Sparse Attention**  
+Xunhao Lai, Weiqi Xu, Yufeng Yang, Qiaorui Chen, Yang Xu, Lunbin Zeng, Xiaolong Li, Haohai Sun, Haichao Zhu, Vito Zhang, Jinkai Hu, Jiayao Li, Rui Gao, Zekun Li, Songquan Zhu, Jingkai Zhou, Pengyu Zhao  
+\[[Paper](https://arxiv.org/abs/2606.13392)\]\[[Code](https://github.com/MiniMax-AI/MSA)\]\[[HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-M3)\]
 
 
 - **Latent Spatial Memory for Video World Models**  
