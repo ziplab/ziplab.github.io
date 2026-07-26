@@ -19,7 +19,7 @@ author_profile: true
 ## Current Graduate Students
 [Weijie Wang](https://lhmd.top/) (Ph.D. @ Zhejiang University)  
 [Jiahao He](https://github.com/Hygge02) (Ph.D. @ Zhejiang University)  
-[Xi Lin](https://profile.erix025.me/) (Ph.D. @ Zhejiang University)  
+[Xi Lin](https://erix025.me/) (Ph.D. @ Zhejiang University)  
 [Xiaoxuan He](https://scholar.google.com/citations?user=Q8EDNIgAAAAJ&hl=zh-CN) (Ph.D. @ Zhejiang University)  
 [Yuanyu He](https://github.com/Yuanyu0) (M.S. @ Zhejiang University)  
 [Xiaolong Li](https://xiaolong-li1.github.io/) (M.S. @ Zhejiang University)   
