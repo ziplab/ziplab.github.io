@@ -7,7 +7,7 @@ author_profile: true
 ## Preprint
 
 
-- **FlashQLA: CP- and Bwd-Friendly Fused Linear Attention Kernels for GDN**  
+- **FlashQLA: Flash Qwen Linear Attention**   
 Chengruidong Zhang, Xi Lin, Huiqiang Jiang, Zekun Wang, Xiao Li, Yizhong Cao, Bohan Zhuang, Rui Men, Jianwei Zhang, Bo Zheng, Junyang Lin, Dayiheng Liu, Jingren Zhou  
 \[[Blog](https://qwen.ai/blog?id=flashqla)\]\[[Code](https://github.com/QwenLM/FlashQLA)\]\[[Zhihu](https://zhuanlan.zhihu.com/p/2032257808285028740)\]
 
