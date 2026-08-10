@@ -13,5 +13,4 @@ Welcome to ZIP Lab!
 
 Our lab pioneers next-generation efficient AI computing, specializing in large language models and multimodal foundation models.
 
-<span style="color:red"><strong> The application for the 2027 postgraduate intake is now closed!</strong></span>
 
