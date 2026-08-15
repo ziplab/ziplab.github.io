@@ -95,11 +95,21 @@
         .header h1 {
             font-size: 32px;
             margin-bottom: 15px;
-            line-height: 1.4;
+            line-height: 1.35;
             text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
             letter-spacing: 1px;
             position: relative;
             z-index: 2;
+        }
+
+        .header h1 span {
+            display: block;
+        }
+
+        .header .recruitment-title {
+            margin-top: 6px;
+            font-size: 0.88em;
+            font-weight: 600;
         }
         
         .header h2 {
@@ -523,6 +533,14 @@
         .instructions strong {
             color: var(--primary-color);
         }
+
+        .last-updated {
+            margin: 24px 0 0;
+            color: #7a8490;
+            font-size: 14px;
+            text-align: center;
+            letter-spacing: 0.02em;
+        }
         
         /* Animations */
         @keyframes fadeIn {
@@ -575,16 +593,19 @@
 <body>
     <div class="container">
         <div class="header">
-            <h1>科研实习生/硕博招生 - 浙江大学 CAD & CG 国家重点实验室</h1>
+            <h1>
+                <span>浙江大学 CAD &amp; CG 国家重点实验室</span>
+                <span class="recruitment-title">科研实习生/硕博招生</span>
+            </h1>
             <h2>ZIP Lab: 算法侧和系统侧</h2>
         </div>
 
         <div class="section">
             <h2 class="section-title"><i class="fas fa-users"></i>我们是谁</h2>
-            <p>ZIP Lab 隶属于浙江大学 CAD & CG 国家重点实验室。我们的主要研究方向是为高效的机器学习/大模型系统，尤其专注于大语言模型和多模态大模型的研究。</p>
-            <p>如需了解我们的团队和发表的论文，欢迎访问我们的网站：<a href="https://ziplab.co/" class="lab-link" target="_blank">https://ziplab.co/</a></p>
-            <p>Target CV/ML 顶会科研发表：<span class="highlight">ICLR</span> <span class="highlight">ICML</span> <span class="highlight">NIPS</span> <span class="highlight">CVPR</span> <span class="highlight">ICCV</span> <span class="highlight">ECCV</span> 等等。</p>
-            <p>我们正在招收对实验室相关研究方向感兴趣的本科生和研究生/gap 期间在本校导师允许的情况也可以参加。</p>
+            <p>ZIP Lab 隶属于浙江大学 CAD &amp; CG 国家重点实验室，聚焦高效机器学习与大模型研究，重点探索视频生成与世界模型、多模态智能体，以及训练与推理系统的算法—系统协同设计。</p>
+            <p>如需了解团队与最新研究成果，欢迎访问我们的<a href="https://ziplab.co/" class="lab-link" target="_blank">实验室主页</a>和<a href="https://ziplab.co/publication/" class="lab-link" target="_blank">论文列表</a>。</p>
+            <p>Target CV/ML 顶会科研发表：<span class="highlight">ICLR</span> <span class="highlight">ICML</span> <span class="highlight">NeurIPS</span> <span class="highlight">CVPR</span> <span class="highlight">ICCV</span> <span class="highlight">ECCV</span> 等。</p>
+            <p>我们长期招收对相关研究方向感兴趣的本科生、研究生及 gap 期间的同学；在读同学请先征得本校导师同意。</p>
         </div>
 
         <div class="section">
@@ -592,8 +613,8 @@
             <ul class="requirements">
                 <li>认真踏实，积极诚实</li>
                 <li>熟悉 Python/PyTorch/Linux 使用</li>
-                <li>掌握深度学习/VIT/LLM 等基础知识</li>
-                <li>线上线下(杭州)均可</li>
+                <li>掌握深度学习、生成模型或大模型相关基础知识</li>
+                <li>支持线上参与或线下（杭州）合作</li>
             </ul>
             <p>我们提供以下项目可选，也欢迎同学提出自己的idea和我们共同讨论。</p>
             
@@ -603,22 +624,22 @@
             
             <div class="project project-video" style="--i:0">
                 <h3><i class="fas fa-film"></i>方向一：Video Generation</h3>
-                <p>关注视频生成模型的时间一致性、可控生成与高效训练，涉及扩散/Transformer 架构、运动建模、采样加速与评测指标。熟悉 Open-Sora、CogVideoX、AnimateDiff 等开源模型并有训练或推理优化经验者优先。</p>
+                <p>关注高质量、长时且可控的视频生成，研究时空建模、长上下文一致性、生成控制、训练与采样效率，以及自动化评测。具备生成模型、视频理解或大规模训练与推理经验者优先。</p>
             </div>
             
             <div class="project project-3d" style="--i:1">
-                <h3><i class="fas fa-cube"></i>方向二：3D World Model</h3>
-                <p>关注 3D 场景生成与理解、世界模型构建与多视角一致性，涉及 3D Gaussian Splatting/NeRF、场景重建与可控编辑、视觉-几何联合表征。具备 3D 视觉或具身智能相关经验者优先。</p>
+                <h3><i class="fas fa-cube"></i>方向二：World Model &amp; Spatial Intelligence</h3>
+                <p>关注可交互世界模拟与空间智能，研究视频世界模型、3D/4D 场景表征与生成、时空记忆、几何与物理约束推理，以及面向具身智能的环境建模与评测。具备视频生成、3D 视觉、多模态推理或强化学习经验者优先。</p>
             </div>
             
             <div class="project project-vlm" style="--i:2">
-                <h3><i class="fas fa-eye"></i>方向三：Vision-Language Model</h3>
-                <p>关注视觉-语言对齐、指令微调与多模态评测，涉及视觉编码器与 LLM 融合、跨模态对齐、数据清洗与构造、基础评测与自动化分析。熟悉 Qwen-VL、Janus、LLaVA-OneVision 等开源模型并有实践经验者优先。</p>
+                <h3><i class="fas fa-eye"></i>方向三：Multimodal Agent Efficiency</h3>
+                <p>关注多模态智能体在感知、推理、规划与工具使用全链路中的效率问题，开展算法与系统协同设计，研究动态 token、模型与工具路由，稀疏化与压缩，长上下文记忆，推理加速及高效部署。具备多模态大模型、智能体或系统优化经验者优先。</p>
             </div>
             
             <div class="project project-rl" style="--i:3">
                 <h3><i class="fas fa-robot"></i>方向四：Reinforcement Learning</h3>
-                <p>关注强化学习算法及其在大模型对齐中的应用，涉及策略优化、奖励建模、长序列训练稳定性与高效采样。熟悉 Policy Gradient、REINFORCE、PPO、GRPO 等算法并具备复现与改进能力者优先。</p>
+                <p>关注强化学习在多模态智能体、生成模型与世界模型中的应用，研究策略优化、奖励与反馈建模、长程信用分配、训练稳定性及高效数据采样。具备算法复现、规模化训练或评测经验者优先。</p>
             </div>
             
             <h3 class="category-title system-category">
@@ -627,12 +648,12 @@
             
             <div class="project system-project-1" style="--i:4">
                 <h3><i class="fas fa-microchip"></i>方向一：System Efficiency</h3>
-                <p>需要同学对大模型算法和系统有深入理解，熟悉大模型训练和推理优化技术，了解分布式计算和模型压缩方法，对提升模型效率和性能有研究兴趣，有相关发表经验的优先。</p>
+                <p>关注大模型与多模态智能体的高效训练、推理和服务，研究分布式并行、内存与通信优化、稀疏与低精度计算、请求调度，以及算法—系统协同设计。具备机器学习系统或性能优化经验者优先。</p>
             </div>
 
             <div class="project system-project-2" style="--i:5">
                 <h3><i class="fas fa-cogs"></i>方向二：Kernel Optimization</h3>
-                <p>需要同学对计算机系统和算子编写有基本了解，熟悉深度学习框架中的算子机制，能够测试和优化现有算子，并有兴趣开发新的高效算子实现，有相关经验的优先。</p>
+                <p>关注面向现代加速器的高性能算子设计与端到端优化，研究算子融合、数据布局、并行策略、低精度与稀疏计算，并通过系统化 profiling 定位和消除性能瓶颈。具备并行编程、编译器或算子开发经验者优先。</p>
             </div>
         </div>
 
@@ -652,10 +673,11 @@
             <p>系统侧请抄送：bohan.zhuang@zju.edu.cn，erix025@outlook.com</p>
             <!-- <p>Master/PhD/PostDoc 直接申请请填写：<a href="https://forms.gle/UoR8B19y2NsjtGRJ6" class="lab-link" target="_blank">Google Form</a></p> -->
             <div class="instructions">
-                <p>邮件标题注明 "<strong>实习生-院校-年级-姓名-对应的项目(Video Gen / 3D / VLM / RL / Sys)</strong>"</p>
+                <p>邮件标题注明 "<strong>实习生-院校-年级-姓名-对应的项目（Video Gen / World Model / Agent Efficiency / RL / Sys）</strong>"</p>
                 <p>请附上含成绩/排名等信息的简历</p>
             </div>
         </div>
+        <p class="last-updated">最后更新：2026年8月15日</p>
     </div>
 </body>
 </html>
