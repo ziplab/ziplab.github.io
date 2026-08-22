@@ -34,19 +34,18 @@ author_profile: true
 
 
 ## Bachelor Students
-[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; incoming Ph.D. Fall 2026 @ UC Berkeley)  
-[Haoqian Meng](https://scholar.google.com/citations?user=pBW5B2kAAAAJ&hl=zh-CN)(Tianjin University; incoming Ph.D. Fall 2027 @ Zhejiang University)
-
+[Haoqian Meng](https://scholar.google.com/citations?user=pBW5B2kAAAAJ&hl=zh-CN) (Tianjin University; incoming Ph.D. Fall 2027 @ Zhejiang University)
 
 
 ## Research Fellows
-[Zhiwei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) (DAMO Academy & Zhejiang University)    
-[Wen Qian](https://scholar.google.com/citations?user=rD_U0fMAAAAJ&hl=zh-CN) (DAMO Academy & Zhejiang University)
+[Zhiwei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) (DAMO Academy & Zhejiang University) 
 
 
 ## Allumini 
-[Yipeng Shen]() (Research Assistant; B.S. @ Zhejiang University; incoming Ph.D. Fall 2026 @ Purdue University)  
+[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; Ph.D. Fall 2026 @ UC Berkeley)  
+[Yipeng Shen]() (Research Assistant; B.S. @ Zhejiang University; Ph.D. Fall 2026 @ Purdue University)  
 [Jinyuan Mao]() (Research Assistant; B.S. @ Zhejiang University)    
+
 
 
 
