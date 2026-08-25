@@ -257,7 +257,7 @@
             background: linear-gradient(to right, rgba(0, 119, 182, 0.05), rgba(255, 255, 255, 0.5));
         }
         
-        .project-vla {
+        .project-multimodal {
             border-color: #0096c7;
             background: linear-gradient(to right, rgba(0, 150, 199, 0.05), rgba(255, 255, 255, 0.5));
         }
@@ -307,7 +307,7 @@
             color: var(--primary-light);
         }
         
-        .project-vla h3 i {
+        .project-multimodal h3 i {
             color: #0096c7;
         }
         
@@ -597,15 +597,14 @@
                 <span>浙江大学ZIP Lab</span>
                 <span class="recruitment-title">科研实习生/硕博招生</span>
             </h1>
-            <h2>ZIP Lab: 算法侧和系统侧</h2>
         </div>
 
         <div class="section">
             <h2 class="section-title"><i class="fas fa-users"></i>我们是谁</h2>
-            <p>ZIP Lab 隶属于浙江大学 CAD &amp; CG 国家重点实验室，聚焦高效机器学习与大模型研究，重点探索视频生成与世界模型、多模态智能体，以及训练与推理系统的算法—系统协同设计。</p>
+            <p>ZIP Lab 聚焦高效机器学习与大模型研究，主线分为算法侧和系统侧，强调算法—系统协同设计。</p>
             <p>如需了解团队与最新研究成果，欢迎访问我们的<a href="https://ziplab.co/" class="lab-link" target="_blank">实验室主页</a>和<a href="https://ziplab.co/publication/" class="lab-link" target="_blank">论文列表</a>。</p>
-            <p>Target CV/ML 顶会科研发表：<span class="highlight">ICLR</span> <span class="highlight">ICML</span> <span class="highlight">NeurIPS</span> <span class="highlight">CVPR</span> <span class="highlight">ICCV</span> <span class="highlight">ECCV</span> 等。</p>
-            <p>我们长期招收对相关研究方向感兴趣的本科生、研究生及 gap 期间的同学；在读同学请先征得本校导师同意。</p>
+            <p>目标科研发表：<span class="highlight">MLSys</span> <span class="highlight">OSDI</span> <span class="highlight">EuroSys</span> <span class="highlight">ICLR</span> <span class="highlight">ICML</span> <span class="highlight">NeurIPS</span> 等。</p>
+            <p>长期招收本科生、研究生及 gap 期间的同学；在读同学请先征得本校导师同意。</p>
         </div>
 
         <div class="section">
@@ -613,47 +612,42 @@
             <ul class="requirements">
                 <li>认真踏实，积极诚实</li>
                 <li>熟悉 Python/PyTorch/Linux 使用</li>
-                <li>掌握深度学习、生成模型或大模型相关基础知识</li>
+                <li>掌握深度学习、生成模型或大模型相关基础知识，对系统效率问题有兴趣</li>
                 <li>支持线上参与或线下（杭州）合作</li>
             </ul>
-            <p>我们提供以下项目可选，也欢迎同学提出自己的idea和我们共同讨论。</p>
-            
-            <h3 class="category-title algorithm-category">
-                <i class="fas fa-brain"></i>算法侧
-            </h3>
-            
-            <div class="project project-video" style="--i:0">
-                <h3><i class="fas fa-film"></i>方向一：Video Generation</h3>
-                <p>关注高质量、长时且可控的视频生成，研究时空建模、长上下文一致性、生成控制、训练与采样效率，以及自动化评测。具备生成模型、视频理解或大规模训练与推理经验者优先。</p>
-            </div>
-            
-            <div class="project project-3d" style="--i:1">
-                <h3><i class="fas fa-cube"></i>方向二：World Model &amp; Spatial Intelligence</h3>
-                <p>关注可交互世界模拟与空间智能，研究视频世界模型、3D/4D 场景表征与生成、时空记忆、几何与物理约束推理，以及面向具身智能的环境建模与评测。具备视频生成、3D 视觉、多模态推理或强化学习经验者优先。</p>
-            </div>
-            
-            <div class="project project-vlm" style="--i:2">
-                <h3><i class="fas fa-eye"></i>方向三：Multimodal Agent Efficiency</h3>
-                <p>关注多模态智能体在感知、推理、规划与工具使用全链路中的效率问题，开展算法与系统协同设计，研究动态 token、模型与工具路由，稀疏化与压缩，长上下文记忆，推理加速及高效部署。具备多模态大模型、智能体或系统优化经验者优先。</p>
-            </div>
-            
-            <div class="project project-vla" style="--i:3">
-                <h3><i class="fas fa-robot"></i>方向四：World Action Model / VLA</h3>
-                <p>关注从视觉与语言理解到动作生成的世界—动作联合建模，研究 VLA 模型、具身智能中的感知—推理—规划—控制闭环、多模态动作表征、长时序决策、仿真与真实数据协同，以及数据高效训练与评测。具备机器人学习、视觉语言模型、强化学习或控制相关经验者优先。</p>
-            </div>
-            
+            <p>以下方向均可从自己的兴趣和经验切入，也欢迎带着 idea 来讨论。</p>
+
             <h3 class="category-title system-category">
                 <i class="fas fa-server"></i>系统侧
             </h3>
             
             <div class="project system-project-1" style="--i:4">
-                <h3><i class="fas fa-microchip"></i>方向一：System Efficiency</h3>
-                <p>关注大模型与多模态智能体的高效训练、推理和服务，研究分布式并行、内存与通信优化、稀疏与低精度计算、请求调度，以及算法—系统协同设计。具备机器学习系统或性能优化经验者优先。</p>
+                <h3><i class="fas fa-microchip"></i>Efficient Training &amp; Inference Systems</h3>
+                <p>大模型训练、推理和服务的端到端效率：分布式并行、KV Cache、稀疏与低精度计算、请求调度和推理引擎。</p>
             </div>
 
             <div class="project system-project-2" style="--i:5">
-                <h3><i class="fas fa-cogs"></i>方向二：Kernel Optimization</h3>
-                <p>关注面向现代加速器的高性能算子设计与端到端优化，研究算子融合、数据布局、并行策略、低精度与稀疏计算，并通过系统化 profiling 定位和消除性能瓶颈。具备并行编程、编译器或算子开发经验者优先。</p>
+                <h3><i class="fas fa-cogs"></i>Agentic Infrastructure</h3>
+                <p>支撑智能体运行的基础设施：模型与工具路由、Agent Runtime、任务编排、记忆管理、并行执行和可观测性。</p>
+            </div>
+
+            <div class="project system-project-1" style="--i:6">
+                <h3><i class="fas fa-bolt"></i>Kernel Efficiency</h3>
+                <p>面向现代加速器的高性能算子与 Kernel：算子融合、数据布局、并行策略、低精度、稀疏计算和 profiling。</p>
+            </div>
+
+            <h3 class="category-title algorithm-category">
+                <i class="fas fa-brain"></i>算法侧
+            </h3>
+
+            <div class="project project-video" style="--i:7">
+                <h3><i class="fas fa-film"></i>Large Model Efficiency</h3>
+                <p>研究大语言模型与多模态基础模型的结构、训练和推理效率，包括稀疏化、量化、蒸馏与长上下文。</p>
+            </div>
+
+            <div class="project project-3d" style="--i:8">
+                <h3><i class="fas fa-cube"></i>World Model &amp; Multimodal Intelligence</h3>
+                <p>研究世界模型、多模态推理、空间记忆与长时序建模，并关注可扩展的系统化评测。</p>
             </div>
         </div>
 
@@ -669,15 +663,15 @@
         <div class="contact">
             <h3 class="contact-title">联系方式</h3>
             <p class="contact-email"><i class="fas fa-envelope"></i>zip.lab@outlook.com</p>
-            <p>算法侧请抄送：bohan.zhuang@zju.edu.cn，wangweijie@zju.edu.cn</p>
             <p>系统侧请抄送：bohan.zhuang@zju.edu.cn，erix025@outlook.com</p>
+            <p>算法侧请抄送：bohan.zhuang@zju.edu.cn，wangweijie@zju.edu.cn</p>
             <!-- <p>Master/PhD/PostDoc 直接申请请填写：<a href="https://forms.gle/UoR8B19y2NsjtGRJ6" class="lab-link" target="_blank">Google Form</a></p> -->
             <div class="instructions">
-                <p>邮件标题注明 "<strong>实习生-院校-年级-姓名-对应的项目（Video Gen / World Model / Agent Efficiency / VLA / Sys）</strong>"</p>
+                <p>邮件标题注明 "<strong>实习生-院校-年级-姓名-对应的项目（MLSys / Agentic Infrastructure / Kernel Efficiency / World Model）</strong>"</p>
                 <p>请附上含成绩/排名等信息的简历</p>
             </div>
         </div>
-        <p class="last-updated">最后更新：2026年8月15日</p>
+        <p class="last-updated">最后更新：2026年8月25日</p>
     </div>
 </body>
 </html>
