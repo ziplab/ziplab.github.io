@@ -32,21 +32,9 @@ Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Du
 \[[Paper](https://arxiv.org/abs/2606.09828)\]\[[Project Page](https://microsoft.github.io/LatentSpatialMemory/)\]\[[Code](https://github.com/microsoft/LatentSpatialMemory)\]\[[HuggingFace](https://huggingface.co/papers/2606.09828)\]
 
 
-
-- **TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**     
-Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
-\[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[Code](https://github.com/ziplab/TriSplat)\]
-
-
-
 - **Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation**  
 Inferix Team: Tianyu Feng, Yizeng Han, Jiahao He, Yuanyu He, Xi Lin, Teng Liu, Hanfeng Lu, Jiasheng Tang, Wei Wang, Zhiyuan Wang, Jichao Wu, Mingyang Yang, Yinghao Yu, Zeyu Zhang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2511.20714)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[HuggingFace](https://huggingface.co/papers/2511.20714)\]
-
-
-- **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
-Weijie Wang\*, Qihang Cao\*, Sensen Gao\*, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
-\[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
 
 
 - **FlashAR: Efficient Post-Training Acceleration for Autoregressive Image Generation**  
@@ -64,28 +52,19 @@ Pengfei Zhou, Zhiwei Tang, Yixing Ma, Jiasheng Tang, Yizeng Han, Zhenglin Wan, F
 \[[Paper](https://arxiv.org/abs/2606.22902)\]\[[Project Page](https://www.omnisource.cn/agent-as-a-router)\]\[[Code](https://github.com/LanceZPF/agent-as-a-router)\]  
 
 
-- **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
-Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
+- **TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**     
+Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
+\[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[Code](https://github.com/ziplab/TriSplat)\]
 
 
-- **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
-Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project Page](https://caesarhhh.github.io/R-Stitch/)\]
+- **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
+Weijie Wang\*, Qihang Cao\*, Sensen Gao\*, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
+\[[Paper](https://huggingface.co/papers/2604.14025)\]\[[Project Page](https://ff3d-survey.github.io)\]\[[GitHub](https://github.com/ziplab/Awesome-Feed-Forward-3D)\]
 
 
-
-- **Few-Step Distillation for Text-to-Image Generation: A Practical Guide**  
-Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang, Fan Wang, Bohan Zhuang, Gao Huang    
-\[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
-
-
-
-- **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
-Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
-\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
-
-
+- **Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion**  
+Bowen Cui\*, Weijie Wang\*, Zeyu Zhang, Yefei He, Mingda Lin, Haoyu Zhao, Yuanyu He, Donny Y. Chen, Feng Chen, Bohan Zhuang  
+\[[Paper](https://alexandertsui.github.io/block3d/assets/papers/block3d.pdf)\]\[[Project Page](https://alexandertsui.github.io/block3d/)\]\[[GitHub](https://github.com/ziplab/Block3D)\]
 
 
 ## 2026 
@@ -150,7 +129,9 @@ Chenhui Gou, Ziyu Ma, Zicheng Duan, Haoyu He, Feng Chen, Akide Liu, Bohan Zhuang
 \[[Paper](https://arxiv.org/abs/2508.15360)\] **CVPR 2026**
 
 
+
 ##   2025
+
 
 - **FPSAttention: Training-Aware FP8 and Sparsity Co-Design for Fast Video Diffusion**  
 Akide Liu\*, Zeyu Zhang\*, Zhexin Li, Xuehai Bai, Yuanjie Xing, Yizeng Han, Jiasheng Tang, Jichao Wu, Mingyang Yang, Weihua Chen, Jiahao He, Yuanyu He, Fan Wang , Gholamreza Haffari, Bohan Zhuang  
@@ -197,9 +178,31 @@ Mingyang Zhang, Jing Liu, Ganggui Ding, Xinyi Yu, Linlin Ou, Bohan Zhuang
 \[[Paper](https://arxiv.org/abs/2412.15283)\] **AAAI 2025** **(**<font color="red"><b>Oral</b></font>**)**
 
 
+- **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
+Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
+
+
+- **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
+Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2507.17307)\]\[[Project Page](https://caesarhhh.github.io/R-Stitch/)\]
+
+
+- **Few-Step Distillation for Text-to-Image Generation: A Practical Guide**  
+Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang, Fan Wang, Bohan Zhuang, Gao Huang    
+\[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
+
+
+- **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
+Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
+\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
+
+
 - **Motion Anything: Any to Motion Generation**  
 Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
 \[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]
+
+
 
 
 ##   2024
