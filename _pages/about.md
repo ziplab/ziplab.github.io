@@ -13,6 +13,5 @@ Welcome to ZIP Lab!
 
 Our lab pioneers next-generation efficient AI computing, specializing in large language models and multimodal foundation models.  
 
-<span style="color:red">One 2027‑intake PhD position available: C9 applicants ranked within top 10% of cohort. Application Deadline: September 6, 2026 </span>
 
 
