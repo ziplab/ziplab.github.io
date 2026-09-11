@@ -67,6 +67,12 @@ Bowen Cui\*, Weijie Wang\*, Zeyu Zhang, Yefei He, Mingda Lin, Haoyu Zhao, Yuanyu
 \[[Paper](https://alexandertsui.github.io/block3d/assets/papers/block3d.pdf)\]\[[Project Page](https://alexandertsui.github.io/block3d/)\]\[[GitHub](https://github.com/ziplab/Block3D)\]
 
 
+- **ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes**  
+Mingda Lin, Weijie Wang, Zeyu Zhang, Bowen Cui, Yefei He, Haoyu Zhao, Yuanyu He, Donny Y. Chen, Feng Chen, Bohan Zhuang
+\[[Paper](https://arxiv.org/abs/2609.01740)\]\[[Project Page](https://forthloth.github.io/ziptok3d/)\]\[[GitHub](https://github.com/ziplab/ZipTok3D)\]
+
+
+
 ## 2026 
 
 
@@ -113,7 +119,6 @@ Wangbo Zhao, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Boh
 \[[Paper](https://openreview.net/forum?id=sQ0g6EkpF7)\]   **ICLR 2026**
 
 
-
 - **COV: Chain-of-View Prompting for Spatial Reasoning**  
 Haoyu Zhao, Akide Liu, Zeyu Zhang, Weijie Wang, Feng Chen, Ruihan Zhu, Gholamreza Haffari, Bohan Zhuang    
 \[[Paper](https://arxiv.org/abs/2601.05172)\]\[[Code](https://github.com/ziplab/CoV)\]\[[Project Page](https://ziplab.co/CoV/)\]\[[HuggingFace](https://huggingface.co/papers/2601.05172)\]   **ACL 2026 (Findings)**
@@ -127,6 +132,16 @@ Zeren Chen, Xiaoya Lu, Zhijie Zheng, Pengrui Li, Lehan He, Yijin Zhou, Jing Shao
 - **An Empirical Study on How Video-LLMs Answer Videos Questions**  
 Chenhui Gou, Ziyu Ma, Zicheng Duan, Haoyu He, Feng Chen, Akide Liu, Bohan Zhuang, Jianfei Cai, Hamid Rezatofighi    
 \[[Paper](https://arxiv.org/abs/2508.15360)\] **CVPR 2026**
+
+
+- **BIFE: Better Interaction, Fewer Errors for Minute-Long Video Generation**  
+Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
+\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\] **SIGGRAPH Asia 2026 Technical Communications**
+
+
+- **Motion Anything: Any to Motion Generation**  
+Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
+\[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\] **SIGGRAPH Asia 2026 Technical Communications**
 
 
 
@@ -192,15 +207,6 @@ Zhuokun Chen, Zeren Chen, Jiahao He, Mingkui Tan, Jianfei Cai, Bohan Zhuang
 Yifan Pu\*, Yizeng Han\*, Zhiwei Tang\*, Jiasheng Tang, Fan Wang, Bohan Zhuang, Gao Huang    
 \[[Paper](https://arxiv.org/abs/2512.13006)\]\[[Project Page](https://github.com/alibaba-damo-academy/T2I-Distill)\]
 
-
-- **BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation**  
-Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
-\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\]
-
-
-- **Motion Anything: Any to Motion Generation**  
-Zeyu Zhang, Yiran Wang, Wei Mao, Danning Li, Rui Zhao, Biao Wu, Zirui Song, Bohan Zhuang, Ian Reid, Richard Hartley  
-\[[Paper](https://arxiv.org/abs/2503.06955)\]\[[Project](https://steve-zeyu-zhang.github.io/MotionAnything/)\]
 
 
 
