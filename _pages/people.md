@@ -21,11 +21,21 @@ author_profile: true
 [Jiahao He](https://github.com/Hygge02) (Ph.D. @ Zhejiang University)  
 [Xi Lin](https://erix025.me/) (Ph.D. @ Zhejiang University)  
 [Xiaoxuan He](https://scholar.google.com/citations?user=Q8EDNIgAAAAJ&hl=zh-CN) (Ph.D. @ Zhejiang University)  
+[Haoqian Meng](https://scholar.google.com/citations?user=pBW5B2kAAAAJ&hl=zh-CN) (Ph.D. @ Zhejiang University)  
+[Shiyuan Zhang](https://openreview.net/profile?id=~Shiyuan_Zhang4)(Ph.D. @ Zhejiang University)  
+[Haomin Zhang]()(Ph.D. @ Zhejiang University)
+
 [Yuanyu He](https://github.com/Yuanyu0) (M.S. @ Zhejiang University)  
 [Xiaolong Li](https://xiaolong-li1.github.io/) (M.S. @ Zhejiang University)   
 [Youping Gu](https://github.com/Tacossp) (M.S. @ Zhejiang University)   
-[Haoyu Zhao](zhao-haoyu.github.io) (M.S. @ Zhejiang University)  
-[Yuke Zhao](https://hzeroyuke.github.io/my_blog/) (M.S. @ Zhejiang University)
+[Haoyu Zhao](zhao-haoyu.github.io) (M.S. @ Zhejiang University)    
+[Yuke Zhao](https://hzeroyuke.github.io/my_blog/) (M.S. @ Zhejiang University)  
+[Ye Li](https://openreview.net/profile?id=~Ye_Li26)(M.S. @ Zhejiang University)  
+[Guang Zhang](https://github.com/zhuiguang49)(M.S. @ Zhejiang University)  
+[Mingda Lin](https://openreview.net/profile?id=~Mingda_Lin1)(M.S. @ Zhejiang University)  
+[Xiyu Wu]()(M.S. @ Zhejiang University)  
+[Yanpei Gong](https://yanpeigong.github.io/)(M.S. @ Zhejiang University)  
+[Ziyang Li](https://openreview.net/profile?id=~Ziyang_li8)(M.S. @ Zhejiang University)  
 
 [Zhuokun Chen](https://openreview.net/profile?id=%7EZhuokun_Chen4) (Ph.D. @ Monash University)  
 [Akide Liu](https://scholar.google.com/citations?hl=en&user=1HjSeKgAAAAJ) (Ph.D. @ Monash University)  
@@ -33,16 +43,12 @@ author_profile: true
 [Feng Chen](https://github.com/Chenfeng1271) (Ph.D. @ Adelaide University)  
 
 
-## Bachelor Students
-[Haoqian Meng](https://scholar.google.com/citations?user=pBW5B2kAAAAJ&hl=zh-CN) (Tianjin University; incoming Ph.D. Fall 2027 @ Zhejiang University)
-
-
 ## Research Fellows
 [Zhiwei Tang](https://scholar.google.com/citations?user=GN-N9c8AAAAJ&hl=en) (DAMO Academy & Zhejiang University) 
 
 
 ## Allumini 
-[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Australian National University; Ph.D. Fall 2026 @ UC Berkeley)  
+[Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Research Assistant; B.S. @ Australian National University; Ph.D. Fall 2026 @ UC Berkeley)  
 [Yipeng Shen]() (Research Assistant; B.S. @ Zhejiang University; Ph.D. Fall 2026 @ Purdue University)  
 [Jinyuan Mao]() (Research Assistant; B.S. @ Zhejiang University)    
 
