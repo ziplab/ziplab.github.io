@@ -12,6 +12,11 @@ Chengruidong Zhang\*, Xi Lin\*, Huiqiang Jiang\*, Zekun Wang, Xiao Li, Yizhong C
 \[[Blog](https://qwen.ai/blog?id=flashqla)\]\[[Code](https://github.com/QwenLM/FlashQLA)\]\[[Zhihu](https://zhuanlan.zhihu.com/p/2032257808285028740)\]
 
 
+- **WorldAttention: An Efficient Attention Architecture for Interactive Video World Models**     
+Zeyu Zhang, Jinyuan Mao, Dakai An, Wangbo Zhao, Hanfeng Lu, Jiasheng Tang, Yinghao Yu, Wei Wang, Bohan Zhuang   
+\[[Paper](https://arxiv.org/abs/2609.34606)\]\[[Code](https://github.com/alibaba-damo-academy/WorldAttention)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldAttention/)\]  
+
+
 - **K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling**   
 Zhiwei Tang, Yuanyu He, Yizheng Han, Wangbo Zhao, Jiasheng Tang, Fan Wang, Bohan Zhuang    
 \[[Paper](https://arxiv.org/abs/2606.10820)\]\[[Code](https://github.com/alibaba-damo-academy/K-Forcing)\]\[[HuggingFace](https://huggingface.co/zwave/K-Forcing)\]  
