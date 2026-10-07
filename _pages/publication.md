@@ -7,14 +7,29 @@ author_profile: true
 ## Preprint
 
 
-- **FlashQLA: Flash Qwen Linear Attention**   
-Chengruidong Zhang\*, Xi Lin\*, Huiqiang Jiang\*, Zekun Wang, Xiao Li, Yizhong Cao, Bohan Zhuang, Rui Men, Jianwei Zhang, Bo Zheng, Junyang Lin, Dayiheng Liu, Jingren Zhou  
-\[[Blog](https://qwen.ai/blog?id=flashqla)\]\[[Code](https://github.com/QwenLM/FlashQLA)\]\[[Zhihu](https://zhuanlan.zhihu.com/p/2032257808285028740)\]
+
+- **HLA: Hybrid Linear Attention for Long-Horizon Video World Models**    
+Zhuokun Chen, Feng Chen, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang       
+\[[Paper](https://arxiv.org/abs/2610.05842)\]\[[Code](https://github.com/Caesarhhh/HLA_)\]\[[Project Page](https://caesarhhh.github.io/hla/)\]
+
+
+
+- **HLA-WM: Hybrid Linear Attention for Long-Horizon Video World Models**   
+Zhuokun Chen, Feng Chen, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2610.05739)\]\[[Code](https://github.com/Caesarhhh/HLA_)\]\[[Project Page](https://caesarhhh.github.io/hla-wm/)\]
+
 
 
 - **WorldAttention: An Efficient Attention Architecture for Interactive Video World Models**     
 Zeyu Zhang, Jinyuan Mao, Dakai An, Wangbo Zhao, Hanfeng Lu, Jiasheng Tang, Yinghao Yu, Wei Wang, Bohan Zhuang   
-\[[Paper](https://arxiv.org/abs/2609.34606)\]\[[Code](https://github.com/alibaba-damo-academy/WorldAttention)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldAttention/)\]  
+\[[Paper](https://arxiv.org/abs/2609.34606)\]\[[Code](https://github.com/alibaba-damo-academy/WorldAttention)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldAttention/)\]
+
+
+
+- **FlashQLA: Flash Qwen Linear Attention**   
+Chengruidong Zhang\*, Xi Lin\*, Huiqiang Jiang\*, Zekun Wang, Xiao Li, Yizhong Cao, Bohan Zhuang, Rui Men, Jianwei Zhang, Bo Zheng, Junyang Lin, Dayiheng Liu, Jingren Zhou  
+\[[Blog](https://qwen.ai/blog?id=flashqla)\]\[[Code](https://github.com/QwenLM/FlashQLA)\]\[[Zhihu](https://zhuanlan.zhihu.com/p/2032257808285028740)\]
+
 
 
 - **K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling**   
