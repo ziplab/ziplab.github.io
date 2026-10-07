@@ -22,7 +22,7 @@ author_profile: true
 [Xi Lin](https://erix025.me/) (Ph.D. @ Zhejiang University)  
 [Xiaoxuan He](https://scholar.google.com/citations?user=Q8EDNIgAAAAJ&hl=zh-CN) (Ph.D. @ Zhejiang University)  
 [Haoqian Meng](https://scholar.google.com/citations?user=pBW5B2kAAAAJ&hl=zh-CN) (Ph.D. @ Zhejiang University)  
-[Shiyuan Zhang](https://openreview.net/profile?id=~Shiyuan_Zhang4)(Ph.D. @ Zhejiang University)  
+[Shiyuan Zhang](https://shiyuanzhang.github.io/)(Ph.D. @ Zhejiang University)  
 [Haomin Zhang]()(Ph.D. @ Zhejiang University)
 
 [Yuanyu He](https://github.com/Yuanyu0) (M.S. @ Zhejiang University)  
