@@ -8,7 +8,7 @@ author_profile: true
 
 
 
-- **HLA: Hybrid Linear Attention for Long-Horizon Video World Models**    
+- **HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing**    
 Zhuokun Chen, Feng Chen, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang       
 \[[Paper](https://arxiv.org/abs/2610.05842)\]\[[Code](https://github.com/Caesarhhh/HLA_)\]\[[Project Page](https://caesarhhh.github.io/hla/)\]
 
@@ -42,10 +42,6 @@ Yuke Zhao, Wangbo Zhao, Weijie Wang, Zeyu Zhang, Dakai An, Akide Liu, Yinghao Yu
 \[[Paper](https://arxiv.org/abs/2606.11129)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)\]\[[Code](https://github.com/alibaba-damo-academy/WorldOlympiad)\]\[[HuggingFace](https://huggingface.co/papers/2606.11129)\]
 
 
-- **MiniMax Sparse Attention**  
-Xunhao Lai, Weiqi Xu, Yufeng Yang, Qiaorui Chen, Yang Xu, Lunbin Zeng, Xiaolong Li, Haohai Sun, Haichao Zhu, Vito Zhang, Jinkai Hu, Jiayao Li, Rui Gao, Zekun Li, Songquan Zhu, Jingkai Zhou, Pengyu Zhao  
-\[[Paper](https://arxiv.org/abs/2606.13392)\]\[[Code](https://github.com/MiniMax-AI/MSA)\]\[[HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-M3)\]
-
 
 - **Latent Spatial Memory for Video World Models**  
 Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang  
@@ -75,6 +71,11 @@ Pengfei Zhou, Zhiwei Tang, Yixing Ma, Jiasheng Tang, Yizeng Han, Zhenglin Wan, F
 - **TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**     
 Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
 \[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[Code](https://github.com/ziplab/TriSplat)\]
+
+
+- **MiniMax Sparse Attention**  
+Xunhao Lai, Weiqi Xu, Yufeng Yang, Qiaorui Chen, Yang Xu, Lunbin Zeng, Xiaolong Li, Haohai Sun, Haichao Zhu, Vito Zhang, Jinkai Hu, Jiayao Li, Rui Gao, Zekun Li, Songquan Zhu, Jingkai Zhou, Pengyu Zhao  
+\[[Paper](https://arxiv.org/abs/2606.13392)\]\[[Code](https://github.com/MiniMax-AI/MSA)\]\[[HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-M3)\]
 
 
 - **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
