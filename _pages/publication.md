@@ -25,6 +25,11 @@ Zeyu Zhang, Jinyuan Mao, Dakai An, Wangbo Zhao, Hanfeng Lu, Jiasheng Tang, Yingh
 \[[Paper](https://arxiv.org/abs/2609.34606)\]\[[Code](https://github.com/alibaba-damo-academy/WorldAttention)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldAttention/)\]
 
 
+- **MixTok: Adaptive Visual Tokenization with Global 1D Tokens and Sparse 2D Refinement**  
+Chenge Li, Yefei He, Xinyu Liu, Feng Chen, Hong Zhou, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2610.13181)\]\[[Code](https://github.com/LCGLiChenge/MixTok)\]\[[Project Page](https://lcglichenge.github.io/MixTok-page/)\]
+
+
 
 - **FlashQLA: Flash Qwen Linear Attention**   
 Chengruidong Zhang\*, Xi Lin\*, Huiqiang Jiang\*, Zekun Wang, Xiao Li, Yizhong Cao, Bohan Zhuang, Rui Men, Jianwei Zhang, Bo Zheng, Junyang Lin, Dayiheng Liu, Jingren Zhou  
