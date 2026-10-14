@@ -13,5 +13,7 @@ Welcome to ZIP Lab!
 
 Our lab pioneers next-generation efficient AI computing, specializing in large language models and multimodal foundation models.  
 
+<span style="color:red">Applications for Master’s and PhD admission in 2028 close on December 31, 2026. Late applications will not be considered.</span>
+
 
 
