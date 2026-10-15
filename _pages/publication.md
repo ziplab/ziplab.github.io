@@ -7,6 +7,11 @@ author_profile: true
 ## Preprint
 
 
+- **Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation**  
+Weijie Wang\*, Haomin Zhang\*, Ye Li, Akide Liu, Zeyu Zhang, Haoyu Zhao, Yefei He, Donny Y. Chen, Feng Chen, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2610.20571)\]\[[Code](https://github.com/ziplab/ATAS)\]\[[Project Page](https://lhmd.top/atas/)\]
+
+
 
 - **HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing**    
 Zhuokun Chen, Feng Chen, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang       
@@ -21,7 +26,7 @@ Zhuokun Chen, Feng Chen, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang
 
 
 - **WorldAttention: An Efficient Attention Architecture for Interactive Video World Models**     
-Zeyu Zhang, Jinyuan Mao, Dakai An, Wangbo Zhao, Hanfeng Lu, Jiasheng Tang, Yinghao Yu, Wei Wang, Bohan Zhuang   
+Zeyu Zhang\*, Jinyuan Mao\*, Dakai An, Wangbo Zhao, Hanfeng Lu, Jiasheng Tang, Yinghao Yu, Wei Wang, Bohan Zhuang   
 \[[Paper](https://arxiv.org/abs/2609.34606)\]\[[Code](https://github.com/alibaba-damo-academy/WorldAttention)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldAttention/)\]
 
 
@@ -38,18 +43,18 @@ Chengruidong Zhang\*, Xi Lin\*, Huiqiang Jiang\*, Zekun Wang, Xiao Li, Yizhong C
 
 
 - **K-Forcing: Joint Next-K-Token Decoding via Push-Forward Language Modeling**   
-Zhiwei Tang, Yuanyu He, Yizheng Han, Wangbo Zhao, Jiasheng Tang, Fan Wang, Bohan Zhuang    
+Zhiwei Tang\*, Yuanyu He\*, Yizheng Han, Wangbo Zhao, Jiasheng Tang, Fan Wang, Bohan Zhuang    
 \[[Paper](https://arxiv.org/abs/2606.10820)\]\[[Code](https://github.com/alibaba-damo-academy/K-Forcing)\]\[[HuggingFace](https://huggingface.co/zwave/K-Forcing)\]  
 
 
 - **WorldOlympiad: Can Your World Model Survive a Triathlon?**  
-Yuke Zhao, Wangbo Zhao, Weijie Wang, Zeyu Zhang, Dakai An, Akide Liu, Yinghao Yu, Jiasheng Tang, Fan Wang, Wei Wang, Bohan Zhuang  
+Yuke Zhao\*, Wangbo Zhao\*, Weijie Wang\*, Zeyu Zhang\*, Dakai An, Akide Liu, Yinghao Yu, Jiasheng Tang, Fan Wang, Wei Wang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2606.11129)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldOlympiad/)\]\[[Code](https://github.com/alibaba-damo-academy/WorldOlympiad)\]\[[HuggingFace](https://huggingface.co/papers/2606.11129)\]
 
 
 
 - **Latent Spatial Memory for Video World Models**  
-Weijie Wang, Haoyu Zhao, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang  
+Weijie Wang\*, Haoyu Zhao\*, Yifan Yang, Feng Chen, Zeyu Zhang, Yefei He, Zicheng Duan, Donny Y. Chen, Yuqing Yang, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2606.09828)\]\[[Project Page](https://microsoft.github.io/LatentSpatialMemory/)\]\[[Code](https://github.com/microsoft/LatentSpatialMemory)\]\[[HuggingFace](https://huggingface.co/papers/2606.09828)\]
 
 
@@ -74,7 +79,7 @@ Pengfei Zhou, Zhiwei Tang, Yixing Ma, Jiasheng Tang, Yizeng Han, Zhenglin Wan, F
 
 
 - **TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction**     
-Weijie Wang, Zimu Li, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
+Weijie Wang\*, Zimu Li\*, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Donny Y. Chen, Bohan Zhuang    
 \[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[Code](https://github.com/ziplab/TriSplat)\]
 
 
@@ -94,7 +99,7 @@ Bowen Cui\*, Weijie Wang\*, Zeyu Zhang, Yefei He, Mingda Lin, Haoyu Zhao, Yuanyu
 
 
 - **ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes**  
-Mingda Lin, Weijie Wang, Zeyu Zhang, Bowen Cui, Yefei He, Haoyu Zhao, Yuanyu He, Donny Y. Chen, Feng Chen, Bohan Zhuang
+Mingda Lin\*, Weijie Wang\*, Zeyu Zhang, Bowen Cui, Yefei He, Haoyu Zhao, Yuanyu He, Donny Y. Chen, Feng Chen, Bohan Zhuang
 \[[Paper](https://arxiv.org/abs/2609.01740)\]\[[Project Page](https://forthloth.github.io/ziptok3d/)\]\[[GitHub](https://github.com/ziplab/ZipTok3D)\]
 
 
