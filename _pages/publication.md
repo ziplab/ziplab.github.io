@@ -9,7 +9,7 @@ author_profile: true
 
 - **Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation**  
 Weijie Wang\*, Haomin Zhang\*, Ye Li, Akide Liu, Zeyu Zhang, Haoyu Zhao, Yefei He, Donny Y. Chen, Feng Chen, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2610.20571)\]\[[Code](https://github.com/ziplab/ATAS)\]\[[Project Page](https://lhmd.top/atas/)\]
+\[[Paper](https://huggingface.co/papers/2610.20571)\]\[[Code](https://github.com/ziplab/ATAS)\]\[[Project Page](https://lhmd.top/atas/)\]
 
 
 
