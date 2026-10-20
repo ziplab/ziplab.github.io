@@ -49,10 +49,9 @@ author_profile: true
 
 ## Allumini 
 [Zeyu Zhang](https://steve-zeyu-zhang.github.io/) (Research Assistant; B.S. @ Australian National University; Ph.D. Fall 2026 @ UC Berkeley)  
-[Yipeng Shen]() (Research Assistant; B.S. @ Zhejiang University; Ph.D. Fall 2026 @ Purdue University)  
-[Jinyuan Mao]() (Research Assistant; B.S. @ Zhejiang University)
-[Junkang Zhou](https://lxazjk.me/) (Research Assistant; B.S. @ Zhejiang University; Intern @ DeepSeek)
-
+[Yipeng Shen](https://scholar.google.com/citations?user=xTxvvEwAAAAJ&hl=en) (Research Assistant; B.S. @ Zhejiang University; Ph.D. Fall 2026 @ Purdue University)   
+[Junkang Zhou](https://lxazjk.me/) (Research Assistant; B.S. @ Zhejiang University; Intern @ DeepSeek)  
+[Jinyuan Mao](https://skeletalknight.github.io/) (Research Assistant; B.S. @ Zhejiang University; Intern @ PixAI)   
 
 
 
