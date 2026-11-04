@@ -4,35 +4,41 @@ author_profile: true
 ---
 (Selected Publications. * equal contribution)
 
+
 ## Preprint
+
+
+- **History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models**  
+Hangyi Kuang\*, Chengzhi Wang\*, Yefei He, Weijie Wang, Yuke Zhao, Zhuokun Chen, Zisu Huang, Yifan Yang, Xiaoxuan He, Feng Chen, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2611.02782)\]\[[Project Page](https://ziplab.co/History-Forcing-Project-Page/)\]\[[Code](https://github.com/ziplab/History-Forcing)\]
 
 
 - **Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation**  
 Weijie Wang\*, Haomin Zhang\*, Ye Li, Akide Liu, Zeyu Zhang, Haoyu Zhao, Yefei He, Donny Y. Chen, Feng Chen, Bohan Zhuang  
-\[[Paper](https://huggingface.co/papers/2610.20571)\]\[[Code](https://github.com/ziplab/ATAS)\]\[[Project Page](https://lhmd.top/atas/)\]
+\[[Paper](https://huggingface.co/papers/2610.20571)\]\[[Project Page](https://lhmd.top/atas/)\]\[[Code](https://github.com/ziplab/ATAS)\]
 
 
 
 - **HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing**    
 Zhuokun Chen, Feng Chen, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang       
-\[[Paper](https://arxiv.org/abs/2610.05842)\]\[[Code](https://github.com/Caesarhhh/HLA_)\]\[[Project Page](https://caesarhhh.github.io/hla/)\]
+\[[Paper](https://arxiv.org/abs/2610.05842)\]\[[Project Page](https://caesarhhh.github.io/hla/)\]\[[Code](https://github.com/Caesarhhh/HLA_)\]
 
 
 
 - **HLA-WM: Hybrid Linear Attention for Long-Horizon Video World Models**   
 Zhuokun Chen, Feng Chen, Xi Lin, Xiyu Wu, Jiahao He, Jianfei Cai, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2610.05739)\]\[[Code](https://github.com/Caesarhhh/HLA_)\]\[[Project Page](https://caesarhhh.github.io/hla-wm/)\]
+\[[Paper](https://arxiv.org/abs/2610.05739)\]\[[Project Page](https://caesarhhh.github.io/hla-wm/)\]\[[Code](https://github.com/Caesarhhh/HLA_)\]
 
 
 
 - **WorldAttention: An Efficient Attention Architecture for Interactive Video World Models**     
 Zeyu Zhang\*, Jinyuan Mao\*, Dakai An, Wangbo Zhao, Hanfeng Lu, Jiasheng Tang, Yinghao Yu, Wei Wang, Bohan Zhuang   
-\[[Paper](https://arxiv.org/abs/2609.34606)\]\[[Code](https://github.com/alibaba-damo-academy/WorldAttention)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldAttention/)\]
+\[[Paper](https://arxiv.org/abs/2609.34606)\]\[[Project Page](https://alibaba-damo-academy.github.io/WorldAttention/)\]\[[Code](https://github.com/alibaba-damo-academy/WorldAttention)\]
 
 
 - **MixTok: Adaptive Visual Tokenization with Global 1D Tokens and Sparse 2D Refinement**  
 Chenge Li, Yefei He, Xinyu Liu, Feng Chen, Hong Zhou, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2610.13181)\]\[[Code](https://github.com/LCGLiChenge/MixTok)\]\[[Project Page](https://lcglichenge.github.io/MixTok-page/)\]
+\[[Paper](https://arxiv.org/abs/2610.13181)\]\[[Project Page](https://lcglichenge.github.io/MixTok-page/)\]\[[Code](https://github.com/LCGLiChenge/MixTok)\]
 
 
 
@@ -109,18 +115,18 @@ Mingda Lin\*, Weijie Wang\*, Zeyu Zhang, Bowen Cui, Yefei He, Haoyu Zhao, Yuanyu
 
 - **World-R1: Reinforcing 3D Constraints for Text-to-Video Generation**    
 Weijie Wang\*, Xiaoxuan He\*, Youping Gu\*, Yifan Yang, Zeyu Zhang, Yefei He, Yanbo Ding, Xirui Hu, Donny Y. Chen, Zhiyuan He, Yuqing Yang, Bohan Zhuang   
-\[[Paper](https://arxiv.org/abs/2604.24764)\]\[[Code](https://github.com/microsoft/World-R1)\]\[[Project Page](https://aka.ms/world-r1)\]\[[HuggingFace](https://huggingface.co/papers/2604.24764)\]  **ICML 2026**
+\[[Paper](https://arxiv.org/abs/2604.24764)\]\[[Project Page](https://aka.ms/world-r1)\]\[[Code](https://github.com/microsoft/World-R1)\]\[[HuggingFace](https://huggingface.co/papers/2604.24764)\]  **ICML 2026**
 
 
 - **TriAttention: Efficient Long Reasoning with Trigonometric KV Compression**  
 Weian Mao\*, Xi Lin\*, Wei Huang\*, Yuxin Xie, Tianfu Fu, Bohan Zhuang, Song Han, Yukang Chen  
-\[[Paper](https://arxiv.org/abs/2604.04921)\]\[[Code](https://github.com/WeianMao/triattention)\]\[[Project Page](https://weianmao.github.io/tri-attention-project-page)\]\[[HuggingFace](https://huggingface.co/papers/2604.04921)\]  **ICML 2026**
+\[[Paper](https://arxiv.org/abs/2604.04921)\]\[[Project Page](https://weianmao.github.io/tri-attention-project-page)\]\[[Code](https://github.com/WeianMao/triattention)\]\[[HuggingFace](https://huggingface.co/papers/2604.04921)\]  **ICML 2026**
 
 
 
 - **Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization**       
 Xiaoxuan He, Siming Fu, Zeyue Xue, Weijie Wang, Ruizhe He, Yuming Li, Dacheng Yin, Shuai Dong, Haoyang Huang, Hongfa Wang, Nan Duan, Bohan Zhuang    
-\[[Paper](https://arxiv.org/abs/2605.15980)\]\[[Code](https://github.com/Shredded-Pork/Flash-GRPO)\]\[[Project Page](https://shredded-pork.github.io/Flash-GRPO.github.io/)\]\[[HuggingFace](https://huggingface.co/papers/2605.15980)\]  **ICML 2026**
+\[[Paper](https://arxiv.org/abs/2605.15980)\]\[[Project Page](https://shredded-pork.github.io/Flash-GRPO.github.io/)\]\[[Code](https://github.com/Shredded-Pork/Flash-GRPO)\]\[[HuggingFace](https://huggingface.co/papers/2605.15980)\]  **ICML 2026**
 
 
 
@@ -152,7 +158,7 @@ Wangbo Zhao, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Boh
 
 - **COV: Chain-of-View Prompting for Spatial Reasoning**  
 Haoyu Zhao, Akide Liu, Zeyu Zhang, Weijie Wang, Feng Chen, Ruihan Zhu, Gholamreza Haffari, Bohan Zhuang    
-\[[Paper](https://arxiv.org/abs/2601.05172)\]\[[Code](https://github.com/ziplab/CoV)\]\[[Project Page](https://ziplab.co/CoV/)\]\[[HuggingFace](https://huggingface.co/papers/2601.05172)\]   **ACL 2026 (Findings)**
+\[[Paper](https://arxiv.org/abs/2601.05172)\]\[[Project Page](https://ziplab.co/CoV/)\]\[[Code](https://github.com/ziplab/CoV)\]\[[HuggingFace](https://huggingface.co/papers/2601.05172)\]   **ACL 2026 (Findings)**
 
 
 - **Geometrically-Constrained Agent for Spatial Reasoning**  
@@ -167,7 +173,7 @@ Chenhui Gou, Ziyu Ma, Zicheng Duan, Haoyu He, Feng Chen, Akide Liu, Bohan Zhuang
 
 - **BIFE: Better Interaction, Fewer Errors for Minute-Long Video Generation**  
 Zeyu Zhang, Shuning Chang, Yuanyu He, Yizeng Han, Jiasheng Tang, Fan Wang, Bohan Zhuang  
-\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\]\[[Project Page](https://ziplab.co/BlockVid/)\] **SIGGRAPH Asia 2026 Technical Communications**
+\[[Paper](https://www.arxiv.org/abs/2511.22973)\]\[[Project Page](https://ziplab.co/BlockVid/)\]\[[Code](https://github.com/alibaba-damo-academy/Inferix)\] **SIGGRAPH Asia 2026 Technical Communications**
 
 
 - **Motion Anything: Any to Motion Generation**  
@@ -196,7 +202,7 @@ Yefei He, Feng Chen, Yuanyu He, Shaoxuan He, Hong Zhou, Kaipeng Zhang, Bohan Zhu
 
 - **T-Stitch: Accelerating Sampling in Pre-Trained Diffusion Models with Trajectory Stitching**  
 Zizheng Pan, Bohan Zhuang, De-An Huang, Weili Nie, Zhiding Yu, Chaowei Xiao, Jianfei Cai, Anima Anandkumar  
-\[[Paper](https://arxiv.org/abs/2402.14167)\]\[[Code](https://github.com/NVlabs/T-Stitch)\]\[[Project Page](https://t-stitch.github.io/)\] **ICLR 2025**
+\[[Paper](https://arxiv.org/abs/2402.14167)\]\[[Project Page](https://t-stitch.github.io/)\]\[[Code](https://github.com/NVlabs/T-Stitch)\] **ICLR 2025**
 
 
 - **Are Large Vision Language Models Good Game Players?**  
@@ -206,7 +212,7 @@ Xinyu Wang, Bohan Zhuang, Qi Wu
 
 - **Neighboring Autoregressive Modeling for Efficient Visual Generation**  
 Yefei He\*, Yuanyu He\*, Shaoxuan He\*, Feng Chen\*, Hong Zhou, Kaipeng Zhang, Bohan Zhuang   
-\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]\[[Project Page](https://yuanyu0.github.io/nar/)\]  **ICCV 2025**
+\[[Paper](https://arxiv.org/pdf/2503.10696)\]\[[Project Page](https://yuanyu0.github.io/nar/)\]\[[Code](https://github.com/ThisisBillhe/NAR)\]  **ICCV 2025**
 
 
 - **ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification**  
@@ -226,7 +232,7 @@ Mingyang Zhang, Jing Liu, Ganggui Ding, Xinyi Yu, Linlin Ou, Bohan Zhuang
 
 - **PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation**  
 Xiaolong Li\*, Youping Gu\*, Xi Lin\*, Weijie Wang, Bohan Zhuang  
-\[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]\[[Project Page](https://ziplab.co/PSA/)\]
+\[[Paper](https://arxiv.org/abs/2512.04025)\]\[[Project Page](https://ziplab.co/PSA/)\]\[[Code](https://github.com/ziplab/Pyramid-Sparse-Attention)\]
 
 
 - **R-Stitch: Dynamic Trajectory Stitching for Efficient Reasoning**  
