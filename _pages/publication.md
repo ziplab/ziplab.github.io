@@ -156,6 +156,11 @@ Wangbo Zhao, Yizeng Han, Zhiwei Tang, Jiasheng Tang, Pengfei Zhou, Kai Wang, Boh
 \[[Paper](https://openreview.net/forum?id=sQ0g6EkpF7)\]   **ICLR 2026**
 
 
+- **Dynamics-Aware Sparse Attention for Efficient Autoregressive Video Diffusion**  
+Yuanyu He\*, Zhuokun Chen\*, Yefei He, Zhiwei Tang, Jiasheng Tang, Yinghao Yu, Jianfei Cai, Bohan Zhuang  
+\[[Paper](https://arxiv.org/abs/2610.26262)\]\[[Project Page](https://yuanyu0.github.io/DASA/)\] **NeurIPS 2026** 
+
+
 - **COV: Chain-of-View Prompting for Spatial Reasoning**  
 Haoyu Zhao, Akide Liu, Zeyu Zhang, Weijie Wang, Feng Chen, Ruihan Zhu, Gholamreza Haffari, Bohan Zhuang    
 \[[Paper](https://arxiv.org/abs/2601.05172)\]\[[Project Page](https://ziplab.co/CoV/)\]\[[Code](https://github.com/ziplab/CoV)\]\[[HuggingFace](https://huggingface.co/papers/2601.05172)\]   **ACL 2026 (Findings)**
