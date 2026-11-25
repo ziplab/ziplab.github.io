@@ -88,10 +88,6 @@ Weijie Wang\*, Zimu Li\*, Jinchuan Shi, Zeyu Zhang, Botao Ye, Marc Pollefeys, Do
 \[[Paper](https://arxiv.org/abs/2605.26115)\]\[[Project Page](https://lhmd.top/trisplat/#interactive)\]\[[Code](https://github.com/ziplab/TriSplat)\]
 
 
-- **MiniMax Sparse Attention**  
-Xunhao Lai, Weiqi Xu, Yufeng Yang, Qiaorui Chen, Yang Xu, Lunbin Zeng, Xiaolong Li, Haohai Sun, Haichao Zhu, Vito Zhang, Jinkai Hu, Jiayao Li, Rui Gao, Zekun Li, Songquan Zhu, Jingkai Zhou, Pengyu Zhao  
-\[[Paper](https://arxiv.org/abs/2606.13392)\]\[[Code](https://github.com/MiniMax-AI/MSA)\]\[[HuggingFace](https://huggingface.co/MiniMaxAI/MiniMax-M3)\]
-
 
 - **Feed-Forward 3D Scene Modeling: A Problem-Driven Perspective**   
 Weijie Wang\*, Qihang Cao\*, Sensen Gao\*, Donny Y. Chen, Haofei Xu, Wenjing Bian, Songyou Peng, Tat-Jen Cham, Chuanxia Zheng, Andreas Geiger, Jianfei Cai, Jia-Wang Bian, Bohan Zhuang  
