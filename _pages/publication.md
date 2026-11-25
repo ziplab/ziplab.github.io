@@ -8,6 +8,11 @@ author_profile: true
 ## Preprint
 
 
+- **FlashQLA: Efficient Context Parallelism for Gated DeltaNet**    
+Xi Lin\*, Chengruidong Zhang\*, Huiqiang Jiang, Xiao Li, Zekun Wang, Junda Feng, Yunfei Mao, Siqi Zhang, Siyu Wang, Man Yuan, Rui Men, Bo Zheng, Dayiheng Liu, Bohan Zhuang, Jianwei Zhang   
+\[[Paper](https://arxiv.org/abs/2611.32039)\]\[[Blog](https://qwen.ai/blog?id=flashqla)\]\[[Code](https://github.com/QwenLM/FlashQLA)\]\[[Zhihu](https://zhuanlan.zhihu.com/p/2032257808285028740)\]  
+
+
 - **History Forcing: Distilling History-Dependent Continuations for Long-Horizon Video World Models**  
 Hangyi Kuang\*, Chengzhi Wang\*, Yefei He, Weijie Wang, Yuke Zhao, Zhuokun Chen, Zisu Huang, Yifan Yang, Xiaoxuan He, Feng Chen, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2611.02782)\]\[[Project Page](https://ziplab.co/History-Forcing-Project-Page/)\]\[[Code](https://github.com/ziplab/History-Forcing)\]
@@ -39,12 +44,6 @@ Zeyu Zhang\*, Jinyuan Mao\*, Dakai An, Wangbo Zhao, Hanfeng Lu, Jiasheng Tang, Y
 - **MixTok: Adaptive Visual Tokenization with Global 1D Tokens and Sparse 2D Refinement**  
 Chenge Li, Yefei He, Xinyu Liu, Feng Chen, Hong Zhou, Bohan Zhuang  
 \[[Paper](https://arxiv.org/abs/2610.13181)\]\[[Project Page](https://lcglichenge.github.io/MixTok-page/)\]\[[Code](https://github.com/LCGLiChenge/MixTok)\]
-
-
-
-- **FlashQLA: Flash Qwen Linear Attention**   
-Chengruidong Zhang\*, Xi Lin\*, Huiqiang Jiang\*, Zekun Wang, Xiao Li, Yizhong Cao, Bohan Zhuang, Rui Men, Jianwei Zhang, Bo Zheng, Junyang Lin, Dayiheng Liu, Jingren Zhou  
-\[[Blog](https://qwen.ai/blog?id=flashqla)\]\[[Code](https://github.com/QwenLM/FlashQLA)\]\[[Zhihu](https://zhuanlan.zhihu.com/p/2032257808285028740)\]
 
 
 
